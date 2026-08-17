@@ -1,0 +1,3269 @@
+{
+  "a": {
+    "translation": "一个"
+  },
+  "about": {
+    "translation": "关于"
+  },
+  "above": {
+    "translation": "在…上方"
+  },
+  "abraham": {
+    "translation": "亚伯拉罕",
+    "civicsNote": "亚伯拉罕·林肯是美国内战时期的总统，他废除了奴隶制。"
+  },
+  "acceptable": {
+    "translation": "可接受的"
+  },
+  "act": {
+    "translation": "法令；行为",
+    "civicsNote": "考试中通常指国会通过的一项'法令'（例如《宅地法》Homestead Act）。"
+  },
+  "active": {
+    "translation": "活跃的；积极的"
+  },
+  "add": {
+    "translation": "添加；加"
+  },
+  "addition": {
+    "translation": "附加；补充"
+  },
+  "address": {
+    "translation": "演讲；讲话",
+    "civicsNote": "这里的'address'指林肯《葛底斯堡演说》(Gettysburg Address)这样的正式政治演讲。"
+  },
+  "administration": {
+    "translation": "政府；行政部门",
+    "civicsNote": "通常指某位总统领导下的政府/管理团队。"
+  },
+  "administrator": {
+    "translation": "管理者；行政官",
+    "civicsNote": "可指某个政府机构的负责人。"
+  },
+  "adopt": {
+    "translation": "采纳；通过",
+    "civicsNote": "指宪法或宪法修正案被正式通过、采纳。"
+  },
+  "advice": {
+    "translation": "建议",
+    "civicsNote": "宪法中的'advice and consent'（建议与同意）指总统必须获得参议院的这项批准。"
+  },
+  "advise": {
+    "translation": "建议；劝告"
+  },
+  "affair": {
+    "translation": "事务",
+    "civicsNote": "'foreign affairs'（对外事务）指一个国家与其他国家的关系，即外交事务。"
+  },
+  "afghanistan": {
+    "translation": "阿富汗"
+  },
+  "africa": {
+    "translation": "非洲"
+  },
+  "african": {
+    "translation": "非洲的；非洲人"
+  },
+  "after": {
+    "translation": "在…之后"
+  },
+  "again": {
+    "translation": "再次"
+  },
+  "against": {
+    "translation": "反对；对抗"
+  },
+  "age": {
+    "translation": "年龄",
+    "civicsNote": "考试中通常出现在投票或申请公民身份所需年龄的语境中。"
+  },
+  "agency": {
+    "translation": "（政府）机构"
+  },
+  "ago": {
+    "translation": "以前"
+  },
+  "agree": {
+    "translation": "同意"
+  },
+  "agriculture": {
+    "translation": "农业"
+  },
+  "aide": {
+    "translation": "助手；助理"
+  },
+  "aim": {
+    "translation": "目标；瞄准"
+  },
+  "airplane": {
+    "translation": "飞机"
+  },
+  "alexander": {
+    "translation": "亚历山大",
+    "civicsNote": "亚历山大·汉密尔顿是宪法的起草人之一，也是美国首任财政部长。"
+  },
+  "all": {
+    "translation": "所有；全部"
+  },
+  "allegiance": {
+    "translation": "效忠；忠诚",
+    "civicsNote": "《效忠誓词》(Pledge of Allegiance)是对美国国旗和国家的忠诚宣誓。"
+  },
+  "allied": {
+    "translation": "结盟的；联合的",
+    "civicsNote": "第二次世界大战中的'盟军'(Allied Powers)指美国、英国、苏联等结盟对抗轴心国的国家。"
+  },
+  "along": {
+    "translation": "沿着"
+  },
+  "also": {
+    "translation": "也；同样"
+  },
+  "always": {
+    "translation": "总是"
+  },
+  "amend": {
+    "translation": "修正；修改",
+    "civicsNote": "'修正案'(amendment)是对美国宪法所做的正式更改（例如第一修正案）。"
+  },
+  "america": {
+    "translation": "美国；美洲"
+  },
+  "american": {
+    "translation": "美国的；美国人"
+  },
+  "an": {
+    "translation": "一个（用于元音音开头的词前）"
+  },
+  "and": {
+    "translation": "和；与"
+  },
+  "angry": {
+    "translation": "生气的"
+  },
+  "answer": {
+    "translation": "答案；回答"
+  },
+  "anthem": {
+    "translation": "国歌",
+    "civicsNote": "《星条旗永不落》(The Star-Spangled Banner)是美国的国歌(national anthem)。"
+  },
+  "anthony": {
+    "translation": "安东尼",
+    "civicsNote": "苏珊·B·安东尼(Susan B. Anthony)是为妇女争取投票权而奋斗的重要人物。"
+  },
+  "anti-federalist": {
+    "translation": "反联邦党人",
+    "civicsNote": "反对批准宪法、主张维护各州权力的历史政治派别。"
+  },
+  "antietam": {
+    "translation": "安提塔姆",
+    "civicsNote": "是美国内战中的重要战役之一。"
+  },
+  "any": {
+    "translation": "任何"
+  },
+  "anymore": {
+    "translation": "不再"
+  },
+  "anyone": {
+    "translation": "任何人"
+  },
+  "apache": {
+    "translation": "阿帕奇族",
+    "civicsNote": "是居住在美国的原住民（印第安）部落之一。"
+  },
+  "applicant": {
+    "translation": "申请人",
+    "civicsNote": "指申请公民身份或参加公民考试的人。"
+  },
+  "appoint": {
+    "translation": "任命",
+    "civicsNote": "指总统任命法官、部长等官员的权力。"
+  },
+  "appomattox": {
+    "translation": "阿波马托克斯",
+    "civicsNote": "是罗伯特·E·李投降之地，标志着内战的结束。"
+  },
+  "approve": {
+    "translation": "批准；同意"
+  },
+  "be": {
+    "translation": "是（动词be）"
+  },
+  "arlington": {
+    "translation": "阿灵顿",
+    "civicsNote": "阿灵顿国家公墓是安葬美国军人的重要场所。"
+  },
+  "arm": {
+    "translation": "武器",
+    "civicsNote": "'持有武器的权利'(the right to bear arms)指第二修正案保障的携带武器的权利。"
+  },
+  "army": {
+    "translation": "陆军；军队"
+  },
+  "around": {
+    "translation": "在…周围；大约"
+  },
+  "arrive": {
+    "translation": "到达"
+  },
+  "article": {
+    "translation": "条款；条",
+    "civicsNote": "美国宪法的各主要部分被称为'Articles'（条）。"
+  },
+  "as": {
+    "translation": "作为；因为"
+  },
+  "ask": {
+    "translation": "问；询问"
+  },
+  "assassinate": {
+    "translation": "刺杀",
+    "civicsNote": "指林肯总统遭刺杀身亡这一历史事件。"
+  },
+  "assembly": {
+    "translation": "集会",
+    "civicsNote": "'集会自由'(Freedom of assembly)是第一修正案保障的权利之一。"
+  },
+  "associate": {
+    "translation": "副的；联席的",
+    "civicsNote": "'联席大法官'(Associate Justice)指最高法院中除首席大法官外的另外八位大法官。"
+  },
+  "at": {
+    "translation": "在（某地/某时）"
+  },
+  "attack": {
+    "translation": "攻击；袭击",
+    "civicsNote": "常出现在珍珠港事件或9/11袭击等历史事件的语境中。"
+  },
+  "attorney": {
+    "translation": "律师",
+    "civicsNote": "'司法部长'(Attorney General)是内阁中负责法律事务的官员。"
+  },
+  "austria-hungary": {
+    "translation": "奥匈帝国",
+    "civicsNote": "是第一次世界大战中与美国交战的帝国之一。"
+  },
+  "automobile": {
+    "translation": "汽车"
+  },
+  "axis": {
+    "translation": "轴心国",
+    "civicsNote": "第二次世界大战中由德国、意大利和日本组成、与盟军对抗的联盟。"
+  },
+  "bad": {
+    "translation": "坏的；不好的"
+  },
+  "balance": {
+    "translation": "平衡；制衡",
+    "civicsNote": "'制衡'(checks and balances)是使政府各部门权力相互制约、保持平衡的制度。"
+  },
+  "bank": {
+    "translation": "银行"
+  },
+  "banner": {
+    "translation": "旗；横幅",
+    "civicsNote": "《星条旗永不落》(The Star-Spangled Banner)是美国国歌的名称。"
+  },
+  "baseball": {
+    "translation": "棒球"
+  },
+  "basic": {
+    "translation": "基本的"
+  },
+  "battle": {
+    "translation": "战役；战斗",
+    "civicsNote": "考试中通常出现在南北战争的重要战役（如安提塔姆战役）语境中。"
+  },
+  "bear": {
+    "translation": "携带；承受",
+    "civicsNote": "'持有武器的权利'(the right to bear arms)即携带武器的权利（第二修正案）。"
+  },
+  "beat": {
+    "translation": "打；击败"
+  },
+  "become": {
+    "translation": "成为",
+    "civicsNote": "通常用于'成为公民'(become a citizen)的语境中。"
+  },
+  "because": {
+    "translation": "因为"
+  },
+  "before": {
+    "translation": "在…之前"
+  },
+  "belong": {
+    "translation": "属于",
+    "civicsNote": "'权力属于人民'(power belongs to the people)指权力属于人民，即人民主权。"
+  },
+  "below": {
+    "translation": "在…下方"
+  },
+  "benjamin": {
+    "translation": "本杰明",
+    "civicsNote": "本杰明·富兰克林是宪法的签署人之一，也是美国首位驻法国大使。"
+  },
+  "better": {
+    "translation": "更好的"
+  },
+  "between": {
+    "translation": "在…之间"
+  },
+  "big": {
+    "translation": "大的"
+  },
+  "bill": {
+    "translation": "法案",
+    "civicsNote": "国会对'法案'(bill)进行投票；一旦通过并经总统签署，就成为法律(law)。"
+  },
+  "birthday": {
+    "translation": "生日",
+    "civicsNote": "公民身份申请和面谈中会被问到出生日期。"
+  },
+  "black": {
+    "translation": "黑色"
+  },
+  "blackfeet": {
+    "translation": "黑脚族",
+    "civicsNote": "是回答'说出一个居住在美国的印第安部落名称'这一问题的可接受答案之一。"
+  },
+  "board": {
+    "translation": "登上（船、车、飞机）",
+    "civicsNote": "在波士顿倾茶事件中，殖民者登上(boarding)英国船只，把茶叶扔进海里。"
+  },
+  "bomb": {
+    "translation": "炸弹；轰炸",
+    "civicsNote": "日本轰炸珍珠港，促使美国参加了第二次世界大战。"
+  },
+  "born": {
+    "translation": "出生的",
+    "civicsNote": "'natural born citizen'（天生公民）指必须在美国出生才能担任总统的条件。"
+  },
+  "boss": {
+    "translation": "老板"
+  },
+  "boston": {
+    "translation": "波士顿",
+    "civicsNote": "是波士顿倾茶事件(Boston Tea Party)发生的城市。"
+  },
+  "both": {
+    "translation": "两者都"
+  },
+  "buy": {
+    "translation": "购买"
+  },
+  "branch": {
+    "translation": "分支；部门",
+    "civicsNote": "美国政府有三个分支(branch)：立法(legislative)、行政(executive)和司法(judicial)。"
+  },
+  "britain": {
+    "translation": "英国",
+    "civicsNote": "美国于1776年7月4日宣布从英国独立。"
+  },
+  "british": {
+    "translation": "英国的"
+  },
+  "brother": {
+    "translation": "兄弟"
+  },
+  "budget": {
+    "translation": "预算",
+    "civicsNote": "国会拥有征税和确定国家预算的权力。"
+  },
+  "build": {
+    "translation": "建造"
+  },
+  "bulb": {
+    "translation": "灯泡",
+    "civicsNote": "灯泡是托马斯·爱迪生的发明之一，在历史内容中可能被提到。"
+  },
+  "bulgaria": {
+    "translation": "保加利亚"
+  },
+  "bunker": {
+    "translation": "地堡；掩体",
+    "civicsNote": "'邦克山战役'(Battle of Bunker Hill)是美国独立战争早期的重要战斗之一。"
+  },
+  "business": {
+    "translation": "商业；生意"
+  },
+  "but": {
+    "translation": "但是"
+  },
+  "by": {
+    "translation": "被；由"
+  },
+  "cabinet": {
+    "translation": "内阁",
+    "civicsNote": "内阁由协助总统的各部部长组成（例如国务卿）。"
+  },
+  "cabinet-level": {
+    "translation": "内阁级的"
+  },
+  "cady": {
+    "translation": "凯迪",
+    "civicsNote": "伊丽莎白·凯迪·斯坦顿(Elizabeth Cady Stanton)是捍卫妇女权利的历史人物，考试中可能出现这个名字。"
+  },
+  "call": {
+    "translation": "称呼；打电话"
+  },
+  "come": {
+    "translation": "来"
+  },
+  "campaign": {
+    "translation": "竞选活动"
+  },
+  "can": {
+    "translation": "能；可以"
+  },
+  "cannot": {
+    "translation": "不能；不可以"
+  },
+  "capital": {
+    "translation": "首都；首府",
+    "civicsNote": "华盛顿哥伦比亚特区是美国的首都(national capital)。"
+  },
+  "capitalism": {
+    "translation": "资本主义",
+    "civicsNote": "'美国的经济制度是什么？'这一问题的答案之一是'资本主义经济/市场经济'。"
+  },
+  "capture": {
+    "translation": "捕获；占领"
+  },
+  "carolina": {
+    "translation": "卡罗来纳",
+    "civicsNote": "北卡罗来纳和南卡罗来纳是最初13个殖民地中的两个。"
+  },
+  "carry": {
+    "translation": "携带"
+  },
+  "car": {
+    "translation": "汽车"
+  },
+  "case": {
+    "translation": "案件"
+  },
+  "cayuga": {
+    "translation": "卡尤加族",
+    "civicsNote": "是易洛魁联盟(Iroquois Confederacy)成员之一的印第安部落。"
+  },
+  "celebrate": {
+    "translation": "庆祝"
+  },
+  "center": {
+    "translation": "中心"
+  },
+  "central": {
+    "translation": "中央的；核心的",
+    "civicsNote": "在美国，权力由中央（联邦）政府和州政府共同分享，这就是联邦制。"
+  },
+  "change": {
+    "translation": "改变",
+    "civicsNote": "对宪法所做的正式更改称为'修正案'(amendment)；前十条修正案就是《权利法案》(Bill of Rights)。"
+  },
+  "character": {
+    "translation": "品格",
+    "civicsNote": "'良好的道德品格'(good moral character)是申请公民身份所要求的条件之一。"
+  },
+  "charge": {
+    "translation": "负责；主管",
+    "civicsNote": "'in charge of'表示'负责/主管某事'；例如总统负责行政部门。"
+  },
+  "check": {
+    "translation": "制约",
+    "civicsNote": "'制衡'(checks and balances)是使政府每个部门都能限制其他部门权力的制度。"
+  },
+  "cherokee": {
+    "translation": "切罗基族"
+  },
+  "cheyenne": {
+    "translation": "夏延族"
+  },
+  "chief": {
+    "translation": "首领；首席",
+    "civicsNote": "'总司令'(Commander in Chief)是总统作为军队最高指挥官的角色；'首席大法官'(Chief Justice)则是最高法院的负责人。"
+  },
+  "chippewa": {
+    "translation": "奇珮瓦族（奥吉布瓦族）"
+  },
+  "choctaw": {
+    "translation": "乔克托族"
+  },
+  "choose": {
+    "translation": "选择",
+    "civicsNote": "公民通过投票(voting)选出自己的代表。"
+  },
+  "christmas": {
+    "translation": "圣诞节",
+    "civicsNote": "在美国是官方的联邦节日(national holiday)。"
+  },
+  "circuit": {
+    "translation": "巡回区；巡回法院",
+    "civicsNote": "'巡回法院'(Circuit Court)是美国联邦司法系统中的地区上诉法院之一。"
+  },
+  "citizen": {
+    "translation": "公民"
+  },
+  "citizenship": {
+    "translation": "公民身份",
+    "civicsNote": "指本考试所涉及的美国公民身份及其申请流程。"
+  },
+  "city": {
+    "translation": "城市"
+  },
+  "civic": {
+    "translation": "公民的",
+    "civicsNote": "'公民义务'(civic duty)指投票等公民应履行的责任。"
+  },
+  "civil": {
+    "translation": "民间的；平民的",
+    "civicsNote": "'内战'(Civil War, 1861-1865)是美国南方和北方各州之间的战争。'民权'(civil rights)指公民的基本权利。"
+  },
+  "civilian": {
+    "translation": "平民；文职的",
+    "civicsNote": "总统是领导军队的文职（非军人）领导人，即军队受文职控制(civilian control of the military)。"
+  },
+  "close": {
+    "translation": "近的；接近"
+  },
+  "coast": {
+    "translation": "海岸"
+  },
+  "coercive": {
+    "translation": "强制性的",
+    "civicsNote": "'强制法令'(Coercive Acts，又称不可容忍法令Intolerable Acts)是英国在波士顿倾茶事件后针对殖民地颁布的惩罚性法律。"
+  },
+  "coin": {
+    "translation": "硬币",
+    "civicsNote": "美国货币上印有'我们信仰上帝'(In God We Trust)和'合众为一'(E Pluribus Unum)字样。"
+  },
+  "cold": {
+    "translation": "冷的",
+    "civicsNote": "'冷战'(Cold War, 1947-1991)是美国与苏联之间的长期对峙；考试中'美国在冷战期间的主要担忧是什么？'这一问题的答案是'共产主义'。"
+  },
+  "college": {
+    "translation": "学院",
+    "civicsNote": "'选举人团'(Electoral College)是正式选举总统的机构。"
+  },
+  "colony": {
+    "translation": "殖民地",
+    "civicsNote": "最初的13个殖民地(13 original colonies)是构成美国的英国殖民地。"
+  },
+  "colonist": {
+    "translation": "殖民者",
+    "civicsNote": "殖民者因高额赋税以及'无代表不纳税'(taxation without representation)问题而与英国交战。"
+  },
+  "color": {
+    "translation": "颜色",
+    "civicsNote": "美国国旗的颜色是红色、白色和蓝色。"
+  },
+  "columbia": {
+    "translation": "哥伦比亚",
+    "civicsNote": "华盛顿特区的正式名称是'哥伦比亚特区'(District of Columbia)。"
+  },
+  "columbus": {
+    "translation": "哥伦布",
+    "civicsNote": "是1492年到达美洲大陆的探险家；哥伦布日就是为纪念他而设立的。"
+  },
+  "combustion": {
+    "translation": "燃烧"
+  },
+  "commander": {
+    "translation": "指挥官",
+    "civicsNote": "总统是美国军队的最高指挥官(Commander in Chief)。"
+  },
+  "commerce": {
+    "translation": "商业；贸易",
+    "civicsNote": "国会有权规范州与州之间以及与外国之间的贸易。"
+  },
+  "commissioner": {
+    "translation": "专员；委员"
+  },
+  "communism": {
+    "translation": "共产主义",
+    "civicsNote": "冷战期间，美国的主要担忧(main concern)就是共产主义。"
+  },
+  "community": {
+    "translation": "社区"
+  },
+  "compact": {
+    "translation": "协议；公约",
+    "civicsNote": "《五月花号公约》(Mayflower Compact)是1620年由清教徒移民签署的第一份自治协议。"
+  },
+  "complete": {
+    "translation": "完成"
+  },
+  "compromise": {
+    "translation": "妥协",
+    "civicsNote": "制宪会议上的'大妥协'(Great Compromise)解决了大州和小州在国会代表席位问题上的分歧。"
+  },
+  "concern": {
+    "translation": "担忧",
+    "civicsNote": "'美国在冷战期间的主要担忧(main concern)是什么？'这一问题的答案是'共产主义'。"
+  },
+  "condition": {
+    "translation": "状况；条件"
+  },
+  "confederacy": {
+    "translation": "南方邦联",
+    "civicsNote": "指内战(Civil War)中与北方对抗的南方各州联盟。"
+  },
+  "confederate": {
+    "translation": "邦联的",
+    "civicsNote": "指内战中支持南方各州一方的人或事物。"
+  },
+  "confederation": {
+    "translation": "邦联",
+    "civicsNote": "《邦联条例》(Articles of Confederation)是1789年宪法生效之前美国最早的施政文件。"
+  },
+  "conflict": {
+    "translation": "冲突"
+  },
+  "congress": {
+    "translation": "国会",
+    "civicsNote": "是美国的立法机构(legislative branch)，由参议院和众议院组成。"
+  },
+  "congressional": {
+    "translation": "国会的",
+    "civicsNote": "常出现在'国会选区'(congressional district)这样的说法中，指一位众议院议员所代表的选区。"
+  },
+  "connecticut": {
+    "translation": "康涅狄格州",
+    "civicsNote": "康涅狄格是构成美利坚合众国的最初13个殖民地之一。"
+  },
+  "consent": {
+    "translation": "同意",
+    "civicsNote": "根据《独立宣言》，政府的权力来自'被统治者的同意'，也就是人民的认可。"
+  },
+  "constitution": {
+    "translation": "宪法",
+    "civicsNote": "指1787年制定、作为国家最高法律的美国宪法。"
+  },
+  "constitution-based": {
+    "translation": "以宪法为基础的",
+    "civicsNote": "用于描述美国政府：'以宪法为基础的联邦共和国'。"
+  },
+  "constitutional": {
+    "translation": "宪法的；合乎宪法的",
+    "civicsNote": "可能与1787年制定美国宪法的制宪会议(Constitutional Convention)有关。"
+  },
+  "contact": {
+    "translation": "联系"
+  },
+  "content": {
+    "translation": "内容"
+  },
+  "continental": {
+    "translation": "大陆的",
+    "civicsNote": "与乔治·华盛顿指挥的“大陆军”（Continental Army）以及殖民地领袖们召开的“大陆会议”（Continental Congress）有关。"
+  },
+  "contract": {
+    "translation": "合同"
+  },
+  "control": {
+    "translation": "控制",
+    "civicsNote": "与“权力制衡机制”（checks and balances）有关，该机制确保任何一个政府部门都不会权力过大，以至于其他部门无法对其加以约束。"
+  },
+  "convention": {
+    "translation": "会议；大会",
+    "civicsNote": "指1787年在费城召开、用于制定宪法的“制宪会议”（Constitutional Convention）。"
+  },
+  "convince": {
+    "translation": "说服",
+    "civicsNote": "托马斯·潘恩（Thomas Paine）的小册子《常识》（Common Sense）说服了许多殖民地居民支持脱离英国独立。"
+  },
+  "could": {
+    "translation": "能；可以（can的过去式）"
+  },
+  "count": {
+    "translation": "数数；统计",
+    "civicsNote": "可能指人口统计，例如美国每十年进行一次的人口普查（Census）。"
+  },
+  "country": {
+    "translation": "国家"
+  },
+  "court": {
+    "translation": "法院",
+    "civicsNote": "通常指美国最高级别的法院——最高法院（Supreme Court）。"
+  },
+  "crash": {
+    "translation": "崩盘；暴跌",
+    "civicsNote": "指1929年的股市崩盘（stock market crash），这次崩盘引发了大萧条（Great Depression）。"
+  },
+  "create": {
+    "translation": "创造"
+  },
+  "creek": {
+    "translation": "克里克族",
+    "civicsNote": "是“请说出美国的一个印第安部落名称”这道考题的可能答案之一。"
+  },
+  "crisis": {
+    "translation": "危机"
+  },
+  "crossing": {
+    "translation": "穿越；横渡",
+    "civicsNote": "可能与乔治·华盛顿1776年“横渡特拉华河”（Washington Crossing the Delaware）一事有关。"
+  },
+  "crow": {
+    "translation": "克罗族",
+    "civicsNote": "是“请说出美国的一个印第安部落名称”这道考题的可能答案之一。"
+  },
+  "d.c.": {
+    "translation": "哥伦比亚特区",
+    "civicsNote": "华盛顿哥伦比亚特区（Washington, D.C.）是美国的首都，但特区（D.C.）不是美国50个州中的一个。"
+  },
+  "danger": {
+    "translation": "危险"
+  },
+  "day": {
+    "translation": "日；天",
+    "civicsNote": "出现在美国法定节日名称中，例如独立日（Independence Day）、忠烈将士纪念日（Memorial Day）和总统日（Presidents Day）。"
+  },
+  "deal": {
+    "translation": "协议；政策",
+    "civicsNote": "指“新政”（New Deal），即富兰克林·罗斯福总统为帮助结束大萧条而推行的一系列计划。"
+  },
+  "decide": {
+    "translation": "决定"
+  },
+  "decision": {
+    "translation": "决定"
+  },
+  "declaration": {
+    "translation": "宣言",
+    "civicsNote": "指1776年签署的《独立宣言》（Declaration of Independence），宣告美国脱离英国获得自由。"
+  },
+  "declare": {
+    "translation": "宣布",
+    "civicsNote": "国会拥有宣战的权力。"
+  },
+  "defend": {
+    "translation": "保卫；捍卫",
+    "civicsNote": "是效忠誓词（Oath of Allegiance）的一部分：新公民承诺将“捍卫”美国宪法。"
+  },
+  "defense": {
+    "translation": "国防；防御",
+    "civicsNote": "国防部（Department of Defense）是美国政府内阁级部门之一。"
+  },
+  "delaware": {
+    "translation": "特拉华州",
+    "civicsNote": "特拉华州是第一个批准（通过）美国宪法的州。"
+  },
+  "delegate": {
+    "translation": "代表",
+    "civicsNote": "各州派出的代表参加了1787年的制宪会议，负责制定宪法。"
+  },
+  "deliver": {
+    "translation": "递送；发表"
+  },
+  "democracy": {
+    "translation": "民主"
+  },
+  "department": {
+    "translation": "部；部门",
+    "civicsNote": "总统的内阁包括国务院（Department of State）和国防部（Department of Defense）等各个部。"
+  },
+  "depression": {
+    "translation": "经济萧条；大萧条",
+    "civicsNote": "指大萧条（Great Depression），美国在20世纪30年代经历的一段非常艰难的经济时期。"
+  },
+  "derive": {
+    "translation": "源自；衍生",
+    "civicsNote": "根据《独立宣言》，政府的权力“源自被统治者的同意”。"
+  },
+  "describe": {
+    "translation": "描述"
+  },
+  "development": {
+    "translation": "发展"
+  },
+  "do": {
+    "translation": "做（助动词）"
+  },
+  "die": {
+    "translation": "死亡"
+  },
+  "different": {
+    "translation": "不同的"
+  },
+  "diplomat": {
+    "translation": "外交官",
+    "civicsNote": "本杰明·富兰克林以身为美国外交官而闻名。"
+  },
+  "directly": {
+    "translation": "直接地",
+    "civicsNote": "第十七修正案规定美国参议员由人民直接选举产生，而不是由州议会选举。"
+  },
+  "director": {
+    "translation": "主管；局长"
+  },
+  "disagreement": {
+    "translation": "分歧",
+    "civicsNote": "可能指制宪会议上各州或开国者之间的分歧，例如后来通过“大妥协”（Great Compromise）解决的分歧。"
+  },
+  "discrimination": {
+    "translation": "歧视",
+    "civicsNote": "与致力于终结美国种族歧视的民权运动（Civil Rights Movement）有关。"
+  },
+  "disguise": {
+    "translation": "伪装",
+    "civicsNote": "可能与波士顿倾茶事件（Boston Tea Party）等事件中殖民者伪装身份的做法有关。"
+  },
+  "dispute": {
+    "translation": "争端；纠纷",
+    "civicsNote": "最高法院和其他联邦法院负责解决法律纠纷。"
+  },
+  "district": {
+    "translation": "区；行政区",
+    "civicsNote": "可能指哥伦比亚特区（华盛顿特区），也可能指众议院议员所代表的国会选区。"
+  },
+  "document": {
+    "translation": "文件",
+    "civicsNote": "指宪法和《独立宣言》等建国文件。"
+  },
+  "don't": {
+    "translation": "不要（do not的缩写）"
+  },
+  "double": {
+    "translation": "加倍",
+    "civicsNote": "路易斯安那购地案（Louisiana Purchase）使美国的领土面积扩大了一倍。"
+  },
+  "draft": {
+    "translation": "征兵",
+    "civicsNote": "居住在美国的男性必须向义务兵役登记系统（Selective Service）登记，以备可能的征兵。"
+  },
+  "drive": {
+    "translation": "驾驶"
+  },
+  "driver's": {
+    "translation": "驾驶员的",
+    "civicsNote": "驾照（driver's license）是允许一个人合法驾驶汽车的官方证件，由各州颁发。"
+  },
+  "during": {
+    "translation": "在……期间"
+  },
+  "duty": {
+    "translation": "责任；义务",
+    "civicsNote": "指美国公民的公民义务，例如投票或担任陪审员。"
+  },
+  "dwight": {
+    "translation": "德怀特",
+    "civicsNote": "是德怀特·D·艾森豪威尔总统的名字；他是第二次世界大战中的一位将军。"
+  },
+  "each": {
+    "translation": "每个"
+  },
+  "east": {
+    "translation": "东；东方"
+  },
+  "economic": {
+    "translation": "经济的",
+    "civicsNote": "殖民者来到美洲的原因之一是经济机会，例如获得更多土地和工作机会。"
+  },
+  "economy": {
+    "translation": "经济"
+  },
+  "edison": {
+    "translation": "爱迪生",
+    "civicsNote": "托马斯·爱迪生发明了电灯泡；是“请说出一位美国发明家”这道考题的可能答案之一。"
+  },
+  "education": {
+    "translation": "教育",
+    "civicsNote": "教育部（Department of Education）是美国政府内阁级部门之一。"
+  },
+  "eight": {
+    "translation": "八"
+  },
+  "eighteen": {
+    "translation": "十八",
+    "civicsNote": "18岁是美国公民可以登记投票的年龄。"
+  },
+  "eisenhower": {
+    "translation": "艾森豪威尔",
+    "civicsNote": "德怀特·D·艾森豪威尔是美国第34任总统，也是第二次世界大战中的一位将军。"
+  },
+  "elect": {
+    "translation": "选举"
+  },
+  "election": {
+    "translation": "选举"
+  },
+  "electoral": {
+    "translation": "选举的",
+    "civicsNote": "指选举人团（Electoral College），正式选举美国总统的团体。"
+  },
+  "elizabeth": {
+    "translation": "伊丽莎白",
+    "civicsNote": "可能指伊丽莎白·凯迪·斯坦顿（Elizabeth Cady Stanton），妇女选举权运动的领袖之一。"
+  },
+  "else": {
+    "translation": "其他；另外"
+  },
+  "emancipation": {
+    "translation": "解放",
+    "civicsNote": "指林肯总统1863年发布的《解放奴隶宣言》（Emancipation Proclamation），该宣言解放了南方邦联各州的奴隶。"
+  },
+  "empire": {
+    "translation": "帝国",
+    "civicsNote": "最初，13个美洲殖民地是英帝国（British Empire）的一部分。"
+  },
+  "encampment": {
+    "translation": "营地",
+    "civicsNote": "指福吉谷（Valley Forge），乔治·华盛顿的军队在1777至1778年冬天驻扎的地方。"
+  },
+  "end": {
+    "translation": "结束"
+  },
+  "energy": {
+    "translation": "能源",
+    "civicsNote": "能源部（Department of Energy）是美国政府内阁级部门之一。"
+  },
+  "engine": {
+    "translation": "发动机；引擎"
+  },
+  "england": {
+    "translation": "英格兰",
+    "civicsNote": "在宣布独立之前，美洲殖民地由英格兰（大不列颠）统治。"
+  },
+  "ensure": {
+    "translation": "确保",
+    "civicsNote": "出自宪法序言（Preamble）：政府存在的目的之一是“保障国内安宁”（ensure domestic tranquility）。"
+  },
+  "enter": {
+    "translation": "进入",
+    "civicsNote": "通常用于表示美国参战，例如“美国参加了第一次/第二次世界大战”。"
+  },
+  "environmental": {
+    "translation": "环境的",
+    "civicsNote": "出现在考题“请说出美国的一个环境问题”中；例子包括空气污染、水污染和全球变暖。"
+  },
+  "equal": {
+    "translation": "平等的",
+    "civicsNote": "指人人在法律面前享有平等权利的原则。"
+  },
+  "equality": {
+    "translation": "平等"
+  },
+  "escape": {
+    "translation": "逃跑；逃脱",
+    "civicsNote": "在地下铁路（Underground Railroad）帮助被奴役者逃向自由的语境中出现。"
+  },
+  "essay": {
+    "translation": "短文；论文",
+    "civicsNote": "《联邦党人文集》（The Federalist Papers）是一系列为支持宪法获得批准而撰写的文章。"
+  },
+  "establish": {
+    "translation": "建立",
+    "civicsNote": "是宪法序言中“establish Justice”（建立正义）一语中的用词。"
+  },
+  "european": {
+    "translation": "欧洲人"
+  },
+  "even": {
+    "translation": "甚至"
+  },
+  "event": {
+    "translation": "事件"
+  },
+  "every": {
+    "translation": "每一个"
+  },
+  "everyday": {
+    "translation": "日常的"
+  },
+  "everyone": {
+    "translation": "每个人"
+  },
+  "exactly": {
+    "translation": "确切地；精确地"
+  },
+  "example": {
+    "translation": "例子"
+  },
+  "executive": {
+    "translation": "行政部门；行政的",
+    "civicsNote": "是美国政府三大部门之一（总统及行政部门）。"
+  },
+  "explain": {
+    "translation": "解释"
+  },
+  "expression": {
+    "translation": "表达",
+    "civicsNote": "“言论/表达自由”（freedom of expression）是宪法第一修正案所保护的权利。"
+  },
+  "fair": {
+    "translation": "公平的"
+  },
+  "fake": {
+    "translation": "假的"
+  },
+  "fallen": {
+    "translation": "阵亡的",
+    "civicsNote": "通常用于指在战争中阵亡的士兵（“fallen soldiers”），例如在忠烈将士纪念日（Memorial Day）的语境中使用。"
+  },
+  "famous": {
+    "translation": "著名的"
+  },
+  "father": {
+    "translation": "父亲",
+    "civicsNote": "“Founding Father”（开国元勋）指对美国建国做出贡献的领袖人物之一。"
+  },
+  "fdr": {
+    "translation": "富兰克林·D·罗斯福",
+    "civicsNote": "富兰克林·D·罗斯福是在第二次世界大战期间任职的美国总统。"
+  },
+  "federal": {
+    "translation": "联邦的",
+    "civicsNote": "指与各州政府不同的美国国家/中央政府。"
+  },
+  "federal-aid": {
+    "translation": "联邦援助",
+    "civicsNote": "《联邦援助公路法》（Federal-Aid Highway Act）是1956年美国用于资助州际公路系统建设的法律（与艾森豪威尔相关）。"
+  },
+  "federalist": {
+    "translation": "联邦党人",
+    "civicsNote": "《联邦党人文集》（The Federalist Papers）是汉密尔顿、麦迪逊和杰伊为支持宪法获得批准而撰写的一系列文章。"
+  },
+  "field": {
+    "translation": "田野；场地"
+  },
+  "fight": {
+    "translation": "战斗"
+  },
+  "fire": {
+    "translation": "火"
+  },
+  "first": {
+    "translation": "第一"
+  },
+  "five": {
+    "translation": "五"
+  },
+  "fix": {
+    "translation": "修理"
+  },
+  "flag": {
+    "translation": "旗；国旗",
+    "civicsNote": "美国国旗上的50颗星代表50个州，13条条纹代表最初的13个殖民地。"
+  },
+  "fly": {
+    "translation": "飞"
+  },
+  "follow": {
+    "translation": "遵循；跟随"
+  },
+  "for": {
+    "translation": "为了"
+  },
+  "force": {
+    "translation": "力量；军队",
+    "civicsNote": "“武装力量”（armed forces）指公民可以加入的美国军队。"
+  },
+  "foreign": {
+    "translation": "外国的",
+    "civicsNote": "“外交政策”（foreign policy）是一个国家处理与其他国家关系的方式。"
+  },
+  "forge": {
+    "translation": "锻造炉",
+    "civicsNote": "“福吉谷”（Valley Forge）是华盛顿将军的军队在1777至1778年冬天驻扎的营地。"
+  },
+  "form": {
+    "translation": "形式；形成"
+  },
+  "fort": {
+    "translation": "堡垒；要塞",
+    "civicsNote": "“麦克亨利堡”（Fort McHenry）是激发弗朗西斯·斯科特·基创作美国国歌《星条旗永不落》的堡垒。"
+  },
+  "fought": {
+    "translation": "战斗过（fight的过去式）",
+    "civicsNote": "用于描述美国参加过的战争（例如第一次和第二次世界大战）。"
+  },
+  "found": {
+    "translation": "建立；创立",
+    "civicsNote": "“Founding Fathers”（开国元勋）指建立美国的领袖们。"
+  },
+  "four": {
+    "translation": "四"
+  },
+  "fourth": {
+    "translation": "第四",
+    "civicsNote": "“7月4日”（The Fourth of July）是美国独立日。"
+  },
+  "france": {
+    "translation": "法国",
+    "civicsNote": "法国在美国独立战争期间及之后成为美国的盟友。"
+  },
+  "franklin": {
+    "translation": "富兰克林",
+    "civicsNote": "本杰明·富兰克林是外交官、发明家，也是开国元勋之一。"
+  },
+  "free": {
+    "translation": "自由的",
+    "civicsNote": "“freed”（被解放）通常用于亚伯拉罕·林肯解放奴隶的语境中。"
+  },
+  "freedom": {
+    "translation": "自由",
+    "civicsNote": "宪法第一修正案保护言论、宗教、新闻、集会和请愿的自由。"
+  },
+  "freely": {
+    "translation": "自由地"
+  },
+  "from": {
+    "translation": "从"
+  },
+  "fund": {
+    "translation": "基金；资金"
+  },
+  "fundamental": {
+    "translation": "基本的；根本的",
+    "civicsNote": "指宪法所保护的基本权利（fundamental rights）。"
+  },
+  "game": {
+    "translation": "游戏"
+  },
+  "give": {
+    "translation": "给"
+  },
+  "gender": {
+    "translation": "性别",
+    "civicsNote": "出现在不论性别、所有公民均享有投票权的语境中（第十九修正案）。"
+  },
+  "general": {
+    "translation": "将军；总的",
+    "civicsNote": "可能出现在“华盛顿将军”（General Washington）或“总检察长”（Attorney General）等语境中。"
+  },
+  "george": {
+    "translation": "乔治",
+    "civicsNote": "乔治·华盛顿是美国第一任总统。"
+  },
+  "georgia": {
+    "translation": "佐治亚州"
+  },
+  "germany": {
+    "translation": "德国",
+    "civicsNote": "是第二次世界大战中美国的交战国之一。"
+  },
+  "get": {
+    "translation": "得到"
+  },
+  "gettysburg": {
+    "translation": "葛底斯堡",
+    "civicsNote": "“葛底斯堡演说”（Gettysburg Address）是亚伯拉罕·林肯的著名演说，他在其中将政府定义为“民有、民治、民享”的政府。"
+  },
+  "global": {
+    "translation": "全球的",
+    "civicsNote": "“全球变暖”（global warming）在考试中作为环境问题的一个例子。"
+  },
+  "go": {
+    "translation": "去"
+  },
+  "govern": {
+    "translation": "治理；统治"
+  },
+  "government": {
+    "translation": "政府"
+  },
+  "governor": {
+    "translation": "州长"
+  },
+  "great": {
+    "translation": "伟大的；巨大的",
+    "civicsNote": "出现在“大萧条”（Great Depression）和“五大湖”（Great Lakes）等历史/地理名词中。"
+  },
+  "group": {
+    "translation": "团体；群体",
+    "civicsNote": "“利益团体”（interest group）是有共同想法的人为影响政府而组成的团体。"
+  },
+  "gulf": {
+    "translation": "海湾",
+    "civicsNote": "“墨西哥湾”（Gulf of Mexico）是美国边界附近的主要水域之一。"
+  },
+  "have": {
+    "translation": "有"
+  },
+  "half": {
+    "translation": "一半"
+  },
+  "hamilton": {
+    "translation": "汉密尔顿",
+    "civicsNote": "亚历山大·汉密尔顿是《联邦党人文集》的作者之一，也是美国第一任财政部长。"
+  },
+  "hampshire": {
+    "translation": "罕布什尔"
+  },
+  "happen": {
+    "translation": "发生"
+  },
+  "happiness": {
+    "translation": "幸福",
+    "civicsNote": "是《独立宣言》中“生命权、自由权和追求幸福的权利”（life, liberty, and the pursuit of happiness）一语中的用词。"
+  },
+  "harbor": {
+    "translation": "港口",
+    "civicsNote": "“珍珠港”（Pearl Harbor）是1941年日本袭击的港口，此事件导致美国参加第二次世界大战。"
+  },
+  "hard": {
+    "translation": "困难的；坚硬的"
+  },
+  "harriet": {
+    "translation": "哈丽特",
+    "civicsNote": "哈丽特·塔布曼通过地下铁路帮助被奴役者逃向自由。"
+  },
+  "he": {
+    "translation": "他"
+  },
+  "health": {
+    "translation": "健康"
+  },
+  "help": {
+    "translation": "帮助"
+  },
+  "her": {
+    "translation": "她的；她"
+  },
+  "here": {
+    "translation": "这里"
+  },
+  "high": {
+    "translation": "高的"
+  },
+  "highway": {
+    "translation": "公路",
+    "civicsNote": "与艾森豪威尔总统时期建立的“州际公路系统”（Interstate Highway System）有关。"
+  },
+  "hill": {
+    "translation": "小山；丘"
+  },
+  "him": {
+    "translation": "他（宾格）"
+  },
+  "his": {
+    "translation": "他的"
+  },
+  "history": {
+    "translation": "历史"
+  },
+  "hold": {
+    "translation": "持有；担任",
+    "civicsNote": "可用于表示一个人“担任”政府中的某个职位（holds office）。"
+  },
+  "holiday": {
+    "translation": "节日；假日",
+    "civicsNote": "考试要求你能列举美国的国家法定节日，例如独立日、感恩节和劳动节。"
+  },
+  "homeland": {
+    "translation": "祖国；本土",
+    "civicsNote": "是美国政府部门“国土安全部”（Department of Homeland Security）名称的一部分。"
+  },
+  "honor": {
+    "translation": "尊敬；纪念",
+    "civicsNote": "许多美国节日都在“纪念”特定的人物或事件（例如忠烈将士纪念日纪念阵亡军人，退伍军人节纪念退伍军人）。"
+  },
+  "hopi": {
+    "translation": "霍皮族",
+    "civicsNote": "是“请说出美国一个印第安部落的名称”这道考题的可接受答案之一。"
+  },
+  "house": {
+    "translation": "议院；众议院",
+    "civicsNote": "“the House”指国会两院之一的众议院（House of Representatives），而“the White House”指总统居住和办公的白宫。"
+  },
+  "housing": {
+    "translation": "住房",
+    "civicsNote": "“住房和城市发展部”（Department of Housing and Urban Development）是美国的一个内阁部门。"
+  },
+  "how": {
+    "translation": "如何"
+  },
+  "hudson": {
+    "translation": "哈德逊",
+    "civicsNote": "得名于探险家亨利·哈德逊（Henry Hudson）；是纽约州的一条重要河流。"
+  },
+  "human": {
+    "translation": "人类的"
+  },
+  "hundred": {
+    "translation": "百"
+  },
+  "huron": {
+    "translation": "休伦",
+    "civicsNote": "是五大湖区中五个大湖之一；同时也是一个印第安民族的名称。"
+  },
+  "i": {
+    "translation": "罗马数字一",
+    "civicsNote": "在本应用中作为“World War I”（第一次世界大战）一词的一部分出现。"
+  },
+  "ic": {
+    "translation": "集成电路",
+    "civicsNote": "是应用中美国发明列表里出现的“集成电路（Integrated Circuit, IC）”一词的缩写。"
+  },
+  "idea": {
+    "translation": "想法"
+  },
+  "identify": {
+    "translation": "识别；确定"
+  },
+  "if": {
+    "translation": "如果"
+  },
+  "ii": {
+    "translation": "罗马数字二",
+    "civicsNote": "在本应用中作为“World War II”（第二次世界大战）一词的一部分出现。"
+  },
+  "ike": {
+    "translation": "艾克",
+    "civicsNote": "艾森豪威尔（“Ike”）在第二次世界大战中指挥美军部队，后来成为美国第34任总统，并推动了州际公路系统的建立。"
+  },
+  "important": {
+    "translation": "重要的"
+  },
+  "in": {
+    "translation": "在"
+  },
+  "include": {
+    "translation": "包括"
+  },
+  "independence": {
+    "translation": "独立",
+    "civicsNote": "指宣布脱离英国独立的《独立宣言》(Declaration of Independence)，以及7月4日独立日(Independence Day)。"
+  },
+  "independent": {
+    "translation": "独立的"
+  },
+  "indian": {
+    "translation": "印第安人",
+    "civicsNote": "考试中，“American Indian”指美洲原住民；试题会要求说出一个印第安部落的名称。"
+  },
+  "individual": {
+    "translation": "个人"
+  },
+  "influence": {
+    "translation": "影响"
+  },
+  "inherent": {
+    "translation": "固有的；天生的",
+    "civicsNote": "根据《独立宣言》，人人拥有“天赋”(inherent)权利，这些权利不是任何人赋予的，也不能被剥夺。"
+  },
+  "innovation": {
+    "translation": "创新",
+    "civicsNote": "指考试中提到的著名美国发明创新，例如集成电路(integrated circuit)。"
+  },
+  "integrated": {
+    "translation": "集成的",
+    "civicsNote": "是考试中提到的美国发明“Integrated Circuit (IC)”(集成电路)一词的组成部分。"
+  },
+  "intelligence": {
+    "translation": "智力",
+    "civicsNote": "可能指考试中列为现代美国创新之一的“Artificial Intelligence”(人工智能)。"
+  },
+  "interior": {
+    "translation": "内部",
+    "civicsNote": "“Secretary of the Interior”(内政部长)是负责公共土地和自然资源的美国内阁职位。"
+  },
+  "internal": {
+    "translation": "内部的"
+  },
+  "interstate": {
+    "translation": "州际的",
+    "civicsNote": "与艾森豪威尔总统时期启动的“Interstate Highway System”(州际公路系统)有关。"
+  },
+  "into": {
+    "translation": "进入"
+  },
+  "intolerable": {
+    "translation": "无法容忍的",
+    "civicsNote": "“Intolerable Acts”(不可容忍法案)是引发美国独立革命的严厉英国法律。"
+  },
+  "inupiat": {
+    "translation": "伊努皮特人",
+    "civicsNote": "是“说出一个美洲印第安部落名称”这一问题的可接受答案之一(包括阿拉斯加原住民)。"
+  },
+  "invent": {
+    "translation": "发明"
+  },
+  "inventor": {
+    "translation": "发明家",
+    "civicsNote": "考试会涉及著名美国发明家的相关内容(例如托马斯·爱迪生或莱特兄弟)。"
+  },
+  "involve": {
+    "translation": "涉及"
+  },
+  "iraq": {
+    "translation": "伊拉克",
+    "civicsNote": "1990年伊拉克入侵科威特，导致美国参与了海湾战争。"
+  },
+  "iraqi": {
+    "translation": "伊拉克的"
+  },
+  "iroquois": {
+    "translation": "易洛魁人",
+    "civicsNote": "是“说出一个美洲印第安部落名称”这一问题的可接受答案之一。"
+  },
+  "is": {
+    "translation": "是"
+  },
+  "island": {
+    "translation": "岛",
+    "civicsNote": "可能指移民进入美国的埃利斯岛(Ellis Island)，也可能指最初13个殖民地之一的罗德岛(Rhode Island)。"
+  },
+  "issue": {
+    "translation": "议题"
+  },
+  "it": {
+    "translation": "它"
+  },
+  "it's": {
+    "translation": "它是(it is的缩写)"
+  },
+  "italy": {
+    "translation": "意大利",
+    "civicsNote": "在第二次世界大战中，意大利与德国、日本同属轴心国，一起对抗美国。"
+  },
+  "its": {
+    "translation": "它的"
+  },
+  "james": {
+    "translation": "詹姆斯",
+    "civicsNote": "美国历史上有许多重要人物名叫詹姆斯，例如总统詹姆斯·麦迪逊和詹姆斯·门罗。"
+  },
+  "japan": {
+    "translation": "日本",
+    "civicsNote": "第二次世界大战中与美国交战的国家之一，其中包括发动珍珠港袭击。"
+  },
+  "japanese": {
+    "translation": "日本的；日语"
+  },
+  "jay": {
+    "translation": "杰伊",
+    "civicsNote": "约翰·杰伊是撰写《联邦党人文集》的开国元勋之一，后成为美国首任最高法院首席法官。"
+  },
+  "jefferson": {
+    "translation": "杰斐逊",
+    "civicsNote": "托马斯·杰斐逊撰写了《独立宣言》，并成为美国第三任总统。"
+  },
+  "jersey": {
+    "translation": "泽西",
+    "civicsNote": "新泽西是最初13个殖民地（州）之一。"
+  },
+  "job": {
+    "translation": "工作",
+    "civicsNote": "“人们为什么来美国？”这一问题的常见答案之一就是找工作。"
+  },
+  "john": {
+    "translation": "约翰",
+    "civicsNote": "约翰·亚当斯是一位开国元勋，也是美国第二任总统。"
+  },
+  "join": {
+    "translation": "加入"
+  },
+  "jr": {
+    "translation": "小（放在与父亲同名的儿子名字后，Junior的缩写）",
+    "civicsNote": "用于“小马丁·路德·金(Martin Luther King, Jr.)”的姓名中；他是著名的民权运动领袖。"
+  },
+  "judge": {
+    "translation": "法官",
+    "civicsNote": "联邦法官（包括最高法院大法官）为终身任职，属于司法部门的一部分。"
+  },
+  "judicial": {
+    "translation": "司法的",
+    "civicsNote": "“Judicial branch”(司法部门)是美国政府三大部门之一，包含最高法院，负责解释法律。"
+  },
+  "july": {
+    "translation": "七月",
+    "civicsNote": "7月4日是独立日，美国在这一天宣布脱离英国独立。"
+  },
+  "juneteenth": {
+    "translation": "六月节",
+    "civicsNote": "这是一个官方节日，纪念1865年得克萨斯州被奴役者获知自己已获自由的那一天。"
+  },
+  "jurisdiction": {
+    "translation": "管辖权",
+    "civicsNote": "指最高法院对特定类型案件所拥有的法律管辖权。"
+  },
+  "jury": {
+    "translation": "陪审团",
+    "civicsNote": "陪审义务(jury duty)只属于美国公民；接受陪审团审判的权利受宪法保护。"
+  },
+  "just": {
+    "translation": "公正的；只是"
+  },
+  "justice": {
+    "translation": "正义；大法官",
+    "civicsNote": "“Justices”指美国最高法院的九名成员。"
+  },
+  "keep": {
+    "translation": "保持；持有",
+    "civicsNote": "出现在第二修正案“keep and bear arms”(持有和携带武器)一语中。"
+  },
+  "key": {
+    "translation": "钥匙",
+    "civicsNote": "弗朗西斯·斯科特·基(Francis Scott Key)写下了美国国歌《星条旗永不落》的歌词。"
+  },
+  "king": {
+    "translation": "国王",
+    "civicsNote": "既可能指美国独立革命时期的英国国王乔治三世，也可能指民权运动领袖小马丁·路德·金。"
+  },
+  "kite": {
+    "translation": "风筝",
+    "civicsNote": "本杰明·富兰克林因在暴风雨中放风筝以研究电力而闻名。"
+  },
+  "known": {
+    "translation": "已知的"
+  },
+  "korea": {
+    "translation": "韩国／朝鲜"
+  },
+  "korean": {
+    "translation": "韩国的；朝鲜的",
+    "civicsNote": "“Korean War”(朝鲜战争)是美国在20世纪参与的一场军事冲突。"
+  },
+  "kuwait": {
+    "translation": "科威特",
+    "civicsNote": "1990年伊拉克入侵科威特，促使美国参与了海湾战争。"
+  },
+  "labor": {
+    "translation": "劳动",
+    "civicsNote": "与“Department of Labor”(劳工部)以及纪念劳动者的官方节日“Labor Day”(劳动节)有关。"
+  },
+  "lady": {
+    "translation": "女士",
+    "civicsNote": "自由女神像常被称为“Lady Liberty”(自由女士)。"
+  },
+  "lakota": {
+    "translation": "拉科塔人",
+    "civicsNote": "是“说出一个美洲印第安部落名称”这一问题的可接受答案之一。"
+  },
+  "land": {
+    "translation": "陆地"
+  },
+  "landing": {
+    "translation": "登陆",
+    "civicsNote": "可能指清教徒在普利茅斯登陆，或1969年登月等历史事件。"
+  },
+  "later": {
+    "translation": "之后"
+  },
+  "latin": {
+    "translation": "拉丁语的",
+    "civicsNote": "美国国家格言“E Pluribus Unum”是一句拉丁语，意为“合众为一”。"
+  },
+  "law": {
+    "translation": "法律",
+    "civicsNote": "国会制定法律；“法治”(rule of law)原则意味着包括领导人在内的所有人都必须遵守法律，是美国民主的基本原则之一。"
+  },
+  "leader": {
+    "translation": "领导者"
+  },
+  "lead": {
+    "translation": "领导"
+  },
+  "leftover": {
+    "translation": "剩余的"
+  },
+  "legislative": {
+    "translation": "立法的",
+    "civicsNote": "立法部门是构成国会、制定法律的政府部门。"
+  },
+  "legislature": {
+    "translation": "立法机关",
+    "civicsNote": "在美国，国家立法机关是国会（参议院和众议院）。"
+  },
+  "let": {
+    "translation": "让；允许"
+  },
+  "liberty": {
+    "translation": "自由",
+    "civicsNote": "是《独立宣言》中“生命权、自由权和追求幸福的权利”这句话中的基本价值之一；自由女神像也象征这一理念。"
+  },
+  "library": {
+    "translation": "图书馆"
+  },
+  "license": {
+    "translation": "许可证",
+    "civicsNote": "发放驾驶执照(driver's license)是只属于州政府的权力。"
+  },
+  "life": {
+    "translation": "生命",
+    "civicsNote": "出现在《独立宣言》“生命权、自由权和追求幸福的权利”一语中。"
+  },
+  "lifetime": {
+    "translation": "终身",
+    "civicsNote": "联邦法官和最高法院大法官都是终身任职(life terms)。"
+  },
+  "light": {
+    "translation": "光"
+  },
+  "like": {
+    "translation": "像"
+  },
+  "limit": {
+    "translation": "限制",
+    "civicsNote": "根据宪法，总统最多只能任职两届(term limit)。"
+  },
+  "lincoln": {
+    "translation": "林肯",
+    "civicsNote": "亚伯拉罕·林肯解放了奴隶，在南北战争期间领导国家；他的名字保留在林肯纪念堂和一分硬币上。"
+  },
+  "line": {
+    "translation": "顺序；队列",
+    "civicsNote": "“Line of succession”(继任顺序)是总统无法履职时由谁接替的正式顺序。"
+  },
+  "list": {
+    "translation": "清单"
+  },
+  "listen": {
+    "translation": "倾听"
+  },
+  "live": {
+    "translation": "居住；生活"
+  },
+  "local": {
+    "translation": "地方的",
+    "civicsNote": "美国有三级政府：联邦、州和地方(local)。"
+  },
+  "long": {
+    "translation": "长的"
+  },
+  "look": {
+    "translation": "看"
+  },
+  "lot": {
+    "translation": "大量"
+  },
+  "louisiana": {
+    "translation": "路易斯安那",
+    "civicsNote": "路易斯安那购地案(1803年)是美国从法国购得的一大片领土，使国土面积几乎增加了一倍。"
+  },
+  "love": {
+    "translation": "爱"
+  },
+  "loyal": {
+    "translation": "忠诚的",
+    "civicsNote": "效忠誓词(Pledge of Allegiance)是宣誓效忠美国的文本。"
+  },
+  "loyalty": {
+    "translation": "忠诚",
+    "civicsNote": "新公民在效忠誓词(Oath of Allegiance)中宣誓效忠美国。"
+  },
+  "lucretia": {
+    "translation": "露克丽霞",
+    "civicsNote": "露克丽霞·莫特被视为妇女选举权运动的领袖之一，是考试的认可答案。"
+  },
+  "lucy": {
+    "translation": "露西",
+    "civicsNote": "露西·斯通被视为妇女选举权运动的领袖之一，是考试的认可答案。"
+  },
+  "luther": {
+    "translation": "路德",
+    "civicsNote": "是民权运动领袖小马丁·路德·金姓名的一部分。"
+  },
+  "made": {
+    "translation": "制造（make的过去式）"
+  },
+  "madison": {
+    "translation": "麦迪逊",
+    "civicsNote": "詹姆斯·麦迪逊协助起草宪法，是《联邦党人文集》的作者之一，并担任美国第四任总统。"
+  },
+  "main": {
+    "translation": "主要的"
+  },
+  "major": {
+    "translation": "重大的"
+  },
+  "make": {
+    "translation": "制作；制定",
+    "civicsNote": "国会制定美国的法律。"
+  },
+  "male": {
+    "translation": "男性的"
+  },
+  "manage": {
+    "translation": "管理"
+  },
+  "management": {
+    "translation": "管理"
+  },
+  "many": {
+    "translation": "许多"
+  },
+  "march": {
+    "translation": "游行",
+    "civicsNote": "小马丁·路德·金等民权运动领袖组织了大型游行，例如“华盛顿大游行”。"
+  },
+  "market": {
+    "translation": "市场",
+    "civicsNote": "美国的经济体系被称为“市场经济”(market economy)。"
+  },
+  "martin": {
+    "translation": "马丁",
+    "civicsNote": "是民权运动领袖小马丁·路德·金姓名的一部分。"
+  },
+  "maryland": {
+    "translation": "马里兰",
+    "civicsNote": "是最初13个殖民地之一；马里兰州的麦克亨利堡为美国国歌带来了创作灵感。"
+  },
+  "massachusetts": {
+    "translation": "马萨诸塞",
+    "civicsNote": "是最初13个殖民地之一；波士顿倾茶事件和波士顿大屠杀都发生在这里。"
+  },
+  "massacre": {
+    "translation": "大屠杀",
+    "civicsNote": "波士顿大屠杀(1770年)是美国独立革命前，英国士兵杀害殖民地居民的事件。"
+  },
+  "match": {
+    "translation": "匹配"
+  },
+  "matter": {
+    "translation": "重要"
+  },
+  "may": {
+    "translation": "可以；也许"
+  },
+  "mayflower": {
+    "translation": "五月花号",
+    "civicsNote": "乘“五月花号”而来的清教徒在1620年签署了《五月花号公约》，形成了早期自治的范例。"
+  },
+  "mean": {
+    "translation": "意味"
+  },
+  "meet": {
+    "translation": "会面"
+  },
+  "member": {
+    "translation": "成员",
+    "civicsNote": "国会议员是当选的参议员和众议员。"
+  },
+  "memorial": {
+    "translation": "纪念馆",
+    "civicsNote": "华盛顿特区的林肯纪念堂用以纪念亚伯拉罕·林肯总统。"
+  },
+  "man": {
+    "translation": "男人"
+  },
+  "mexican-american": {
+    "translation": "美墨",
+    "civicsNote": "美墨战争(1846-1848年)是美国与墨西哥之间的一场战争。"
+  },
+  "middle": {
+    "translation": "中间",
+    "civicsNote": "“Middle Colonies”(中部殖民地)是最初13个殖民地所属三大区域之一。"
+  },
+  "military": {
+    "translation": "军队",
+    "civicsNote": "美国总统是军队的总司令(Commander in Chief)。"
+  },
+  "mint": {
+    "translation": "铸币厂",
+    "civicsNote": "美国铸币局是负责制造硬币的政府机构。"
+  },
+  "mlk": {
+    "translation": "MLK（马丁·路德·金的缩写）",
+    "civicsNote": "MLK是为民权奋斗的小马丁·路德·金姓名的首字母缩写。"
+  },
+  "modern": {
+    "translation": "现代的"
+  },
+  "mohawk": {
+    "translation": "莫霍克人",
+    "civicsNote": "莫霍克是被认可为美国原住民部落之一的考试答案。"
+  },
+  "mohegan": {
+    "translation": "莫希根人",
+    "civicsNote": "莫希根是被认可为美国原住民部落之一的考试答案。"
+  },
+  "moment": {
+    "translation": "时刻"
+  },
+  "money": {
+    "translation": "钱",
+    "civicsNote": "国会的权力之一是印制货币。"
+  },
+  "moon": {
+    "translation": "月球",
+    "civicsNote": "与“说出一位登上月球的美国人”这一问题有关(例如尼尔·阿姆斯特朗)。"
+  },
+  "more": {
+    "translation": "更多"
+  },
+  "most": {
+    "translation": "最多"
+  },
+  "mott": {
+    "translation": "莫特",
+    "civicsNote": "露克丽霞·莫特被视为妇女选举权运动的领袖之一，是考试的认可答案。"
+  },
+  "motto": {
+    "translation": "格言",
+    "civicsNote": "“In God We Trust”(我们信仰上帝)是美国的官方格言。"
+  },
+  "movement": {
+    "translation": "运动",
+    "civicsNote": "民权运动和妇女选举权运动都是美国历史的重要部分。"
+  },
+  "much": {
+    "translation": "许多"
+  },
+  "must": {
+    "translation": "必须",
+    "civicsNote": "用于说明投票或当选公职所需的年龄和居住条件。"
+  },
+  "name": {
+    "translation": "名字",
+    "civicsNote": "公民考试中的许多问题要求你“说出”某个人、地点或文件的名称。"
+  },
+  "nasa": {
+    "translation": "美国国家航空航天局",
+    "civicsNote": "NASA是把美国人送上月球的美国航天局。"
+  },
+  "nation": {
+    "translation": "国家"
+  },
+  "national": {
+    "translation": "国家的"
+  },
+  "native": {
+    "translation": "本土的",
+    "civicsNote": "“Native Americans”(美洲原住民)指欧洲人到来之前就居住在美洲的族群。"
+  },
+  "natural": {
+    "translation": "自然的",
+    "civicsNote": "“Natural-born citizen”(天生公民)指在美国出生、或父母是美国公民的人，这是成为总统的必要条件之一。"
+  },
+  "naturalize": {
+    "translation": "入籍；归化",
+    "civicsNote": "入籍(Naturalization)是移民成为美国公民的法律程序——这正是本应用所要教授的内容。"
+  },
+  "navajo": {
+    "translation": "纳瓦霍人",
+    "civicsNote": "纳瓦霍是被认可为美国原住民部落之一的考试答案。"
+  },
+  "near": {
+    "translation": "附近"
+  },
+  "need": {
+    "translation": "需要"
+  },
+  "never": {
+    "translation": "从不"
+  },
+  "new": {
+    "translation": "新的",
+    "civicsNote": "常出现在纽约、新泽西等州名中，也常用于指代新公民。"
+  },
+  "newspaper": {
+    "translation": "报纸",
+    "civicsNote": "新闻自由（包括报纸）受宪法第一修正案保护。"
+  },
+  "next": {
+    "translation": "下一个"
+  },
+  "nine": {
+    "translation": "九",
+    "civicsNote": "美国最高法院有九名大法官。"
+  },
+  "no": {
+    "translation": "不"
+  },
+  "nonvoting": {
+    "translation": "无投票权的",
+    "civicsNote": "用于指美国国会中华盛顿特区或波多黎各等地区没有投票权的代表。"
+  },
+  "north": {
+    "translation": "北方",
+    "civicsNote": "在美国南北战争的语境中，“the North”(北方)指反对奴隶制的联邦各州。"
+  },
+  "northern": {
+    "translation": "北方的"
+  },
+  "not": {
+    "translation": "不"
+  },
+  "now": {
+    "translation": "现在",
+    "civicsNote": "出现在询问当前信息的问题中，例如“现在的总统是谁？”"
+  },
+  "nuclear": {
+    "translation": "核的"
+  },
+  "number": {
+    "translation": "数字",
+    "civicsNote": "常出现在有关美国国会参议员人数（100名）或众议员人数（435名）的问题中。"
+  },
+  "oath": {
+    "translation": "誓言",
+    "civicsNote": "“Oath of Allegiance”(效忠誓词)是新公民宣誓效忠美国的仪式。"
+  },
+  "obey": {
+    "translation": "遵守"
+  },
+  "of": {
+    "translation": "的"
+  },
+  "office": {
+    "translation": "职位",
+    "civicsNote": "“Run for office”意为参选一个民选职位。"
+  },
+  "official": {
+    "translation": "官员",
+    "civicsNote": "“向一位民选官员表达自己的意见”是公民职责的一部分。"
+  },
+  "officially": {
+    "translation": "正式地"
+  },
+  "often": {
+    "translation": "经常"
+  },
+  "oh": {
+    "translation": "哦",
+    "civicsNote": "出现在美国国歌第一句：“Oh, say can you see...”(哦，你可看见……)。"
+  },
+  "old": {
+    "translation": "年老的",
+    "civicsNote": "“18 years old”(18岁)常出现在与投票年龄相关的问题中。"
+  },
+  "on": {
+    "translation": "在...上"
+  },
+  "one": {
+    "translation": "一"
+  },
+  "oneida": {
+    "translation": "奥奈达人",
+    "civicsNote": "是易洛魁联盟成员之一的美洲原住民部落，可能作为公民考试中的印第安部落答案出现。"
+  },
+  "only": {
+    "translation": "仅仅"
+  },
+  "onondaga": {
+    "translation": "奥农达加人",
+    "civicsNote": "是易洛魁联盟成员之一的美洲原住民部落，可能作为公民考试中的印第安部落答案出现。"
+  },
+  "open": {
+    "translation": "开放的"
+  },
+  "opinion": {
+    "translation": "意见"
+  },
+  "opportunity": {
+    "translation": "机会",
+    "civicsNote": "“Economic opportunity”(经济机会)是殖民者来到美国的原因之一。"
+  },
+  "oppose": {
+    "translation": "反对"
+  },
+  "or": {
+    "translation": "或"
+  },
+  "order": {
+    "translation": "命令",
+    "civicsNote": "常用于总统发布“executive orders”(行政命令)的语境中。"
+  },
+  "original": {
+    "translation": "最初的",
+    "civicsNote": "“The original 13 states”(最初的13个州)指建立美国的最初13个州。"
+  },
+  "originally": {
+    "translation": "最初"
+  },
+  "other": {
+    "translation": "其他的"
+  },
+  "ottoman": {
+    "translation": "奥斯曼的",
+    "civicsNote": "奥斯曼帝国是第一次世界大战中与美国交战的同盟国之一。"
+  },
+  "our": {
+    "translation": "我们的"
+  },
+  "out": {
+    "translation": "出"
+  },
+  "outside": {
+    "translation": "外面"
+  },
+  "over": {
+    "translation": "超过"
+  },
+  "overnight": {
+    "translation": "一夜之间;通宵"
+  },
+  "overrule": {
+    "translation": "否决;推翻"
+  },
+  "own": {
+    "translation": "自己的"
+  },
+  "paper": {
+    "translation": "纸;文章",
+    "civicsNote": "《联邦党人文集》(The Federalist Papers)是为支持美国宪法获得批准而撰写的一系列文章。"
+  },
+  "parent": {
+    "translation": "父母"
+  },
+  "part": {
+    "translation": "部分"
+  },
+  "participation": {
+    "translation": "参与",
+    "civicsNote": "“公民参与”(civic participation)指投票或加入社区团体等公民职责。"
+  },
+  "party": {
+    "translation": "政党",
+    "civicsNote": "“政党”(political party)——美国的两大主要政党是民主党和共和党。"
+  },
+  "passage": {
+    "translation": "通过;批准",
+    "civicsNote": "“宪法的通过”(the passage of the Constitution)指法律或宪法被正式批准通过的过程。"
+  },
+  "pass": {
+    "translation": "通过",
+    "civicsNote": "国会“通过”(passes/passed)一项法案,使其成为法律。"
+  },
+  "pay": {
+    "translation": "支付;付款",
+    "civicsNote": "“纳税”(pay taxes)是美国公民应履行的义务之一。"
+  },
+  "peace": {
+    "translation": "和平"
+  },
+  "pearl harbor": {
+    "translation": "珍珠港",
+    "civicsNote": "1941年日本袭击珍珠港,使美国参与了第二次世界大战。"
+  },
+  "pennsylvania": {
+    "translation": "宾夕法尼亚州",
+    "civicsNote": "在9/11袭击事件中,一架被劫持的飞机坠毁在宾夕法尼亚州的一片田野里。"
+  },
+  "pentagon": {
+    "translation": "五角大楼",
+    "civicsNote": "五角大楼在2001年9月11日遭到袭击。"
+  },
+  "people": {
+    "translation": "人民",
+    "civicsNote": "美国宪法以“我们人民”(We the People)开篇,表明政府的权力来自人民。"
+  },
+  "period": {
+    "translation": "时期"
+  },
+  "persecution": {
+    "translation": "迫害",
+    "civicsNote": "殖民者移居美洲的原因之一是逃避宗教迫害(persecution)。"
+  },
+  "persian": {
+    "translation": "波斯的",
+    "civicsNote": "“波斯湾战争”(Persian Gulf War,1991年海湾战争)是美国在20世纪参与的战争之一。"
+  },
+  "person": {
+    "translation": "人"
+  },
+  "petition": {
+    "translation": "请愿书",
+    "civicsNote": "宪法第一修正案保护向政府请愿(petition)的权利。"
+  },
+  "phrase": {
+    "translation": "短语"
+  },
+  "pick": {
+    "translation": "选择;挑选"
+  },
+  "piece": {
+    "translation": "一块;部分"
+  },
+  "place": {
+    "translation": "地方"
+  },
+  "plane": {
+    "translation": "飞机",
+    "civicsNote": "2001年9月11日,被劫持的飞机(planes)撞向了双子塔和五角大楼,还有一架坠毁在宾夕法尼亚州。"
+  },
+  "player": {
+    "translation": "参与者;选手"
+  },
+  "pledge": {
+    "translation": "誓言;保证",
+    "civicsNote": "“效忠誓词”(The Pledge of Allegiance)是向美国国旗表达忠诚的誓言。"
+  },
+  "pluribus": {
+    "translation": "众多(拉丁语)",
+    "civicsNote": "“合众为一”(E Pluribus Unum,意为“合众为一”)是美国的国家格言。"
+  },
+  "plus": {
+    "translation": "加上;外加"
+  },
+  "police": {
+    "translation": "警察"
+  },
+  "policy": {
+    "translation": "政策",
+    "civicsNote": "“支持或反对某项政策”(support or oppose a policy)——公开表明支持或反对政府政策,是公民身份的一部分。"
+  },
+  "political": {
+    "translation": "政治的",
+    "civicsNote": "“政治自由”(political liberty)是殖民者移居美洲的原因之一;“political party”指政党。"
+  },
+  "politics": {
+    "translation": "政治"
+  },
+  "poll": {
+    "translation": "投票站;民意调查",
+    "civicsNote": "“人头税”(poll tax)是过去投票时被要求缴纳的一种税,已被宪法第24修正案废止。"
+  },
+  "popular": {
+    "translation": "受欢迎的;大众的",
+    "civicsNote": "“人民主权”(popular sovereignty)指统治权力来自人民的原则。"
+  },
+  "population": {
+    "translation": "人口",
+    "civicsNote": "一个州的人口数量决定其在国会中的代表人数。"
+  },
+  "position": {
+    "translation": "职位",
+    "civicsNote": "可以指总统任命内阁成员等重要政府职位(positions)的权力。"
+  },
+  "postmaster": {
+    "translation": "邮政局长",
+    "civicsNote": "本杰明·富兰克林是美国第一任邮政总长(Postmaster General)。"
+  },
+  "power": {
+    "translation": "权力",
+    "civicsNote": "宪法将一些权力(powers)赋予联邦政府,另一些则赋予各州。"
+  },
+  "powerful": {
+    "translation": "强大的"
+  },
+  "practice": {
+    "translation": "奉行;实践",
+    "civicsNote": "“信仰任何宗教的自由”(freedom to practice any religion)指奉行/实践任何宗教信仰的自由。"
+  },
+  "preserve": {
+    "translation": "维护;保存",
+    "civicsNote": "出现在总统誓词中:“维护、保护并捍卫宪法”(preserve, protect, and defend the Constitution)。"
+  },
+  "president": {
+    "translation": "总统"
+  },
+  "process": {
+    "translation": "过程;程序",
+    "civicsNote": "“法律的正当程序”(due process of law)是宪法所保障的一项权利。"
+  },
+  "proclamation": {
+    "translation": "公告;宣言",
+    "civicsNote": "“解放奴隶宣言”(Emancipation Proclamation)是林肯宣布解放南方邦联境内奴隶的公告。"
+  },
+  "promise": {
+    "translation": "承诺;保证",
+    "civicsNote": "在效忠誓词(Oath of Allegiance)中以“我承诺……”(I promise...)的形式出现。"
+  },
+  "property": {
+    "translation": "财产"
+  },
+  "protect": {
+    "translation": "保护",
+    "civicsNote": "出现在总统誓词中的“保护并捍卫宪法”(protect and defend the Constitution)一语中。"
+  },
+  "protection": {
+    "translation": "保护",
+    "civicsNote": "“法律的平等保护”(equal protection of the law)由宪法第14修正案予以保障。"
+  },
+  "provide": {
+    "translation": "提供"
+  },
+  "public": {
+    "translation": "公共的"
+  },
+  "publius": {
+    "translation": "普布利乌斯",
+    "civicsNote": "《联邦党人文集》的作者(汉密尔顿、麦迪逊、杰伊)使用了“普布利乌斯”(Publius)这个笔名。"
+  },
+  "pueblo": {
+    "translation": "普韦布洛人",
+    "civicsNote": "是“说出一个美洲原住民部落的名称”这一问题的可接受答案之一。"
+  },
+  "purchase": {
+    "translation": "购买",
+    "civicsNote": "“路易斯安那购地案”(Louisiana Purchase)指美国于1803年从法国购得大片土地一事。"
+  },
+  "purpose": {
+    "translation": "目的"
+  },
+  "pursuit": {
+    "translation": "追求",
+    "civicsNote": "“追求幸福”(Pursuit of Happiness)是《独立宣言》中著名短语的一部分。"
+  },
+  "push": {
+    "translation": "推"
+  },
+  "quartering": {
+    "translation": "驻扎;驻兵",
+    "civicsNote": "宪法第三修正案禁止政府在未经房主同意的情况下将士兵驻扎在民宅中。"
+  },
+  "race": {
+    "translation": "种族",
+    "civicsNote": "根据宪法第15修正案,不得因种族而剥夺公民的投票权。"
+  },
+  "reason": {
+    "translation": "原因"
+  },
+  "recession": {
+    "translation": "经济衰退"
+  },
+  "reconstruction": {
+    "translation": "重建;重建时期",
+    "civicsNote": "指内战后(1865-1877年)南方各州重新加入联邦的时期。"
+  },
+  "register": {
+    "translation": "登记;注册",
+    "civicsNote": "用于表示为投票进行选民登记(register to vote),或18岁男性为义务兵役登记系统(Selective Service)进行注册。"
+  },
+  "religion": {
+    "translation": "宗教",
+    "civicsNote": "宪法第一修正案赋予每个人选择任何宗教信仰,或不信奉任何宗教的自由。"
+  },
+  "remember": {
+    "translation": "记住"
+  },
+  "represent": {
+    "translation": "代表"
+  },
+  "representation": {
+    "translation": "代表权",
+    "civicsNote": "“无代表权不纳税”(No taxation without representation)是美国革命的重要诉求之一。"
+  },
+  "representative": {
+    "translation": "代表;众议员",
+    "civicsNote": "指美国国会众议院(House of Representatives)的成员;各州的众议员人数依人口而定,任期为两年。"
+  },
+  "republic": {
+    "translation": "共和国"
+  },
+  "required": {
+    "translation": "必需的;被要求的"
+  },
+  "resident": {
+    "translation": "居民"
+  },
+  "resolves": {
+    "translation": "决定;决议"
+  },
+  "retirement": {
+    "translation": "退休"
+  },
+  "reviews": {
+    "translation": "审查;复审",
+    "civicsNote": "可用于最高法院对法律是否符合宪法进行审查(judicial review)的语境中。"
+  },
+  "revolution": {
+    "translation": "革命",
+    "civicsNote": "“美国革命”(American Revolution,即美国独立战争)指美国脱离英国赢得独立的战争。"
+  },
+  "rhode": {
+    "translation": "罗德(岛)"
+  },
+  "right": {
+    "translation": "权利",
+    "civicsNote": "“权利法案”(Bill of Rights)是宪法保障基本权利的前十条修正案。"
+  },
+  "rival": {
+    "translation": "对手;竞争对手",
+    "civicsNote": "可用来指冷战时期与美国对立的国家(例如俄罗斯/苏联)。"
+  },
+  "river": {
+    "translation": "河流"
+  },
+  "roaring": {
+    "translation": "喧闹的;咆哮的",
+    "civicsNote": "“喧嚣的二十年代”(Roaring Twenties)指20世纪20年代经济繁荣与娱乐兴盛的时期。"
+  },
+  "roosevelt": {
+    "translation": "罗斯福"
+  },
+  "rule": {
+    "translation": "规则",
+    "civicsNote": "“法治”(rule of law)是指人人——甚至包括领导者——都必须遵守法律的原则。"
+  },
+  "run": {
+    "translation": "竞选;参选",
+    "civicsNote": "在“run for office”这个短语中,并不是“跑步”的意思,而是指参加竞选、成为候选人。"
+  },
+  "russia": {
+    "translation": "俄罗斯"
+  },
+  "safety": {
+    "translation": "安全"
+  },
+  "said": {
+    "translation": "说(过去式)"
+  },
+  "same": {
+    "translation": "相同的"
+  },
+  "saratoga": {
+    "translation": "萨拉托加",
+    "civicsNote": "萨拉托加战役被认为是美国革命(独立战争)的转折点之一。"
+  },
+  "saved": {
+    "translation": "救了;保存了"
+  },
+  "say": {
+    "translation": "说"
+  },
+  "school": {
+    "translation": "学校"
+  },
+  "seats": {
+    "translation": "席位"
+  },
+  "secret": {
+    "translation": "秘密的",
+    "civicsNote": "“秘密投票”(secret ballot)指选民投给谁不为他人所知的原则。"
+  },
+  "secretary": {
+    "translation": "部长",
+    "civicsNote": "在美国,“Secretary”指某个政府部门的负责人(例如Secretary of State即国务卿),与普通“秘书”一职不同。"
+  },
+  "security": {
+    "translation": "安全;保障",
+    "civicsNote": "“社会保障”(Social Security)是政府为退休、残障或失业人员提供援助的项目。"
+  },
+  "see": {
+    "translation": "看见"
+  },
+  "seek": {
+    "translation": "寻求"
+  },
+  "select": {
+    "translation": "选择",
+    "civicsNote": "“义务兵役登记系统”(Selective Service System)是要求18岁男性进行兵役登记的联邦制度。"
+  },
+  "self-government": {
+    "translation": "自治"
+  },
+  "seminole": {
+    "translation": "塞米诺尔人",
+    "civicsNote": "是“说出一个美洲原住民部落的名称”这一问题的可接受答案之一。"
+  },
+  "senate": {
+    "translation": "参议院",
+    "civicsNote": "是美国国会两院之一;每州选出2名参议员,共由100名成员组成。"
+  },
+  "senator": {
+    "translation": "参议员",
+    "civicsNote": "每个州选出2名参议员,任期为6年。"
+  },
+  "send": {
+    "translation": "发送;派遣"
+  },
+  "seneca": {
+    "translation": "塞内卡人",
+    "civicsNote": "是“说出一个美洲原住民部落的名称”这一问题的可接受答案之一。"
+  },
+  "separate": {
+    "translation": "分开的;分离的",
+    "civicsNote": "“权力分立”(separation of powers)指政府分为立法、行政和司法三个独立部门的原则。"
+  },
+  "september": {
+    "translation": "九月"
+  },
+  "serve": {
+    "translation": "服务;任职"
+  },
+  "service": {
+    "translation": "服务"
+  },
+  "set": {
+    "translation": "设定;放置"
+  },
+  "several": {
+    "translation": "几个;数个"
+  },
+  "share": {
+    "translation": "分享;共享",
+    "civicsNote": "“权力共享”(share power)指在联邦体制下,国家(联邦)政府与州政府共同分享权力。"
+  },
+  "sharpsburg": {
+    "translation": "夏普斯堡"
+  },
+  "shawnee": {
+    "translation": "肖尼人",
+    "civicsNote": "是“说出一个美洲原住民部落的名称”这一问题的可接受答案之一。"
+  },
+  "sherman's": {
+    "translation": "谢尔曼的",
+    "civicsNote": "“谢尔曼的进军”(Sherman's March)指内战期间谢尔曼将军率军穿越南方的军事行动。"
+  },
+  "ship": {
+    "translation": "船"
+  },
+  "short": {
+    "translation": "短的"
+  },
+  "should": {
+    "translation": "应该"
+  },
+  "show": {
+    "translation": "展示;显示"
+  },
+  "sign": {
+    "translation": "签署",
+    "civicsNote": "指总统通过签署(sign)使法案成为法律。"
+  },
+  "simple": {
+    "translation": "简单的"
+  },
+  "sing": {
+    "translation": "唱歌"
+  },
+  "sioux": {
+    "translation": "苏族人",
+    "civicsNote": "是“说出一个美洲原住民部落的名称”这一问题的可接受答案之一。"
+  },
+  "sit": {
+    "translation": "坐",
+    "civicsNote": "“sit on the Supreme Court”指某位法官作为最高法院成员任职。"
+  },
+  "six": {
+    "translation": "六"
+  },
+  "size": {
+    "translation": "大小"
+  },
+  "skin": {
+    "translation": "皮肤",
+    "civicsNote": "“肤色”(skin color)——根据宪法第15修正案,不得因种族或肤色而剥夺投票权。"
+  },
+  "skyscraper": {
+    "translation": "摩天大楼"
+  },
+  "slavery": {
+    "translation": "奴隶制"
+  },
+  "slave": {
+    "translation": "奴隶"
+  },
+  "small": {
+    "translation": "小的"
+  },
+  "so": {
+    "translation": "所以"
+  },
+  "social": {
+    "translation": "社会的",
+    "civicsNote": "常用于“社会保障”(Social Security)项目的语境中。"
+  },
+  "sojourner": {
+    "translation": "索杰纳"
+  },
+  "sold": {
+    "translation": "卖了;卖掉了"
+  },
+  "soldier": {
+    "translation": "士兵"
+  },
+  "some": {
+    "translation": "一些"
+  },
+  "someone": {
+    "translation": "某人"
+  },
+  "something": {
+    "translation": "某事;某物"
+  },
+  "song": {
+    "translation": "歌曲",
+    "civicsNote": "美国国歌《星条旗永不落》(The Star-Spangled Banner)就是一首歌曲。"
+  },
+  "south": {
+    "translation": "南方",
+    "civicsNote": "在美国历史上,“the South”(南方)指内战前组成南方邦联的南部各州。"
+  },
+  "southern": {
+    "translation": "南方的",
+    "civicsNote": "指内战时期南方(邦联)各州。"
+  },
+  "sovereignty": {
+    "translation": "主权",
+    "civicsNote": "指各州自治的权力,涉及联邦制的概念。"
+  },
+  "soviet": {
+    "translation": "苏维埃的;苏联的",
+    "civicsNote": "苏联在冷战期间是美国的主要对手。"
+  },
+  "spanish-american": {
+    "translation": "西班牙-美国的;美西",
+    "civicsNote": "指1898年美国与西班牙之间爆发的“美西战争”。"
+  },
+  "speak": {
+    "translation": "说话"
+  },
+  "speaker": {
+    "translation": "发言人;议长",
+    "civicsNote": "众议院议长(Speaker of the House)主持众议院会议,并在总统继任顺序中位列其中。"
+  },
+  "special": {
+    "translation": "特别的",
+    "civicsNote": "也用于填补国会空缺席位而举行的“特别选举”(special election)语境中。"
+  },
+  "speech": {
+    "translation": "言论;演讲",
+    "civicsNote": "“言论自由”(freedom of speech)是宪法第一修正案所保护的权利。"
+  },
+  "spend": {
+    "translation": "花费"
+  },
+  "sport": {
+    "translation": "体育运动"
+  },
+  "spread": {
+    "translation": "传播;扩散",
+    "civicsNote": "用于描述冷战期间共产主义的扩散(the spread of communism)。"
+  },
+  "stamp": {
+    "translation": "印章;邮票",
+    "civicsNote": "指殖民地民众强烈反对的英国税法——“印花税法”(Stamp Act)。"
+  },
+  "stand": {
+    "translation": "代表;象征",
+    "civicsNote": "在“星星/条纹代表(stand for)什么?”这类问题中,表示“象征/代表什么”的意思。"
+  },
+  "stanton": {
+    "translation": "斯坦顿",
+    "civicsNote": "指妇女权利运动的先驱人物伊丽莎白·凯迪·斯坦顿(Elizabeth Cady Stanton)。"
+  },
+  "star": {
+    "translation": "星星",
+    "civicsNote": "美国国旗上的50颗星星代表50个州。"
+  },
+  "star-spangled": {
+    "translation": "星条旗",
+    "civicsNote": "“The Star-Spangled Banner”(星条旗永不落)是美国国歌的名称;此处作为专有名词使用,而非按字面意思理解。"
+  },
+  "start": {
+    "translation": "开始"
+  },
+  "state": {
+    "translation": "州",
+    "civicsNote": "在公民考试中,“state”通常指组成美国的50个州中的一个。"
+  },
+  "statement": {
+    "translation": "声明"
+  },
+  "statue": {
+    "translation": "雕像",
+    "civicsNote": "指自由女神像(Statue of Liberty)。"
+  },
+  "statute": {
+    "translation": "法规;法令"
+  },
+  "stay": {
+    "translation": "留下;停留"
+  },
+  "still": {
+    "translation": "仍然"
+  },
+  "stock": {
+    "translation": "股票",
+    "civicsNote": "指1929年的股市(stock market)崩盘,该事件引发了大萧条(Great Depression)。"
+  },
+  "stone": {
+    "translation": "石头",
+    "civicsNote": "也可指妇女权利运动的先驱露西·斯通(Lucy Stone)。"
+  },
+  "stop": {
+    "translation": "停止"
+  },
+  "storm": {
+    "translation": "风暴"
+  },
+  "stripe": {
+    "translation": "条纹",
+    "civicsNote": "美国国旗上的13条条纹代表最初的13个殖民地。"
+  },
+  "strong": {
+    "translation": "强壮的;强大的"
+  },
+  "subject": {
+    "translation": "臣民",
+    "civicsNote": "在独立之前,美洲殖民者并非公民,而是英国国王的“臣民”(subject)。"
+  },
+  "sugar": {
+    "translation": "糖",
+    "civicsNote": "指激怒殖民地民众的英国税法——“糖税法”(Sugar Act)。"
+  },
+  "sumter": {
+    "translation": "萨姆特",
+    "civicsNote": "指内战首次交战发生地——萨姆特堡(Fort Sumter)。"
+  },
+  "support": {
+    "translation": "支持",
+    "civicsNote": "用于公民入籍誓词中的“支持并捍卫宪法”(support and defend the Constitution)一语。"
+  },
+  "supreme": {
+    "translation": "最高的",
+    "civicsNote": "最高法院(Supreme Court)是美国最高级别的法院。"
+  },
+  "sure": {
+    "translation": "确定的"
+  },
+  "surrender": {
+    "translation": "投降",
+    "civicsNote": "英军在1781年结束独立战争的约克镇围城战中投降。"
+  },
+  "susan": {
+    "translation": "苏珊",
+    "civicsNote": "指妇女争取投票权运动的先驱苏珊·B·安东尼(Susan B. Anthony)。"
+  },
+  "system": {
+    "translation": "系统;体制",
+    "civicsNote": "指“经济制度”(如资本主义)或政府的“制衡体系”(checks and balances)等概念。"
+  },
+  "take": {
+    "translation": "拿;取"
+  },
+  "tax": {
+    "translation": "税",
+    "civicsNote": "殖民地在无代表权情况下被征税,是美国革命的重要原因之一。"
+  },
+  "taxation": {
+    "translation": "征税;税收",
+    "civicsNote": "“无代表权不纳税”(No taxation without representation)是革命前殖民地著名的抗议口号。"
+  },
+  "tea": {
+    "translation": "茶",
+    "civicsNote": "指波士顿倾茶事件(Boston Tea Party),即殖民地民众针对英国茶税举行的著名抗议活动。"
+  },
+  "team": {
+    "translation": "团队"
+  },
+  "term": {
+    "translation": "任期",
+    "civicsNote": "例如,参议员的任期为6年,总统的任期为4年。"
+  },
+  "territory": {
+    "translation": "领地;领土",
+    "civicsNote": "美国的领地(territories)包括波多黎各、关岛和美属萨摩亚等。"
+  },
+  "terror": {
+    "translation": "恐怖"
+  },
+  "terrorist": {
+    "translation": "恐怖分子",
+    "civicsNote": "指2001年9月11日针对美国的恐怖袭击事件：\"Terrorists attacked the United States.\"（恐怖分子袭击了美国）。"
+  },
+  "teton": {
+    "translation": "提顿（苏族）",
+    "civicsNote": "是“说出一个美国原住民部落名称”这一问题的可接受答案之一（提顿苏族，Teton Sioux）。"
+  },
+  "than": {
+    "translation": "比（比较连词）"
+  },
+  "thank": {
+    "translation": "感谢"
+  },
+  "thanksgiving": {
+    "translation": "感恩节",
+    "civicsNote": "感恩节（Thanksgiving）是美国的联邦法定节日之一。"
+  },
+  "that": {
+    "translation": "那；那个"
+  },
+  "the": {
+    "translation": "定冠词“the”"
+  },
+  "their": {
+    "translation": "他们的"
+  },
+  "them": {
+    "translation": "他们/她们/它们（宾格）"
+  },
+  "themselves": {
+    "translation": "他们自己"
+  },
+  "then": {
+    "translation": "然后；那时"
+  },
+  "there": {
+    "translation": "那里"
+  },
+  "thereof": {
+    "translation": "由此；对此",
+    "civicsNote": "出现在宪法第一修正案中：“...or prohibiting the free exercise thereof”（不得禁止对其自由行使——指宗教信仰的自由实践）。"
+  },
+  "these": {
+    "translation": "这些"
+  },
+  "they": {
+    "translation": "他们/她们/它们"
+  },
+  "thing": {
+    "translation": "事物；东西"
+  },
+  "think": {
+    "translation": "思考；认为"
+  },
+  "third": {
+    "translation": "第三"
+  },
+  "thirty-five": {
+    "translation": "三十五",
+    "civicsNote": "要成为美国总统，必须年满35岁。"
+  },
+  "this": {
+    "translation": "这；这个"
+  },
+  "thomas": {
+    "translation": "托马斯",
+    "civicsNote": "通常指托马斯·杰斐逊（Thomas Jefferson），他是《独立宣言》的主要撰写人，也是美国第三任总统。"
+  },
+  "those": {
+    "translation": "那些"
+  },
+  "three": {
+    "translation": "三",
+    "civicsNote": "美国政府分为三个部门（三权分立）：立法、行政和司法。"
+  },
+  "through": {
+    "translation": "通过；穿过"
+  },
+  "time": {
+    "translation": "时间"
+  },
+  "to": {
+    "translation": "到；向"
+  },
+  "together": {
+    "translation": "一起"
+  },
+  "too": {
+    "translation": "也；太"
+  },
+  "top": {
+    "translation": "顶部；最高处"
+  },
+  "torch": {
+    "translation": "火炬",
+    "civicsNote": "自由女神像手持一支象征自由的火炬。"
+  },
+  "total": {
+    "translation": "总计；总数"
+  },
+  "townshend": {
+    "translation": "汤森",
+    "civicsNote": "汤森法案（Townshend Acts）是英国在美洲殖民地征收商品税的法律。"
+  },
+  "trade": {
+    "translation": "贸易",
+    "civicsNote": "国会有权管理与外国及各州之间的贸易。"
+  },
+  "transportation": {
+    "translation": "交通运输",
+    "civicsNote": "交通运输部（Department of Transportation）是总统内阁中的一个部门。"
+  },
+  "treasury": {
+    "translation": "财政部",
+    "civicsNote": "美国财政部（Department of the Treasury）是内阁级部门之一。"
+  },
+  "treaty": {
+    "translation": "条约",
+    "civicsNote": "常出现在结束战争的和平条约，或与原住民部落所签订条约的语境中。"
+  },
+  "treatment": {
+    "translation": "待遇；治疗"
+  },
+  "trenton": {
+    "translation": "特伦顿",
+    "civicsNote": "是独立战争期间华盛顿著名的特伦顿战役（Battle of Trenton）的发生地。"
+  },
+  "tribe": {
+    "translation": "部落",
+    "civicsNote": "指美国原住民部落（如切罗基族、纳瓦霍族、苏族等）；考试中会要求说出一个部落的名称。"
+  },
+  "trouble": {
+    "translation": "麻烦；困难"
+  },
+  "truth": {
+    "translation": "真相；事实"
+  },
+  "tubman": {
+    "translation": "塔布曼",
+    "civicsNote": "她通过“地下铁路”（Underground Railroad）帮助被奴役的人获得自由，是一位著名的美国人。"
+  },
+  "turn": {
+    "translation": "转向；转变"
+  },
+  "tuscarora": {
+    "translation": "塔斯卡罗拉（族）",
+    "civicsNote": "是“说出一个美国原住民部落名称”这一问题的可接受答案之一。"
+  },
+  "twenty-seven": {
+    "translation": "二十七",
+    "civicsNote": "指宪法第27条修正案（与国会议员薪酬有关）。"
+  },
+  "two": {
+    "translation": "二",
+    "civicsNote": "出现在许多公民考试答案中，例如每个州有两名参议员，或参议员六年任期中每两年改选三分之一等。"
+  },
+  "u.s.": {
+    "translation": "美国",
+    "civicsNote": "是考试中经常使用的“United States”（美国）的缩写。"
+  },
+  "under": {
+    "translation": "在……之下；受……管辖"
+  },
+  "understand": {
+    "translation": "理解；懂得",
+    "civicsNote": "入籍的英语要求之一：能读、写、说和理解基础英语。"
+  },
+  "unfair": {
+    "translation": "不公平的",
+    "civicsNote": "指导致殖民者反抗英国的不公平税收和法律。"
+  },
+  "union": {
+    "translation": "联邦；联盟",
+    "civicsNote": "指南北战争中的北方各州（“the Union”），也可泛指整个美利坚合众国。"
+  },
+  "united": {
+    "translation": "联合的；统一的",
+    "civicsNote": "是国名“United States of America”（美利坚合众国）的一部分。"
+  },
+  "university": {
+    "translation": "大学"
+  },
+  "until": {
+    "translation": "直到"
+  },
+  "unum": {
+    "translation": "一（拉丁语，用于美国格言）",
+    "civicsNote": "是格言“E Pluribus Unum”（合众为一）的一部分，印在美国货币上。"
+  },
+  "up": {
+    "translation": "向上"
+  },
+  "urban": {
+    "translation": "城市的"
+  },
+  "usa": {
+    "translation": "美国",
+    "civicsNote": "是国家全称的缩写。"
+  },
+  "use": {
+    "translation": "使用"
+  },
+  "ussr": {
+    "translation": "苏联",
+    "civicsNote": "冷战时期美国的主要对手，常出现在“冷战期间美国的主要对手是谁？”之类的问题中。"
+  },
+  "usually": {
+    "translation": "通常"
+  },
+  "valley": {
+    "translation": "山谷",
+    "civicsNote": "指独立战争期间华盛顿军队过冬驻扎的福吉谷（Valley Forge）。"
+  },
+  "vary": {
+    "translation": "变化；不同",
+    "civicsNote": "“Answers will vary”（答案因人而异）用于那些答案会因个人所在州/地区不同而变化的问题。"
+  },
+  "very": {
+    "translation": "非常"
+  },
+  "veteran": {
+    "translation": "退伍军人",
+    "civicsNote": "与退伍军人节（Veterans Day）有关，该节日用于表彰曾在美国军队服役的人员。"
+  },
+  "veto": {
+    "translation": "否决",
+    "civicsNote": "是总统拒绝批准国会所通过法案的权力。"
+  },
+  "vice": {
+    "translation": "副（如“副总统”）",
+    "civicsNote": "用于“Vice President”（副总统）这一头衔中。"
+  },
+  "vice-president": {
+    "translation": "副总统",
+    "civicsNote": "是总统继任顺序中的第一位；常出现在内阁名单相关题目中。"
+  },
+  "vicksburg": {
+    "translation": "维克斯堡",
+    "civicsNote": "是南北战争中一场重要战役（维克斯堡围城战）的发生地。"
+  },
+  "vietnam": {
+    "translation": "越南",
+    "civicsNote": "与美国参战的越南战争有关，是20世纪美国参与的战争之一。"
+  },
+  "virginia": {
+    "translation": "弗吉尼亚（州）",
+    "civicsNote": "是最初13个殖民地之一；詹姆斯敦和约克镇都位于该州。"
+  },
+  "visit": {
+    "translation": "拜访；参观"
+  },
+  "vote": {
+    "translation": "投票",
+    "civicsNote": "是公民考试的核心主题之一：投票权、投票年龄（18岁），以及与投票权相关的宪法修正案。"
+  },
+  "vs": {
+    "translation": "对；相对于"
+  },
+  "want": {
+    "translation": "想要"
+  },
+  "war": {
+    "translation": "战争",
+    "civicsNote": "公民考试会问及20世纪美国参与的战争（一战、二战、朝鲜战争、越南战争、海湾战争），以及独立战争和南北战争。"
+  },
+  "washington": {
+    "translation": "华盛顿",
+    "civicsNote": "根据上下文可指三种不同含义：第一任总统本人、国家首都，或一个州。"
+  },
+  "way": {
+    "translation": "方式；方法"
+  },
+  "we": {
+    "translation": "我们",
+    "civicsNote": "与宪法著名的开篇语“We the People”（我们人民）有关。"
+  },
+  "welcome": {
+    "translation": "欢迎",
+    "civicsNote": "出现在美国“欢迎”或“接纳”移民这一理念的语境中。"
+  },
+  "what": {
+    "translation": "什么"
+  },
+  "when": {
+    "translation": "何时"
+  },
+  "where": {
+    "translation": "哪里"
+  },
+  "which": {
+    "translation": "哪一个"
+  },
+  "while": {
+    "translation": "当……的时候"
+  },
+  "who": {
+    "translation": "谁"
+  },
+  "whole": {
+    "translation": "整个；全部"
+  },
+  "why": {
+    "translation": "为什么"
+  },
+  "will": {
+    "translation": "将（将来时助动词）"
+  },
+  "win": {
+    "translation": "赢得；获胜",
+    "civicsNote": "可能出现在殖民地赢得对英独立这一语境中。"
+  },
+  "with": {
+    "translation": "与……一起"
+  },
+  "without": {
+    "translation": "没有",
+    "civicsNote": "“No taxation without representation”（无代表则不纳税）是导致独立战争的重要原因之一。"
+  },
+  "woman": {
+    "translation": "女人；女性",
+    "civicsNote": "与宪法第19条修正案赋予妇女投票权（women's suffrage）有关。"
+  },
+  "word": {
+    "translation": "词；单词"
+  },
+  "work": {
+    "translation": "工作",
+    "civicsNote": "也出现在描述政府各部门如何相互“运作”（即制衡机制，checks and balances）的语境中。"
+  },
+  "world": {
+    "translation": "世界",
+    "civicsNote": "是“World War”（世界大战）一词的一部分（一战、二战）。"
+  },
+  "worry": {
+    "translation": "担心"
+  },
+  "worship": {
+    "translation": "敬拜；礼拜",
+    "civicsNote": "“Freedom of worship”（礼拜/宗教信仰自由）是宪法第一修正案中所保障的权利之一。"
+  },
+  "would": {
+    "translation": "会；将会"
+  },
+  "wright": {
+    "translation": "莱特（兄弟）",
+    "civicsNote": "在提及著名美国发明家的问题中，作为示例答案出现。"
+  },
+  "write": {
+    "translation": "书写；写",
+    "civicsNote": "英语要求包括“读、写、说和理解”；也出现在“撰写”宪法的开国先贤（Framers）相关语境中。"
+  },
+  "wwi": {
+    "translation": "一战",
+    "civicsNote": "是美国20世纪参与的战争之一；当时的总统是伍德罗·威尔逊。"
+  },
+  "wwii": {
+    "translation": "二战",
+    "civicsNote": "是美国20世纪参与的战争之一；当时的总统是富兰克林·D·罗斯福。"
+  },
+  "year": {
+    "translation": "年",
+    "civicsNote": "用于诸如参议员任期6年、众议员任期2年、总统任期4年等答案中。"
+  },
+  "york": {
+    "translation": "约克（纽约）",
+    "civicsNote": "指最初13个殖民地/州之一的纽约（New York）。"
+  },
+  "yorktown": {
+    "translation": "约克镇",
+    "civicsNote": "是1781年独立战争最后一场重大战役发生的地方。"
+  },
+  "you": {
+    "translation": "你；你们"
+  },
+  "your": {
+    "translation": "你的；你们的"
+  },
+  "zoning": {
+    "translation": "分区规划",
+    "civicsNote": "在公民考试中作为州/地方政府（而非联邦政府）权力的一个例子出现。"
+  },
+  "define": {
+    "translation": "界定；定义",
+    "civicsNote": "宪法“界定”了政府的权力及其组成部分（defines powers of government）。"
+  },
+  "enforce": {
+    "translation": "执行；实施",
+    "civicsNote": "总统的一项职权是确保法律得到执行（enforces laws）。"
+  },
+  "print": {
+    "translation": "印刷",
+    "civicsNote": "只有联邦政府有权印制纸币（print paper money）。"
+  },
+  "abjure": {
+    "translation": "宣誓放弃（效忠）",
+    "civicsNote": "出现在N-400入籍誓词（效忠誓言，Oath of Allegiance）中。"
+  },
+  "advocate": {
+    "translation": "倡导；支持"
+  },
+  "alimony": {
+    "translation": "赡养费"
+  },
+  "amnesty": {
+    "translation": "大赦"
+  },
+  "annul": {
+    "translation": "宣告无效；废除（婚姻）"
+  },
+  "assassination": {
+    "translation": "暗杀"
+  },
+  "assault": {
+    "translation": "人身攻击；殴打"
+  },
+  "biographic": {
+    "translation": "个人信息的；传记性的"
+  },
+  "certify": {
+    "translation": "证明；核证"
+  },
+  "clemency": {
+    "translation": "宽大处理；减刑"
+  },
+  "communist": {
+    "translation": "共产主义的"
+  },
+  "conscript": {
+    "translation": "征募入伍"
+  },
+  "conspire": {
+    "translation": "密谋；共谋"
+  },
+  "convict": {
+    "translation": "判定有罪"
+  },
+  "court-martial": {
+    "translation": "军事法庭审判"
+  },
+  "dependent": {
+    "translation": "受抚养人"
+  },
+  "deport": {
+    "translation": "驱逐出境"
+  },
+  "desert": {
+    "translation": "开小差；擅离职守"
+  },
+  "detain": {
+    "translation": "拘留"
+  },
+  "discharge": {
+    "translation": "退役；解除服役"
+  },
+  "dishonorable": {
+    "translation": "不名誉的；不光荣的"
+  },
+  "disposition": {
+    "translation": "案件处理结果；判决结果"
+  },
+  "eligible": {
+    "translation": "有资格的"
+  },
+  "ethnicity": {
+    "translation": "民族；族裔"
+  },
+  "exempt": {
+    "translation": "豁免；免除"
+  },
+  "explosive": {
+    "translation": "爆炸物"
+  },
+  "facility": {
+    "translation": "设施"
+  },
+  "fee": {
+    "translation": "费用"
+  },
+  "fluent": {
+    "translation": "流利的"
+  },
+  "gamble": {
+    "translation": "赌博"
+  },
+  "genocide": {
+    "translation": "种族灭绝"
+  },
+  "guerrilla": {
+    "translation": "游击队员"
+  },
+  "hereditary": {
+    "translation": "世袭的"
+  },
+  "hijack": {
+    "translation": "劫持"
+  },
+  "honorable": {
+    "translation": "光荣的；名誉的"
+  },
+  "hostility": {
+    "translation": "敌对行动；交战状态"
+  },
+  "incite": {
+    "translation": "煽动"
+  },
+  "interpreter": {
+    "translation": "口译员"
+  },
+  "kidnap": {
+    "translation": "绑架"
+  },
+  "legal": {
+    "translation": "合法的"
+  },
+  "marital": {
+    "translation": "婚姻的"
+  },
+  "misrepresentation": {
+    "translation": "虚假陈述"
+  },
+  "narcotic": {
+    "translation": "麻醉品"
+  },
+  "naturalization": {
+    "translation": "入籍；归化"
+  },
+  "nickname": {
+    "translation": "昵称"
+  },
+  "nobility": {
+    "translation": "贵族"
+  },
+  "noncombatant": {
+    "translation": "非战斗人员"
+  },
+  "overthrow": {
+    "translation": "推翻"
+  },
+  "paramilitary": {
+    "translation": "准军事的"
+  },
+  "pardon": {
+    "translation": "赦免"
+  },
+  "parole": {
+    "translation": "假释"
+  },
+  "perjury": {
+    "translation": "伪证罪"
+  },
+  "physical": {
+    "translation": "身体的"
+  },
+  "probation": {
+    "translation": "缓刑"
+  },
+  "prostitution": {
+    "translation": "卖淫"
+  },
+  "provision": {
+    "translation": "条款"
+  },
+  "recruit": {
+    "translation": "招募"
+  },
+  "reduction": {
+    "translation": "减少"
+  },
+  "renounce": {
+    "translation": "放弃（权利或效忠）",
+    "civicsNote": "出现在N-400入籍誓词（效忠誓言，Oath of Allegiance）中。"
+  },
+  "rescission": {
+    "translation": "撤销"
+  },
+  "residence": {
+    "translation": "住所"
+  },
+  "sabotage": {
+    "translation": "蓄意破坏"
+  },
+  "sentence": {
+    "translation": "刑罚；判决"
+  },
+  "smuggle": {
+    "translation": "走私"
+  },
+  "status": {
+    "translation": "身份；状态"
+  },
+  "substance": {
+    "translation": "物质"
+  },
+  "suspend": {
+    "translation": "暂停；缓期"
+  },
+  "terminate": {
+    "translation": "终止"
+  },
+  "title": {
+    "translation": "头衔"
+  },
+  "torture": {
+    "translation": "酷刑"
+  },
+  "totalitarian": {
+    "translation": "极权主义的"
+  },
+  "traffic": {
+    "translation": "贩运"
+  },
+  "unconstitutional": {
+    "translation": "违宪的"
+  },
+  "vigilante": {
+    "translation": "私刑执法者"
+  },
+  "weapon": {
+    "translation": "武器"
+  }
+}
