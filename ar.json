@@ -1,0 +1,3269 @@
+{
+  "a": {
+    "translation": "أداة تنكير (تُستخدم قبل اسم للدلالة على واحد غير محدد)"
+  },
+  "about": {
+    "translation": "حول / بشأن"
+  },
+  "above": {
+    "translation": "فوق"
+  },
+  "abraham": {
+    "translation": "أبراهام",
+    "civicsNote": "أبراهام لينكولن هو رئيس الولايات المتحدة الذي تولى الحكم في فترة الحرب الأهلية وألغى نظام العبودية."
+  },
+  "acceptable": {
+    "translation": "مقبول"
+  },
+  "act": {
+    "translation": "فعل / قانون (تشريع)",
+    "civicsNote": "غالبًا ما يُستخدم في الامتحان بمعنى 'قانون' يصدره الكونغرس (مثل قانون المزارع المنزلية - Homestead Act)."
+  },
+  "active": {
+    "translation": "نشط"
+  },
+  "add": {
+    "translation": "يضيف"
+  },
+  "addition": {
+    "translation": "إضافة"
+  },
+  "address": {
+    "translation": "خطاب (رسمي)",
+    "civicsNote": "يُستخدم هنا بمعنى خطاب سياسي رسمي، مثل خطاب غيتيسبرغ لعبد لينكولن (Gettysburg Address)."
+  },
+  "administration": {
+    "translation": "إدارة (حكومة الرئيس)",
+    "civicsNote": "يُستخدم غالبًا بمعنى إدارة أو حكومة رئيس معيّن."
+  },
+  "administrator": {
+    "translation": "مسؤول إداري / مدير",
+    "civicsNote": "قد يُستخدم بمعنى الشخص المسؤول عن رئاسة مؤسسة حكومية."
+  },
+  "adopt": {
+    "translation": "يتبنى / يعتمد (رسميًا)",
+    "civicsNote": "يُستخدم بمعنى الموافقة الرسمية على الدستور أو تعديل ما."
+  },
+  "advice": {
+    "translation": "مشورة / نصيحة",
+    "civicsNote": "في الدستور، تشير عبارة 'advice and consent' (المشورة والموافقة) إلى الموافقة التي يجب أن يحصل عليها الرئيس من مجلس الشيوخ."
+  },
+  "advise": {
+    "translation": "ينصح / يقدّم المشورة"
+  },
+  "affair": {
+    "translation": "شأن (ج. شؤون)",
+    "civicsNote": "'الشؤون الخارجية' (Foreign affairs) تعني علاقات بلد ما بالدول الأخرى، أي السياسة الخارجية."
+  },
+  "afghanistan": {
+    "translation": "أفغانستان"
+  },
+  "africa": {
+    "translation": "أفريقيا"
+  },
+  "african": {
+    "translation": "أفريقي"
+  },
+  "after": {
+    "translation": "بعد"
+  },
+  "again": {
+    "translation": "مرة أخرى"
+  },
+  "against": {
+    "translation": "ضد"
+  },
+  "age": {
+    "translation": "عمر / سنّ",
+    "civicsNote": "يُستخدم في الامتحان غالبًا في سياق السن المطلوب للتصويت أو للتقدم بطلب الحصول على الجنسية."
+  },
+  "agency": {
+    "translation": "وكالة (حكومية)"
+  },
+  "ago": {
+    "translation": "منذ (مضى)"
+  },
+  "agree": {
+    "translation": "يوافق"
+  },
+  "agriculture": {
+    "translation": "الزراعة"
+  },
+  "aide": {
+    "translation": "مساعد"
+  },
+  "aim": {
+    "translation": "يهدف / هدف"
+  },
+  "airplane": {
+    "translation": "طائرة"
+  },
+  "alexander": {
+    "translation": "ألكسندر",
+    "civicsNote": "ألكسندر هاملتون هو من كتب الدستور وكان أول وزير للخزانة."
+  },
+  "all": {
+    "translation": "الكل / جميع"
+  },
+  "allegiance": {
+    "translation": "الولاء",
+    "civicsNote": "'قسم الولاء' (Pledge of Allegiance) هو يمين الولاء لعلم الولايات المتحدة والبلاد."
+  },
+  "allied": {
+    "translation": "متحالف / حليف",
+    "civicsNote": "في الحرب العالمية الثانية، تشير 'قوى الحلفاء' (Allied Powers) إلى دول مثل الولايات المتحدة وبريطانيا والاتحاد السوفيتي."
+  },
+  "along": {
+    "translation": "على طول / بمحاذاة"
+  },
+  "also": {
+    "translation": "أيضًا"
+  },
+  "always": {
+    "translation": "دائمًا"
+  },
+  "amend": {
+    "translation": "يُعدّل (رسميًا)",
+    "civicsNote": "'التعديل' (Amendment) هو تغيير رسمي يُضاف إلى دستور الولايات المتحدة (مثل التعديل الأول)."
+  },
+  "america": {
+    "translation": "أمريكا"
+  },
+  "american": {
+    "translation": "أمريكي"
+  },
+  "an": {
+    "translation": "أداة تنكير (تُستخدم قبل كلمة تبدأ بصوت متحرك)"
+  },
+  "and": {
+    "translation": "و"
+  },
+  "angry": {
+    "translation": "غاضب"
+  },
+  "answer": {
+    "translation": "جواب / إجابة"
+  },
+  "anthem": {
+    "translation": "نشيد (وطني)",
+    "civicsNote": "'ذا ستار سبانغلد بانر' (The Star-Spangled Banner) هو النشيد الوطني للولايات المتحدة."
+  },
+  "anthony": {
+    "translation": "أنتوني",
+    "civicsNote": "سوزان ب. أنتوني هي شخصية مهمة ناضلت من أجل حق المرأة في التصويت."
+  },
+  "anti-federalist": {
+    "translation": "المعادي للفدرالية (الأنتي-فدرالي)",
+    "civicsNote": "هي جماعة سياسية تاريخية عارضت المصادقة على الدستور ودافعت عن حقوق الولايات."
+  },
+  "antietam": {
+    "translation": "أنتيتام",
+    "civicsNote": "هي إحدى المعارك المهمة في الحرب الأهلية الأمريكية."
+  },
+  "any": {
+    "translation": "أي"
+  },
+  "anymore": {
+    "translation": "بعد الآن (لم يعد)"
+  },
+  "anyone": {
+    "translation": "أي شخص"
+  },
+  "apache": {
+    "translation": "الأباتشي",
+    "civicsNote": "هي إحدى قبائل الأمريكيين الأصليين (الهنود الحمر) التي تعيش في الولايات المتحدة."
+  },
+  "applicant": {
+    "translation": "المتقدّم بطلب / طالب",
+    "civicsNote": "يُستخدم للإشارة إلى الشخص الذي يتقدم لامتحان الجنسية أو يقدّم طلب الحصول عليها."
+  },
+  "appoint": {
+    "translation": "يعيّن",
+    "civicsNote": "يُستخدم في سياق سلطة الرئيس في تعيين مسؤولين مثل القضاة أو الوزراء."
+  },
+  "appomattox": {
+    "translation": "أبوماتوكس",
+    "civicsNote": "هو المكان الذي استسلم فيه روبرت إي. لي، وانتهت فيه الحرب الأهلية."
+  },
+  "approve": {
+    "translation": "يوافق (رسميًا) / يصادق على"
+  },
+  "be": {
+    "translation": "يكون"
+  },
+  "arlington": {
+    "translation": "أرلينغتون",
+    "civicsNote": "مقبرة أرلينغتون الوطنية هي مكان مهم يُدفن فيه جنود الولايات المتحدة."
+  },
+  "arm": {
+    "translation": "سلاح / أسلحة",
+    "civicsNote": "'الحق في حمل السلاح' (The right to bear arms) يشير إلى حق حمل الأسلحة (التعديل الثاني)."
+  },
+  "army": {
+    "translation": "جيش (بري)"
+  },
+  "around": {
+    "translation": "حول / تقريبًا"
+  },
+  "arrive": {
+    "translation": "يصل"
+  },
+  "article": {
+    "translation": "مادة (بند في وثيقة)",
+    "civicsNote": "الأقسام الرئيسية لدستور الولايات المتحدة تُسمى 'مواد' (Articles)."
+  },
+  "as": {
+    "translation": "كما / بصفته"
+  },
+  "ask": {
+    "translation": "يسأل"
+  },
+  "assassinate": {
+    "translation": "يغتال",
+    "civicsNote": "يُستخدم في سياق مقتل الرئيس لينكولن باغتيال."
+  },
+  "assembly": {
+    "translation": "تجمّع / اجتماع",
+    "civicsNote": "'حرية التجمع' (Freedom of assembly) هي حق يضمنه التعديل الأول."
+  },
+  "associate": {
+    "translation": "معاوِن (برتبة أدنى من الرئيس)",
+    "civicsNote": "'Associate Justice' يشير إلى القضاة الثمانية الآخرين في المحكمة العليا بخلاف رئيس القضاة."
+  },
+  "at": {
+    "translation": "في / عند"
+  },
+  "attack": {
+    "translation": "هجوم / يهاجم",
+    "civicsNote": "يُستخدم في سياق أحداث تاريخية مثل هجوم بيرل هاربر أو هجمات 11 سبتمبر."
+  },
+  "attorney": {
+    "translation": "محامٍ",
+    "civicsNote": "'المدعي العام' (Attorney General) هو مسؤول قانوني وعضو في مجلس الوزراء."
+  },
+  "austria-hungary": {
+    "translation": "النمسا والمجر",
+    "civicsNote": "هي إحدى الإمبراطوريات التي حاربتها الولايات المتحدة في الحرب العالمية الأولى."
+  },
+  "automobile": {
+    "translation": "سيارة"
+  },
+  "axis": {
+    "translation": "المحور (دول المحور)",
+    "civicsNote": "في الحرب العالمية الثانية، هو التحالف المكوَّن من ألمانيا وإيطاليا واليابان."
+  },
+  "bad": {
+    "translation": "سيئ"
+  },
+  "balance": {
+    "translation": "توازن",
+    "civicsNote": "'الضوابط والتوازنات' (Checks and balances) هو نظام يجعل فروع الحكومة تراقب وتوازن سلطة بعضها البعض."
+  },
+  "bank": {
+    "translation": "بنك / مصرف"
+  },
+  "banner": {
+    "translation": "راية / لواء",
+    "civicsNote": "'ذا ستار سبانغلد بانر' (The Star-Spangled Banner) هو اسم النشيد الوطني للولايات المتحدة."
+  },
+  "baseball": {
+    "translation": "بيسبول"
+  },
+  "basic": {
+    "translation": "أساسي"
+  },
+  "battle": {
+    "translation": "معركة",
+    "civicsNote": "يُستخدم في الامتحان غالبًا في سياق معارك مهمة من الحرب الأهلية (مثل معركة أنتيتام)."
+  },
+  "bear": {
+    "translation": "يحمل",
+    "civicsNote": "'الحق في حمل السلاح' (The right to bear arms) يعني حق حمل الأسلحة (التعديل الثاني)."
+  },
+  "beat": {
+    "translation": "يهزم / يضرب"
+  },
+  "become": {
+    "translation": "يصبح",
+    "civicsNote": "يُستخدم غالبًا في سياق 'أن يصبح المرء مواطنًا' (become a citizen)."
+  },
+  "because": {
+    "translation": "لأن"
+  },
+  "before": {
+    "translation": "قبل"
+  },
+  "belong": {
+    "translation": "ينتمي",
+    "civicsNote": "عبارة 'السلطة تنتمي إلى الشعب' (Power belongs to the people) تعني أن السلطة ملك للشعب، أي سيادة الشعب."
+  },
+  "below": {
+    "translation": "تحت / أدنى من"
+  },
+  "benjamin": {
+    "translation": "بنجامين",
+    "civicsNote": "بنجامين فرانكلين هو الذي وقّع على الدستور وكان أول سفير للولايات المتحدة في فرنسا."
+  },
+  "better": {
+    "translation": "أفضل"
+  },
+  "between": {
+    "translation": "بين"
+  },
+  "big": {
+    "translation": "كبير"
+  },
+  "bill": {
+    "translation": "مشروع قانون",
+    "civicsNote": "يصوّت الكونغرس على 'مشروع القانون' (bill)؛ وعندما يُقبل ويوقّعه الرئيس يصبح قانونًا (law)."
+  },
+  "birthday": {
+    "translation": "عيد ميلاد (تاريخ الميلاد)",
+    "civicsNote": "يُسأل مقدّم طلب الجنسية عن تاريخ ميلاده في الطلب والمقابلة."
+  },
+  "black": {
+    "translation": "أسود"
+  },
+  "blackfeet": {
+    "translation": "بلاكفيت",
+    "civicsNote": "هي إحدى الإجابات المقبولة لسؤال 'اذكر قبيلة أمريكية أصلية تعيش في الولايات المتحدة'."
+  },
+  "board": {
+    "translation": "يركب / يصعد على متن",
+    "civicsNote": "في حفلة شاي بوسطن، صعد المستعمرون على متن السفن البريطانية (boarding) وألقوا الشاي في البحر."
+  },
+  "bomb": {
+    "translation": "قنبلة / يقصف",
+    "civicsNote": "قصف اليابان لبيرل هاربر هو ما أدخل الولايات المتحدة في الحرب العالمية الثانية."
+  },
+  "born": {
+    "translation": "مولود (وُلد)",
+    "civicsNote": "عبارة 'المواطن بالولادة' (Natural born citizen) تشير إلى شرط الولادة في الولايات المتحدة لكي يصبح المرء رئيسًا."
+  },
+  "boss": {
+    "translation": "رئيس (في العمل)"
+  },
+  "boston": {
+    "translation": "بوسطن",
+    "civicsNote": "هي المدينة التي وقعت فيها حادثة حفلة شاي بوسطن (Boston Tea Party)."
+  },
+  "both": {
+    "translation": "كلاهما"
+  },
+  "buy": {
+    "translation": "يشتري"
+  },
+  "branch": {
+    "translation": "فرع",
+    "civicsNote": "لحكومة الولايات المتحدة ثلاثة فروع (branches): التشريعية (legislative) والتنفيذية (executive) والقضائية (judicial)."
+  },
+  "britain": {
+    "translation": "بريطانيا",
+    "civicsNote": "أعلنت الولايات المتحدة استقلالها عن بريطانيا في 4 يوليو 1776."
+  },
+  "british": {
+    "translation": "بريطاني"
+  },
+  "brother": {
+    "translation": "أخ"
+  },
+  "budget": {
+    "translation": "ميزانية",
+    "civicsNote": "يملك الكونغرس سلطة جمع الضرائب وتحديد ميزانية البلاد."
+  },
+  "build": {
+    "translation": "يبني"
+  },
+  "bulb": {
+    "translation": "مصباح / لمبة",
+    "civicsNote": "قد يُذكر المصباح الكهربائي (light bulb)، كأحد اختراعات توماس إديسون، في السرد التاريخي."
+  },
+  "bulgaria": {
+    "translation": "بلغاريا"
+  },
+  "bunker": {
+    "translation": "بنكر (ملجأ محصّن تحت الأرض)",
+    "civicsNote": "'معركة بنكر هيل' (Bunker Hill) هي إحدى المعارك المبكرة والمهمة في حرب الاستقلال الأمريكية."
+  },
+  "business": {
+    "translation": "عمل تجاري / تجارة"
+  },
+  "but": {
+    "translation": "لكن"
+  },
+  "by": {
+    "translation": "بواسطة / عند"
+  },
+  "cabinet": {
+    "translation": "مجلس الوزراء",
+    "civicsNote": "يتكون مجلس الوزراء (Cabinet) من رؤساء الوزارات الذين يقدّمون المشورة للرئيس (مثل وزير الخارجية)."
+  },
+  "cabinet-level": {
+    "translation": "بمستوى وزاري"
+  },
+  "cady": {
+    "translation": "كايدي",
+    "civicsNote": "إليزابيث كايدي ستانتون شخصية أمريكية تاريخية ناضلت من أجل حقوق المرأة؛ قد يَرِد هذا الاسم في الامتحان."
+  },
+  "call": {
+    "translation": "يسمّي / يتصل"
+  },
+  "come": {
+    "translation": "يأتي (جاء)"
+  },
+  "campaign": {
+    "translation": "حملة (انتخابية)"
+  },
+  "can": {
+    "translation": "يمكن / قادر على"
+  },
+  "cannot": {
+    "translation": "لا يمكن / لا يستطيع"
+  },
+  "capital": {
+    "translation": "عاصمة",
+    "civicsNote": "واشنطن العاصمة هي عاصمة الولايات المتحدة (national capital)."
+  },
+  "capitalism": {
+    "translation": "الرأسمالية",
+    "civicsNote": "أحد أجوبة سؤال 'ما هو النظام الاقتصادي في الولايات المتحدة؟' هو 'اقتصاد رأسمالي / اقتصاد السوق'."
+  },
+  "capture": {
+    "translation": "يستولي على / يأسر"
+  },
+  "carolina": {
+    "translation": "كارولاينا",
+    "civicsNote": "كارولاينا الشمالية والجنوبية كانتا اثنتين من المستعمرات الثلاث عشرة الأولى."
+  },
+  "carry": {
+    "translation": "يحمل (من مكان لآخر)"
+  },
+  "car": {
+    "translation": "سيارة"
+  },
+  "case": {
+    "translation": "قضية (في المحكمة)"
+  },
+  "cayuga": {
+    "translation": "كايوغا",
+    "civicsNote": "هي قبيلة من الأمريكيين الأصليين، عضو في اتحاد الإيروكوا (Iroquois Confederacy)."
+  },
+  "celebrate": {
+    "translation": "يحتفل"
+  },
+  "center": {
+    "translation": "مركز / وسط"
+  },
+  "central": {
+    "translation": "مركزي",
+    "civicsNote": "تُقسَّم السلطة في الولايات المتحدة بين الحكومة المركزية (الفدرالية) وحكومات الولايات (النظام الفدرالي)."
+  },
+  "change": {
+    "translation": "يغيّر / تغيير",
+    "civicsNote": "تُسمّى التغييرات الرسمية على الدستور 'تعديلات' (amendments)؛ وأول عشرة تعديلات تُعرف بشرعة الحقوق (Bill of Rights)."
+  },
+  "character": {
+    "translation": "شخصية / خُلق",
+    "civicsNote": "'حسن السيرة والسلوك' (Good moral character) هو شرط مطلوب للتقدم بطلب الحصول على الجنسية."
+  },
+  "charge": {
+    "translation": "مسؤولية (المسؤول عن)",
+    "civicsNote": "عبارة 'in charge of' تعني 'أن يكون مسؤولًا عن شيء ما / يديره'؛ فمثلًا الرئيس مسؤول عن السلطة التنفيذية."
+  },
+  "check": {
+    "translation": "ضابط / رقابة",
+    "civicsNote": "'الضوابط والتوازنات' (Checks and balances) هو نظام يتيح لكل جهاز حكومي الحدَّ من سلطة الأجهزة الأخرى."
+  },
+  "cherokee": {
+    "translation": "تشيروكي"
+  },
+  "cheyenne": {
+    "translation": "شايان"
+  },
+  "chief": {
+    "translation": "رئيس / قائد أعلى",
+    "civicsNote": "'القائد العام' (Commander in Chief) هو دور الرئيس بصفته أعلى قائد للجيش؛ أما 'رئيس القضاة' (Chief Justice) فهو رئيس المحكمة العليا."
+  },
+  "chippewa": {
+    "translation": "تشيبيوا"
+  },
+  "choctaw": {
+    "translation": "تشوكتاو"
+  },
+  "choose": {
+    "translation": "يختار",
+    "civicsNote": "يختار المواطنون ممثليهم عن طريق التصويت (voting)."
+  },
+  "christmas": {
+    "translation": "عيد الميلاد المجيد (الكريسماس)",
+    "civicsNote": "هو عطلة رسمية فدرالية في الولايات المتحدة (national holiday)."
+  },
+  "circuit": {
+    "translation": "دائرة (قضائية)",
+    "civicsNote": "'محكمة الدائرة' (Circuit Court) هي إحدى محاكم الاستئناف الإقليمية في النظام القضائي الفدرالي الأمريكي."
+  },
+  "citizen": {
+    "translation": "مواطن"
+  },
+  "citizenship": {
+    "translation": "الجنسية / المواطَنة",
+    "civicsNote": "يشير إلى وضع الجنسية الأمريكية وإجراءاتها، وهو موضوع هذا الامتحان."
+  },
+  "city": {
+    "translation": "مدينة"
+  },
+  "civic": {
+    "translation": "مدني (متعلق بالمواطَنة)",
+    "civicsNote": "'الواجب المدني' (Civic duty) يشير إلى واجبات مثل التصويت."
+  },
+  "civil": {
+    "translation": "أهلي / مدني",
+    "civicsNote": "'الحرب الأهلية' (Civil War, 1861-1865) هي الحرب بين ولايات الشمال والجنوب في الولايات المتحدة. أما 'الحقوق المدنية' (Civil rights) فتشير إلى الحقوق الأساسية للمواطنين."
+  },
+  "civilian": {
+    "translation": "مدني (غير عسكري)",
+    "civicsNote": "الرئيس قائد مدني يتولى قيادة الجيش (السيطرة المدنية على الجيش - civilian control of the military)."
+  },
+  "close": {
+    "translation": "قريب"
+  },
+  "coast": {
+    "translation": "ساحل"
+  },
+  "coercive": {
+    "translation": "قسري / إجباري",
+    "civicsNote": "'القوانين القسرية' (Coercive Acts / Intolerable Acts) هي القوانين العقابية التي أصدرتها بريطانيا في حق المستعمرات بعد حفلة شاي بوسطن."
+  },
+  "coin": {
+    "translation": "عملة معدنية",
+    "civicsNote": "تحمل العملات الأمريكية عبارتَي 'In God We Trust' و'E Pluribus Unum'."
+  },
+  "cold": {
+    "translation": "بارد",
+    "civicsNote": "'الحرب الباردة' (Cold War, 1947-1991) هي التوتر بين الولايات المتحدة والاتحاد السوفيتي؛ وفي الامتحان، جواب سؤال 'ما كان الشغل الشاغل للولايات المتحدة خلال الحرب الباردة؟' هو 'الشيوعية'."
+  },
+  "college": {
+    "translation": "كلية / مجمع",
+    "civicsNote": "'المجمع الانتخابي' (Electoral College) هو الهيئة التي تنتخب الرئيس رسميًا."
+  },
+  "colony": {
+    "translation": "مستعمرة",
+    "civicsNote": "المستعمرات الثلاث عشرة الأصلية (13 original colonies) كانت المستعمرات البريطانية التي شكّلت الولايات المتحدة."
+  },
+  "colonist": {
+    "translation": "مستعمِر / مستوطن",
+    "civicsNote": "حارب المستعمِرون بريطانيا بسبب الضرائب المرتفعة وفرض الضرائب دون تمثيل (taxation without representation)."
+  },
+  "color": {
+    "translation": "لون",
+    "civicsNote": "ألوان علم الولايات المتحدة هي الأحمر والأبيض والأزرق."
+  },
+  "columbia": {
+    "translation": "كولومبيا",
+    "civicsNote": "الاسم الرسمي لواشنطن العاصمة هو 'District of Columbia' (مقاطعة كولومبيا)."
+  },
+  "columbus": {
+    "translation": "كولومبوس",
+    "civicsNote": "هو المستكشف الذي وصل إلى القارة الأمريكية عام 1492؛ ويُحتفل بيوم كولومبوس (Columbus Day) تخليدًا لذكراه."
+  },
+  "combustion": {
+    "translation": "احتراق"
+  },
+  "commander": {
+    "translation": "قائد",
+    "civicsNote": "الرئيس هو القائد العام للقوات المسلحة الأمريكية (Commander in Chief)."
+  },
+  "commerce": {
+    "translation": "التجارة",
+    "civicsNote": "يملك الكونغرس سلطة تنظيم التجارة بين الولايات والتجارة الدولية."
+  },
+  "commissioner": {
+    "translation": "مفوّض"
+  },
+  "communism": {
+    "translation": "الشيوعية",
+    "civicsNote": "كان الشغل الشاغل (main concern) للولايات المتحدة خلال الحرب الباردة هو الشيوعية."
+  },
+  "community": {
+    "translation": "مجتمع محلي"
+  },
+  "compact": {
+    "translation": "اتفاق / ميثاق",
+    "civicsNote": "'ميثاق ماي فلاور' (Mayflower Compact) هو أول اتفاق للحكم الذاتي وقّعه الحجّاج (Pilgrims) عام 1620."
+  },
+  "complete": {
+    "translation": "يُكمل / كامل"
+  },
+  "compromise": {
+    "translation": "تسوية / حل وسط",
+    "civicsNote": "'التسوية الكبرى' (Great Compromise) في المؤتمر الدستوري حلّت مشكلة التمثيل في الكونغرس بين الولايات الكبيرة والصغيرة."
+  },
+  "concern": {
+    "translation": "قلق / شاغل",
+    "civicsNote": "جواب سؤال 'ما كان الشغل الشاغل (main concern) للولايات المتحدة خلال الحرب الباردة؟' هو 'الشيوعية'."
+  },
+  "condition": {
+    "translation": "حالة / وضع"
+  },
+  "confederacy": {
+    "translation": "الكونفدرالية",
+    "civicsNote": "هي اتحاد الولايات الجنوبية التي حاربت الشمال في الحرب الأهلية (Civil War)."
+  },
+  "confederate": {
+    "translation": "كونفدرالي",
+    "civicsNote": "يشير إلى الأشخاص أو الأشياء المرتبطة بالجانب الجنوبي وأنصاره في الحرب الأهلية."
+  },
+  "confederation": {
+    "translation": "كونفدرالية (اتحاد دول أو ولايات)",
+    "civicsNote": "'مواد الكونفدرالية' (Articles of Confederation) كانت أول وثيقة حكم للولايات المتحدة قبل عام 1789."
+  },
+  "conflict": {
+    "translation": "نزاع / صراع"
+  },
+  "congress": {
+    "translation": "الكونغرس",
+    "civicsNote": "هو السلطة التشريعية في الولايات المتحدة (legislative branch)، ويتكون من مجلس الشيوخ ومجلس النواب."
+  },
+  "congressional": {
+    "translation": "متعلق بالكونغرس",
+    "civicsNote": "يُستخدم غالبًا في تعبيرات مثل 'الدائرة الانتخابية النيابية' (congressional district)، وهي المنطقة التي يمثلها عضو في مجلس النواب."
+  },
+  "connecticut": {
+    "translation": "كونيتيكت",
+    "civicsNote": "كانت كونيتيكت واحدة من المستعمرات الثلاث عشرة الأولى التي شكّلت الولايات المتحدة."
+  },
+  "consent": {
+    "translation": "موافقة / رضا",
+    "civicsNote": "بحسب إعلان الاستقلال، تستمد الحكومات سلطتها من 'رضا المحكومين'، أي موافقة الشعب."
+  },
+  "constitution": {
+    "translation": "الدستور",
+    "civicsNote": "يشير إلى دستور الولايات المتحدة، الذي كُتب عام 1787 وهو أعلى قانون في البلاد."
+  },
+  "constitution-based": {
+    "translation": "قائم على الدستور",
+    "civicsNote": "يُستخدم لوصف حكومة الولايات المتحدة: 'جمهورية فدرالية قائمة على الدستور'."
+  },
+  "constitutional": {
+    "translation": "دستوري",
+    "civicsNote": "قد يتعلق بالمؤتمر الدستوري (Constitutional Convention) لعام 1787 الذي كُتب فيه دستور الولايات المتحدة."
+  },
+  "contact": {
+    "translation": "يتصل / يتواصل مع"
+  },
+  "content": {
+    "translation": "محتوى"
+  },
+  "continental": {
+    "translation": "قاري",
+    "civicsNote": "يتعلق بـ«الجيش القاري» (Continental Army) الذي قاده جورج واشنطن، أو «الكونغرس القاري» (Continental Congress) الذي اجتمع فيه قادة المستعمرات."
+  },
+  "contract": {
+    "translation": "عقد"
+  },
+  "control": {
+    "translation": "يتحكم / سيطرة",
+    "civicsNote": "يتعلق بنظام «الضوابط والتوازنات» (checks and balances) الذي يضمن ألا يحصل أي فرع من فروع الحكومة على سلطة مفرطة تمكّنه من السيطرة على الفروع الأخرى."
+  },
+  "convention": {
+    "translation": "مؤتمر",
+    "civicsNote": "يشير إلى «المؤتمر الدستوري» (Constitutional Convention) الذي عُقد في فيلادلفيا عام 1787 وكُتب فيه الدستور."
+  },
+  "convince": {
+    "translation": "يُقنع",
+    "civicsNote": "كتيّب توماس باين المعنون «Common Sense» («الحس السليم») أقنع كثيرًا من المستعمرين بدعم الاستقلال عن بريطانيا."
+  },
+  "could": {
+    "translation": "استطاع / كان يمكن أن"
+  },
+  "count": {
+    "translation": "يَعُدّ",
+    "civicsNote": "قد يشير إلى عدّ السكان، مثل التعداد السكاني الأمريكي (Census) الذي يُجرى كل 10 سنوات."
+  },
+  "country": {
+    "translation": "بلد / دولة"
+  },
+  "court": {
+    "translation": "محكمة",
+    "civicsNote": "يشير غالبًا إلى المحكمة العليا (Supreme Court)، أعلى محكمة في الولايات المتحدة."
+  },
+  "crash": {
+    "translation": "ينهار / انهيار",
+    "civicsNote": "يشير إلى انهيار سوق الأسهم عام 1929 (stock market crash) الذي تسبب في بدء الكساد الكبير (Great Depression)."
+  },
+  "create": {
+    "translation": "يخلق / ينشئ"
+  },
+  "creek": {
+    "translation": "كريك (قبيلة أمريكية أصلية)",
+    "civicsNote": "هذا أحد الأجوبة المقبولة لسؤال «اذكر اسم قبيلة من قبائل الأمريكيين الأصليين في الولايات المتحدة»."
+  },
+  "crisis": {
+    "translation": "أزمة"
+  },
+  "crossing": {
+    "translation": "عبور",
+    "civicsNote": "قد يشير إلى عبور جورج واشنطن لنهر ديلاوير عام 1776 (Washington Crossing the Delaware)."
+  },
+  "crow": {
+    "translation": "كرو (قبيلة أمريكية أصلية)",
+    "civicsNote": "هذا أحد الأجوبة المقبولة لسؤال «اذكر اسم قبيلة من قبائل الأمريكيين الأصليين في الولايات المتحدة»."
+  },
+  "d.c.": {
+    "translation": "مقاطعة كولومبيا (D.C.)",
+    "civicsNote": "واشنطن العاصمة (Washington, D.C.) هي عاصمة الولايات المتحدة، لكن مقاطعة كولومبيا (D.C.) ليست إحدى الولايات الخمسين."
+  },
+  "danger": {
+    "translation": "خطر"
+  },
+  "day": {
+    "translation": "يوم",
+    "civicsNote": "يرد في أسماء الأعياد الرسمية الأمريكية مثل يوم الاستقلال (Independence Day) ويوم الذكرى (Memorial Day) ويوم الرؤساء (Presidents Day)."
+  },
+  "deal": {
+    "translation": "اتفاق / صفقة",
+    "civicsNote": "يشير إلى «الصفقة الجديدة» (New Deal)، اسم البرامج التي أطلقها الرئيس فرانكلين روزفلت للمساعدة في إنهاء الكساد الكبير."
+  },
+  "decide": {
+    "translation": "يقرر"
+  },
+  "decision": {
+    "translation": "قرار"
+  },
+  "declaration": {
+    "translation": "إعلان",
+    "civicsNote": "يشير إلى إعلان الاستقلال (Declaration of Independence)، الذي وُقّع عام 1776 وأعلن تحرر أمريكا من بريطانيا العظمى."
+  },
+  "declare": {
+    "translation": "يُعلن",
+    "civicsNote": "يملك الكونغرس سلطة إعلان الحرب."
+  },
+  "defend": {
+    "translation": "يدافع",
+    "civicsNote": "هذا جزء من قسم الولاء (Oath of Allegiance): يتعهد المواطنون الجدد بأنهم «سيدافعون» عن دستور الولايات المتحدة."
+  },
+  "defense": {
+    "translation": "دفاع",
+    "civicsNote": "وزارة الدفاع (Department of Defense) هي إحدى وزارات الحكومة الأمريكية على مستوى مجلس الوزراء."
+  },
+  "delaware": {
+    "translation": "ديلاوير",
+    "civicsNote": "ديلاوير هي أول ولاية صادقت (وافقت) على دستور الولايات المتحدة."
+  },
+  "delegate": {
+    "translation": "مندوب",
+    "civicsNote": "حضر مندوبون من الولايات المؤتمر الدستوري عام 1787 لكتابة الدستور."
+  },
+  "deliver": {
+    "translation": "يُسلّم / يُلقي"
+  },
+  "democracy": {
+    "translation": "ديمقراطية"
+  },
+  "department": {
+    "translation": "وزارة",
+    "civicsNote": "يشمل مجلس وزراء الرئيس وزارات مثل وزارة الخارجية (Department of State) ووزارة الدفاع (Department of Defense)."
+  },
+  "depression": {
+    "translation": "كساد",
+    "civicsNote": "يشير إلى الكساد الكبير (Great Depression)، فترة اقتصادية بالغة الصعوبة شهدتها الولايات المتحدة في الثلاثينيات."
+  },
+  "derive": {
+    "translation": "يستمد",
+    "civicsNote": "وفقًا لإعلان الاستقلال، تستمد الحكومات سلطاتها من «رضا المحكومين»."
+  },
+  "describe": {
+    "translation": "يصف"
+  },
+  "development": {
+    "translation": "تطور / تنمية"
+  },
+  "do": {
+    "translation": "فعل مساعد: يفعل"
+  },
+  "die": {
+    "translation": "يموت"
+  },
+  "different": {
+    "translation": "مختلف"
+  },
+  "diplomat": {
+    "translation": "دبلوماسي",
+    "civicsNote": "من الأمور التي عُرف بها بنجامين فرانكلين أنه كان دبلوماسيًا أمريكيًا."
+  },
+  "directly": {
+    "translation": "مباشرة",
+    "civicsNote": "أتاح التعديل السابع عشر انتخاب أعضاء مجلس الشيوخ الأمريكي مباشرة من قِبل الشعب، بدلاً من المجالس التشريعية للولايات."
+  },
+  "director": {
+    "translation": "مدير"
+  },
+  "disagreement": {
+    "translation": "خلاف",
+    "civicsNote": "قد يشير إلى الخلافات بين الولايات أو المؤسسين في المؤتمر الدستوري، والتي حُلّت مثل التسوية الكبرى (Great Compromise)."
+  },
+  "discrimination": {
+    "translation": "تمييز",
+    "civicsNote": "يتعلق بحركة الحقوق المدنية (Civil Rights Movement) التي سعت لإنهاء التمييز العرقي في الولايات المتحدة."
+  },
+  "disguise": {
+    "translation": "تنكّر / تمويه",
+    "civicsNote": "قد يتعلق بتنكّر المستعمرين في أحداث مثل حفلة شاي بوسطن (Boston Tea Party)."
+  },
+  "dispute": {
+    "translation": "نزاع",
+    "civicsNote": "تفصل المحكمة العليا والمحاكم الفدرالية الأخرى في النزاعات القانونية."
+  },
+  "district": {
+    "translation": "دائرة / منطقة",
+    "civicsNote": "قد يشير إلى مقاطعة كولومبيا (واشنطن العاصمة) أو إلى الدائرة الانتخابية التي يمثلها عضو مجلس النواب."
+  },
+  "document": {
+    "translation": "وثيقة",
+    "civicsNote": "يشير إلى الوثائق التأسيسية مثل الدستور وإعلان الاستقلال."
+  },
+  "don't": {
+    "translation": "لا (اختصار لـ do not)"
+  },
+  "double": {
+    "translation": "يُضاعِف",
+    "civicsNote": "ضاعفت صفقة شراء لويزيانا (Louisiana Purchase) مساحة الولايات المتحدة."
+  },
+  "draft": {
+    "translation": "التجنيد الإلزامي",
+    "civicsNote": "يجب على الرجال المقيمين في الولايات المتحدة التسجيل في «الخدمة الانتقائية» (Selective Service) تحضيرًا لأي تجنيد إلزامي محتمل."
+  },
+  "drive": {
+    "translation": "يقود (سيارة)"
+  },
+  "driver's": {
+    "translation": "رخصة القيادة",
+    "civicsNote": "رخصة القيادة (driver's license) وثيقة رسمية تُخوّل الشخص قانونيًا قيادة السيارة؛ وتصدرها الولايات."
+  },
+  "during": {
+    "translation": "خلال / أثناء"
+  },
+  "duty": {
+    "translation": "واجب",
+    "civicsNote": "يشير إلى الواجبات المدنية للمواطنين الأمريكيين، مثل التصويت أو الخدمة في هيئة المحلفين."
+  },
+  "dwight": {
+    "translation": "دوايت",
+    "civicsNote": "هو اسم الرئيس دوايت د. أيزنهاور، الذي كان جنرالًا في الحرب العالمية الثانية."
+  },
+  "each": {
+    "translation": "كل (واحد)"
+  },
+  "east": {
+    "translation": "الشرق"
+  },
+  "economic": {
+    "translation": "اقتصادي",
+    "civicsNote": "كان من أسباب قدوم المستعمرين إلى أمريكا الفرصة الاقتصادية، مثل الحصول على المزيد من الأرض وفرص العمل."
+  },
+  "economy": {
+    "translation": "اقتصاد"
+  },
+  "edison": {
+    "translation": "إديسون",
+    "civicsNote": "توماس إديسون اخترع المصباح الكهربائي؛ وهو أحد الأجوبة المقبولة لسؤال «اذكر اسم مخترع أمريكي»."
+  },
+  "education": {
+    "translation": "تعليم",
+    "civicsNote": "وزارة التعليم (Department of Education) هي إحدى وزارات الحكومة الأمريكية على مستوى مجلس الوزراء."
+  },
+  "eight": {
+    "translation": "ثمانية"
+  },
+  "eighteen": {
+    "translation": "ثمانية عشر",
+    "civicsNote": "سنّ الثامنة عشرة هو السن الذي يمكن فيه للمواطنين الأمريكيين التسجيل للتصويت."
+  },
+  "eisenhower": {
+    "translation": "أيزنهاور",
+    "civicsNote": "دوايت د. أيزنهاور هو الرئيس الرابع والثلاثون للولايات المتحدة، وكان جنرالًا في الحرب العالمية الثانية."
+  },
+  "elect": {
+    "translation": "ينتخب"
+  },
+  "election": {
+    "translation": "انتخابات"
+  },
+  "electoral": {
+    "translation": "انتخابي",
+    "civicsNote": "يشير إلى «الهيئة الانتخابية» (Electoral College)، المجموعة التي تنتخب رئيس الولايات المتحدة رسميًا."
+  },
+  "elizabeth": {
+    "translation": "إليزابيث",
+    "civicsNote": "يُرجَّح أنه يشير إلى إليزابيث كادي ستانتون، إحدى قائدات حركة حق المرأة في التصويت."
+  },
+  "else": {
+    "translation": "آخر"
+  },
+  "emancipation": {
+    "translation": "تحرير (من العبودية)",
+    "civicsNote": "يشير إلى «إعلان تحرير العبيد» (Emancipation Proclamation) الذي أصدره الرئيس لينكولن عام 1863 وحرّر العبيد في الولايات الكونفدرالية."
+  },
+  "empire": {
+    "translation": "إمبراطورية",
+    "civicsNote": "كانت المستعمرات الأمريكية الثلاث عشرة في البداية جزءًا من الإمبراطورية البريطانية (British Empire)."
+  },
+  "encampment": {
+    "translation": "معسكر",
+    "civicsNote": "يشير إلى فالي فورج (Valley Forge)، حيث قضى جيش جورج واشنطن شتاء 1777-1778."
+  },
+  "end": {
+    "translation": "ينتهي / نهاية"
+  },
+  "energy": {
+    "translation": "طاقة",
+    "civicsNote": "وزارة الطاقة (Department of Energy) هي إحدى وزارات الحكومة الأمريكية على مستوى مجلس الوزراء."
+  },
+  "engine": {
+    "translation": "محرك"
+  },
+  "england": {
+    "translation": "إنجلترا",
+    "civicsNote": "كانت المستعمرات الأمريكية تحت حكم إنجلترا (بريطانيا العظمى) قبل إعلان استقلالها."
+  },
+  "ensure": {
+    "translation": "يضمن",
+    "civicsNote": "من ديباجة الدستور: أحد أهداف قيام الحكومة هو «ضمان السلم الداخلي» (ensure domestic tranquility)."
+  },
+  "enter": {
+    "translation": "يدخل",
+    "civicsNote": "تُستخدم غالبًا للإشارة إلى دخول الولايات المتحدة في حرب، مثل «دخلت الولايات المتحدة الحرب العالمية الأولى/الثانية»."
+  },
+  "environmental": {
+    "translation": "بيئي",
+    "civicsNote": "يرد في أسئلة الامتحان مثل «اذكر مشكلة بيئية في الولايات المتحدة»؛ من الأمثلة تلوث الهواء وتلوث المياه والاحتباس الحراري."
+  },
+  "equal": {
+    "translation": "متساوٍ",
+    "civicsNote": "يشير إلى مبدأ أن يتمتع الجميع بحقوق متساوية أمام القانون."
+  },
+  "equality": {
+    "translation": "مساواة"
+  },
+  "escape": {
+    "translation": "يهرب",
+    "civicsNote": "يُستخدم في سياق هروب المستعبَدين إلى الحرية عبر «السكة الحديدية السرية» (Underground Railroad)."
+  },
+  "essay": {
+    "translation": "مقالة",
+    "civicsNote": "«الأوراق الفدرالية» (The Federalist Papers) سلسلة من المقالات كُتبت لدعم التصديق على الدستور."
+  },
+  "establish": {
+    "translation": "يُؤسّس",
+    "civicsNote": "هي الكلمة الواردة في عبارة «إقامة العدل» (establish Justice) في ديباجة الدستور."
+  },
+  "european": {
+    "translation": "أوروبي"
+  },
+  "even": {
+    "translation": "حتى"
+  },
+  "event": {
+    "translation": "حدث"
+  },
+  "every": {
+    "translation": "كل"
+  },
+  "everyday": {
+    "translation": "يومي"
+  },
+  "everyone": {
+    "translation": "كل شخص / الجميع"
+  },
+  "exactly": {
+    "translation": "بالضبط"
+  },
+  "example": {
+    "translation": "مثال"
+  },
+  "executive": {
+    "translation": "تنفيذي",
+    "civicsNote": "هي إحدى السلطات الثلاث للحكومة الأمريكية (الرئيس والسلطة التنفيذية)."
+  },
+  "explain": {
+    "translation": "يشرح"
+  },
+  "expression": {
+    "translation": "تعبير",
+    "civicsNote": "«حرية التعبير» (freedom of expression) حق يحميه التعديل الأول للدستور."
+  },
+  "fair": {
+    "translation": "عادل"
+  },
+  "fake": {
+    "translation": "مزيّف"
+  },
+  "fallen": {
+    "translation": "ساقط / قتيل (في الحرب)",
+    "civicsNote": "تُستخدم غالبًا للإشارة إلى الجنود الذين سقطوا في الحرب («fallen soldiers»)، كما في سياق يوم الذكرى (Memorial Day)."
+  },
+  "famous": {
+    "translation": "مشهور"
+  },
+  "father": {
+    "translation": "أب",
+    "civicsNote": "«Founding Father» (الأب المؤسس) يعني أحد القادة الذين ساهموا في تأسيس الولايات المتحدة."
+  },
+  "fdr": {
+    "translation": "فرانكلين د. روزفلت (اختصارًا FDR)",
+    "civicsNote": "فرانكلين د. روزفلت هو الرئيس الأمريكي الذي تولى الرئاسة خلال الحرب العالمية الثانية."
+  },
+  "federal": {
+    "translation": "فدرالي",
+    "civicsNote": "يشير إلى الحكومة الوطنية/المركزية للولايات المتحدة، تمييزًا عن حكومات الولايات."
+  },
+  "federal-aid": {
+    "translation": "معونة فدرالية",
+    "civicsNote": "«قانون المعونة الفدرالية للطرق السريعة» (Federal-Aid Highway Act) هو قانون عام 1956 موّل نظام الطرق السريعة بين الولايات في الولايات المتحدة (يرتبط باسم أيزنهاور)."
+  },
+  "federalist": {
+    "translation": "فدرالي (مؤيد لحكومة وطنية قوية)",
+    "civicsNote": "«الأوراق الفدرالية» (The Federalist Papers) هي مقالات كتبها هاملتون وماديسون وجاي للدفاع عن التصديق على الدستور."
+  },
+  "field": {
+    "translation": "حقل / ميدان"
+  },
+  "fight": {
+    "translation": "يقاتل"
+  },
+  "fire": {
+    "translation": "نار"
+  },
+  "first": {
+    "translation": "أول"
+  },
+  "five": {
+    "translation": "خمسة"
+  },
+  "fix": {
+    "translation": "يُصلح"
+  },
+  "flag": {
+    "translation": "عَلَم",
+    "civicsNote": "تمثل النجوم الخمسون في العلم الأمريكي الولايات الخمسين، بينما تمثل الخطوط الثلاثة عشر المستعمرات الأصلية الثلاث عشرة."
+  },
+  "fly": {
+    "translation": "يطير"
+  },
+  "follow": {
+    "translation": "يتبع"
+  },
+  "for": {
+    "translation": "لأجل / من أجل"
+  },
+  "force": {
+    "translation": "قوة / قوات",
+    "civicsNote": "«القوات المسلحة» (armed forces) تشير إلى الجيش الأمريكي الذي يمكن للمواطنين الانضمام إليه."
+  },
+  "foreign": {
+    "translation": "خارجي / أجنبي",
+    "civicsNote": "«السياسة الخارجية» (foreign policy) هي طريقة الدولة في إدارة علاقاتها مع الدول الأخرى."
+  },
+  "forge": {
+    "translation": "مسبك؛ جزء من اسم «فالي فورج»",
+    "civicsNote": "«فالي فورج» (Valley Forge) هو المعسكر الذي قضى فيه جيش الجنرال واشنطن شتاء 1777-1778."
+  },
+  "form": {
+    "translation": "شكل / يُشكّل"
+  },
+  "fort": {
+    "translation": "حصن",
+    "civicsNote": "«حصن ماكهنري» (Fort McHenry) هو الحصن الذي ألهم فرانسيس سكوت كي كتابة النشيد الوطني «The Star-Spangled Banner»."
+  },
+  "fought": {
+    "translation": "قاتَلَ (الماضي من fight)",
+    "civicsNote": "تُستخدم عند وصف الحروب التي شاركت فيها الولايات المتحدة (مثل الحرب العالمية الأولى والثانية)."
+  },
+  "found": {
+    "translation": "يُؤسّس",
+    "civicsNote": "«الآباء المؤسسون» (Founding Fathers) يشير إلى القادة الذين أسّسوا الولايات المتحدة."
+  },
+  "four": {
+    "translation": "أربعة"
+  },
+  "fourth": {
+    "translation": "الرابع",
+    "civicsNote": "«الفورث أوف جولاي» (The Fourth of July) هو يوم استقلال الولايات المتحدة (4 يوليو)."
+  },
+  "france": {
+    "translation": "فرنسا",
+    "civicsNote": "أصبحت فرنسا حليفة للولايات المتحدة خلال حرب الاستقلال الأمريكية وبعدها."
+  },
+  "franklin": {
+    "translation": "فرانكلين",
+    "civicsNote": "بنجامين فرانكلين كان دبلوماسيًا ومخترعًا وأحد الآباء المؤسسين."
+  },
+  "free": {
+    "translation": "حر؛ «freed» تعني حرَّر شخصًا",
+    "civicsNote": "«Freed» تُستخدم غالبًا في سياق تحرير أبراهام لينكولن للعبيد."
+  },
+  "freedom": {
+    "translation": "حرية",
+    "civicsNote": "يحمي التعديل الأول للدستور حريات الكلام والدين والصحافة والتجمع والتظلم."
+  },
+  "freely": {
+    "translation": "بحرية"
+  },
+  "from": {
+    "translation": "من"
+  },
+  "fund": {
+    "translation": "صندوق / يُموّل"
+  },
+  "fundamental": {
+    "translation": "أساسي",
+    "civicsNote": "يشير إلى الحقوق الأساسية (fundamental rights) التي يحميها الدستور."
+  },
+  "game": {
+    "translation": "لعبة"
+  },
+  "give": {
+    "translation": "يُعطي"
+  },
+  "gender": {
+    "translation": "نوع الجنس",
+    "civicsNote": "يرد في سياق منح حق التصويت لجميع المواطنين بصرف النظر عن نوع الجنس (التعديل التاسع عشر)."
+  },
+  "general": {
+    "translation": "عام؛ جنرال (رتبة عسكرية)",
+    "civicsNote": "قد يرد في سياقات مثل «الجنرال واشنطن» (General Washington) أو «المدعي العام» (Attorney General)."
+  },
+  "george": {
+    "translation": "جورج",
+    "civicsNote": "جورج واشنطن هو أول رئيس للولايات المتحدة."
+  },
+  "georgia": {
+    "translation": "جورجيا"
+  },
+  "germany": {
+    "translation": "ألمانيا",
+    "civicsNote": "هي إحدى الدول التي حاربتها الولايات المتحدة في الحرب العالمية الثانية."
+  },
+  "get": {
+    "translation": "يحصل على"
+  },
+  "gettysburg": {
+    "translation": "غيتيسبرغ",
+    "civicsNote": "«خطاب غيتيسبرغ» (Gettysburg Address) هو خطاب أبراهام لينكولن المشهور الذي وصف فيه الحكومة بأنها «حكومة الشعب، بواسطة الشعب، ولأجل الشعب»."
+  },
+  "global": {
+    "translation": "عالمي",
+    "civicsNote": "«الاحتباس الحراري» (global warming) يُعطى في الامتحان كمثال على مشكلة بيئية."
+  },
+  "go": {
+    "translation": "يذهب"
+  },
+  "govern": {
+    "translation": "يحكم"
+  },
+  "government": {
+    "translation": "حكومة"
+  },
+  "governor": {
+    "translation": "حاكم (ولاية)"
+  },
+  "great": {
+    "translation": "عظيم / كبير",
+    "civicsNote": "يرد في مصطلحات تاريخية وجغرافية مثل «الكساد الكبير» (Great Depression) و«البحيرات العظمى» (Great Lakes)."
+  },
+  "group": {
+    "translation": "مجموعة",
+    "civicsNote": "«مجموعة المصالح» (interest group) هي مجموعة من الناس ذوي أفكار مشتركة يجتمعون للتأثير في الحكومة."
+  },
+  "gulf": {
+    "translation": "خليج",
+    "civicsNote": "«خليج المكسيك» (Gulf of Mexico) هو أحد المسطحات المائية الكبرى على حدود الولايات المتحدة."
+  },
+  "have": {
+    "translation": "يملك / لديه"
+  },
+  "half": {
+    "translation": "نصف"
+  },
+  "hamilton": {
+    "translation": "هاملتون",
+    "civicsNote": "ألكسندر هاملتون أحد كاتبي «الأوراق الفدرالية» وأول وزير خزانة للولايات المتحدة."
+  },
+  "hampshire": {
+    "translation": "هامشير"
+  },
+  "happen": {
+    "translation": "يحدث"
+  },
+  "happiness": {
+    "translation": "سعادة",
+    "civicsNote": "هي الكلمة الواردة في عبارة إعلان الاستقلال «life, liberty, and the pursuit of happiness» (الحياة والحرية والسعي إلى السعادة)."
+  },
+  "harbor": {
+    "translation": "ميناء",
+    "civicsNote": "«بيرل هاربر» (Pearl Harbor) هو الميناء الذي هاجمته اليابان عام 1941 وتسبب في دخول الولايات المتحدة الحرب العالمية الثانية."
+  },
+  "hard": {
+    "translation": "صعب"
+  },
+  "harriet": {
+    "translation": "هارييت",
+    "civicsNote": "هارييت تابمان ساعدت المستعبَدين على الهروب عبر السكة الحديدية السرية (Underground Railroad)."
+  },
+  "he": {
+    "translation": "هو"
+  },
+  "health": {
+    "translation": "صحة"
+  },
+  "help": {
+    "translation": "يساعد"
+  },
+  "her": {
+    "translation": "ـها (ضمير ملكية أو مفعول للمرأة)"
+  },
+  "here": {
+    "translation": "هنا"
+  },
+  "high": {
+    "translation": "عالٍ"
+  },
+  "highway": {
+    "translation": "طريق سريع",
+    "civicsNote": "يرتبط بـ«نظام الطرق السريعة بين الولايات» (Interstate Highway System) الذي أُنشئ في عهد الرئيس أيزنهاور."
+  },
+  "hill": {
+    "translation": "تل"
+  },
+  "him": {
+    "translation": "ـه (ضمير مفعول للرجل)"
+  },
+  "his": {
+    "translation": "ـه (ضمير ملكية للرجل)"
+  },
+  "history": {
+    "translation": "تاريخ"
+  },
+  "hold": {
+    "translation": "يشغل (منصبًا)",
+    "civicsNote": "تُستخدم بمعنى أن يكون الشخص «شاغلًا لمنصب» (holds office) في الحكومة."
+  },
+  "holiday": {
+    "translation": "عطلة / عيد",
+    "civicsNote": "يتطلب الامتحان معرفة تعداد الأعياد الوطنية الأمريكية مثل يوم الاستقلال، وعيد الشكر، وعيد العمال."
+  },
+  "homeland": {
+    "translation": "الوطن",
+    "civicsNote": "جزء من اسم «وزارة الأمن الداخلي» (Department of Homeland Security)، إحدى وحدات الحكومة الأمريكية."
+  },
+  "honor": {
+    "translation": "يُكرّم",
+    "civicsNote": "كثير من الأعياد الأمريكية «تكرّم» أشخاصًا أو مناسبات معينة (مثل تكريم يوم الذكرى للجنود، وتكريم يوم المحاربين القدامى للجنود)."
+  },
+  "hopi": {
+    "translation": "هوبي (قبيلة أمريكية أصلية)",
+    "civicsNote": "هذا أحد الأجوبة المقبولة لسؤال «اذكر اسم قبيلة من قبائل الأمريكيين الأصليين في أمريكا»."
+  },
+  "house": {
+    "translation": "منزل؛ مجلس (في هذا السياق)",
+    "civicsNote": "«The House» تشير إلى مجلس النواب (House of Representatives)، أحد مجلسي الكونغرس، أما «the White House» فهي البيت الأبيض حيث يعيش ويعمل الرئيس."
+  },
+  "housing": {
+    "translation": "إسكان",
+    "civicsNote": "«وزارة الإسكان والتنمية الحضرية» (Department of Housing and Urban Development) هي إحدى وزارات مجلس الوزراء الأمريكي."
+  },
+  "how": {
+    "translation": "كيف"
+  },
+  "hudson": {
+    "translation": "هدسون",
+    "civicsNote": "يأتي الاسم من المستكشف هنري هدسون؛ وهو نهر مهم في ولاية نيويورك."
+  },
+  "human": {
+    "translation": "إنساني / بشري"
+  },
+  "hundred": {
+    "translation": "مئة"
+  },
+  "huron": {
+    "translation": "هورون",
+    "civicsNote": "هو أحد البحيرات العظمى الخمس في منطقة البحيرات؛ وهو أيضًا اسم شعب من الأمريكيين الأصليين."
+  },
+  "i": {
+    "translation": "الرقم الروماني I (واحد)",
+    "civicsNote": "يرد في هذا التطبيق كجزء من عبارة «الحرب العالمية الأولى» (World War I)."
+  },
+  "ic": {
+    "translation": "الدائرة المتكاملة (IC)",
+    "civicsNote": "هو اختصار «Integrated Circuit (IC)» الوارد في قائمة الاختراعات الأمريكية في التطبيق."
+  },
+  "idea": {
+    "translation": "فكرة"
+  },
+  "identify": {
+    "translation": "يُحدّد / يتعرّف على"
+  },
+  "if": {
+    "translation": "إذا / لو"
+  },
+  "ii": {
+    "translation": "الرقم الروماني II (اثنان)",
+    "civicsNote": "يرد في هذا التطبيق كجزء من عبارة «الحرب العالمية الثانية» (World War II)."
+  },
+  "ike": {
+    "translation": "آيك (لقب أيزنهاور)",
+    "civicsNote": "قاد أيزنهاور («آيك») القوات الأمريكية في الحرب العالمية الثانية، ثم أصبح الرئيس الرابع والثلاثين، وأطلق نظام الطرق السريعة بين الولايات."
+  },
+  "important": {
+    "translation": "مهم"
+  },
+  "in": {
+    "translation": "في"
+  },
+  "include": {
+    "translation": "يتضمّن / يشمل"
+  },
+  "independence": {
+    "translation": "استقلال",
+    "civicsNote": "يشير إلى وثيقة الاستقلال (Declaration of Independence) التي أعلنت استقلال أمريكا عن بريطانيا، وإلى يوم الاستقلال (Independence Day) في 4 يوليو."
+  },
+  "independent": {
+    "translation": "مستقل"
+  },
+  "indian": {
+    "translation": "هندي أمريكي (من السكان الأصليين)",
+    "civicsNote": "في الامتحان تشير عبارة 'American Indian' إلى السكان الأصليين لأمريكا؛ يُطلب في الامتحان ذكر اسم قبيلة من قبائل الهنود الحمر."
+  },
+  "individual": {
+    "translation": "فرد"
+  },
+  "influence": {
+    "translation": "تأثير / نفوذ"
+  },
+  "inherent": {
+    "translation": "متأصّل / فطري",
+    "civicsNote": "بحسب وثيقة الاستقلال، يمتلك البشر حقوقاً 'متأصّلة' (inherent) لم يمنحها لهم أحد ولا يمكن لأحد أن ينتزعها منهم."
+  },
+  "innovation": {
+    "translation": "ابتكار",
+    "civicsNote": "يشير إلى الابتكارات الأمريكية المشهورة المذكورة في الامتحان، مثل الدائرة المتكاملة (integrated circuit)."
+  },
+  "integrated": {
+    "translation": "متكامل / مدمَج",
+    "civicsNote": "جزء من عبارة 'Integrated Circuit (IC)' (الدائرة المتكاملة)، وهي أحد الاختراعات الأمريكية المذكورة في الامتحان."
+  },
+  "intelligence": {
+    "translation": "ذكاء",
+    "civicsNote": "قد يشير إلى عبارة 'Artificial Intelligence' (الذكاء الاصطناعي) المذكورة ضمن الابتكارات الأمريكية الحديثة في الامتحان."
+  },
+  "interior": {
+    "translation": "الداخل / الجزء الداخلي",
+    "civicsNote": "'Secretary of the Interior' (وزير الداخلية) هو منصب وزاري أمريكي مسؤول عن الأراضي العامة والموارد الطبيعية."
+  },
+  "internal": {
+    "translation": "داخلي"
+  },
+  "interstate": {
+    "translation": "بين الولايات",
+    "civicsNote": "يرتبط بنظام 'Interstate Highway System' (نظام الطرق السريعة بين الولايات) الذي أُطلق في عهد الرئيس أيزنهاور."
+  },
+  "into": {
+    "translation": "إلى داخل"
+  },
+  "intolerable": {
+    "translation": "لا يُطاق / غير مقبول",
+    "civicsNote": "'Intolerable Acts' (القوانين الجائرة) كانت قوانين بريطانية قاسية أدّت إلى الثورة الأمريكية."
+  },
+  "inupiat": {
+    "translation": "إينوبيات",
+    "civicsNote": "أحد الأجوبة المقبولة في الامتحان لسؤال 'اذكر اسم قبيلة أمريكية أصلية' (وتشمل أيضاً سكان ألاسكا الأصليين)."
+  },
+  "invent": {
+    "translation": "يخترع"
+  },
+  "inventor": {
+    "translation": "مخترع",
+    "civicsNote": "يظهر هذا المصطلح في أقسام الامتحان المتعلقة بالمخترعين الأمريكيين المشهورين (مثل توماس إديسون أو الأخوين رايت)."
+  },
+  "involve": {
+    "translation": "يتضمّن / يشمل"
+  },
+  "iraq": {
+    "translation": "العراق",
+    "civicsNote": "في عام 1990 غزا العراق الكويت، وهو ما أدّى إلى حرب الخليج التي شاركت فيها الولايات المتحدة."
+  },
+  "iraqi": {
+    "translation": "عراقي"
+  },
+  "iroquois": {
+    "translation": "إيروكوا",
+    "civicsNote": "أحد الأجوبة المقبولة في الامتحان لسؤال 'اذكر اسم قبيلة أمريكية أصلية'."
+  },
+  "is": {
+    "translation": "يكون (صيغة الغائب المفرد من الفعل 'كان/يكون')"
+  },
+  "island": {
+    "translation": "جزيرة",
+    "civicsNote": "قد يشير إلى جزيرة إليس (Ellis Island) التي دخل منها المهاجرون إلى أمريكا، أو إلى ولاية رود آيلاند (Rhode Island) إحدى المستعمرات الثلاث عشرة الأصلية."
+  },
+  "issue": {
+    "translation": "قضية / مسألة"
+  },
+  "it": {
+    "translation": "ضمير الغائب (هو/هي) لغير العاقل"
+  },
+  "it's": {
+    "translation": "اختصار لعبارة 'it is' (هو/هي)"
+  },
+  "italy": {
+    "translation": "إيطاليا",
+    "civicsNote": "كانت إيطاليا، خلال الحرب العالمية الثانية، إحدى دول المحور التي حاربت الولايات المتحدة إلى جانب ألمانيا واليابان."
+  },
+  "its": {
+    "translation": "ضمير الملكية للغائب (خاصته/خاصتها)"
+  },
+  "james": {
+    "translation": "جيمس",
+    "civicsNote": "في التاريخ الأمريكي هناك شخصيات مهمة كثيرة تحمل اسم جيمس، مثل الرئيسين جيمس ماديسون وجيمس مونرو."
+  },
+  "japan": {
+    "translation": "اليابان",
+    "civicsNote": "كانت دولة حاربت الولايات المتحدة في الحرب العالمية الثانية، بما في ذلك هجوم بيرل هاربر."
+  },
+  "japanese": {
+    "translation": "ياباني"
+  },
+  "jay": {
+    "translation": "جاي",
+    "civicsNote": "جون جاي كان أحد الآباء المؤسسين الذين كتبوا 'المقالات الفدرالية' (Federalist Papers)، وأصبح أول رئيس للمحكمة العليا الأمريكية."
+  },
+  "jefferson": {
+    "translation": "جفرسون",
+    "civicsNote": "توماس جفرسون كتب وثيقة الاستقلال وأصبح الرئيس الثالث للولايات المتحدة."
+  },
+  "jersey": {
+    "translation": "جيرزي",
+    "civicsNote": "نيو جيرزي كانت إحدى المستعمرات/الولايات الثلاث عشرة الأصلية."
+  },
+  "job": {
+    "translation": "وظيفة / عمل",
+    "civicsNote": "العثور على عمل هو أحد الأجوبة الشائعة لسؤال 'لماذا يأتي الناس إلى أمريكا؟'"
+  },
+  "john": {
+    "translation": "جون",
+    "civicsNote": "جون آدامز كان أحد الآباء المؤسسين والرئيس الثاني للولايات المتحدة."
+  },
+  "join": {
+    "translation": "ينضمّ / يلتحق"
+  },
+  "jr": {
+    "translation": "اختصار لكلمة 'Junior' (الابن)، يُضاف بعد اسم الابن الذي يحمل اسم والده نفسه",
+    "civicsNote": "تُستخدم في اسم 'Martin Luther King, Jr.'، الزعيم المعروف للحقوق المدنية."
+  },
+  "judge": {
+    "translation": "قاضٍ / يحكم",
+    "civicsNote": "يُعيَّن القضاة الفدراليون، بمن فيهم قضاة المحكمة العليا (Justices)، مدى الحياة، وهم جزء من السلطة القضائية."
+  },
+  "judicial": {
+    "translation": "قضائي",
+    "civicsNote": "'السلطة القضائية' (judicial branch) هي إحدى السلطات الثلاث للحكومة الأمريكية؛ تشمل المحكمة العليا وتفسّر القوانين."
+  },
+  "july": {
+    "translation": "يوليو",
+    "civicsNote": "4 يوليو هو يوم الاستقلال، اليوم الذي أعلنت فيه أمريكا استقلالها عن بريطانيا."
+  },
+  "juneteenth": {
+    "translation": "جونتينث",
+    "civicsNote": "عطلة رسمية تُحتفل في 19 يونيو بذكرى اليوم الذي علم فيه المستعبَدون في تكساس عام 1865 بأنهم أصبحوا أحراراً، احتفالاً بنهاية العبودية."
+  },
+  "jurisdiction": {
+    "translation": "ولاية قضائية / اختصاص قضائي",
+    "civicsNote": "تشير إلى السلطة القانونية للمحكمة العليا على أنواع معينة من القضايا."
+  },
+  "jury": {
+    "translation": "هيئة محلفين",
+    "civicsNote": "خدمة هيئة المحلفين (jury duty) هي واجب يقتصر على مواطني الولايات المتحدة، وحق المحاكمة أمام هيئة محلفين محمي بموجب الدستور."
+  },
+  "just": {
+    "translation": "عادل / فقط / تماماً"
+  },
+  "justice": {
+    "translation": "عدالة / قاضٍ في المحكمة العليا",
+    "civicsNote": "يشير مصطلح 'Justices' إلى الأعضاء التسعة للمحكمة العليا الأمريكية."
+  },
+  "keep": {
+    "translation": "يحتفظ بـ / يستمر في",
+    "civicsNote": "يظهر في التعديل الثاني للدستور في عبارة 'keep and bear arms' (حمل وحيازة السلاح)."
+  },
+  "key": {
+    "translation": "مفتاح؛ وهو أيضاً اسم عائلة",
+    "civicsNote": "فرانسيس سكوت كي كتب كلمات النشيد الوطني الأمريكي 'The Star-Spangled Banner'."
+  },
+  "king": {
+    "translation": "ملك؛ وهو أيضاً اسم عائلة",
+    "civicsNote": "قد يشير إلى الملك البريطاني جورج الثالث أثناء الثورة الأمريكية، أو إلى زعيم الحقوق المدنية مارتن لوثر كينغ الابن."
+  },
+  "kite": {
+    "translation": "طائرة ورقية",
+    "civicsNote": "عُرف بنجامين فرانكلين بتحليقه بطائرة ورقية خلال عاصفة لدراسة الكهرباء."
+  },
+  "known": {
+    "translation": "معروف (صيغة الماضي من 'know')"
+  },
+  "korea": {
+    "translation": "كوريا"
+  },
+  "korean": {
+    "translation": "كوري",
+    "civicsNote": "'Korean War' (الحرب الكورية) هي نزاع عسكري خاضته الولايات المتحدة في القرن العشرين."
+  },
+  "kuwait": {
+    "translation": "الكويت",
+    "civicsNote": "في عام 1990 غزا العراق الكويت، وهو ما أدّى إلى مشاركة الولايات المتحدة في حرب الخليج."
+  },
+  "labor": {
+    "translation": "عمل / جهد بدني",
+    "civicsNote": "مرتبط بـ 'Department of Labor' (وزارة العمل) وبـ 'Labor Day' (عيد العمال، عطلة رسمية تكرّم العمال)."
+  },
+  "lady": {
+    "translation": "سيدة",
+    "civicsNote": "يُطلق على تمثال الحرية غالباً اسم 'Lady Liberty' (السيدة الحرية)."
+  },
+  "lakota": {
+    "translation": "لاكوتا",
+    "civicsNote": "أحد الأجوبة المقبولة في الامتحان لسؤال 'اذكر اسم قبيلة أمريكية أصلية'."
+  },
+  "land": {
+    "translation": "أرض / بر"
+  },
+  "landing": {
+    "translation": "إنزال / وصول إلى الأرض",
+    "civicsNote": "قد يشير إلى وصول الحجّاج (Pilgrims) إلى بليموث أو إلى الهبوط على القمر عام 1969."
+  },
+  "later": {
+    "translation": "لاحقاً / بعد ذلك"
+  },
+  "latin": {
+    "translation": "لاتيني",
+    "civicsNote": "شعار الولايات المتحدة الوطني 'E Pluribus Unum' عبارة لاتينية تعني 'من الكثرة، واحد'."
+  },
+  "law": {
+    "translation": "قانون",
+    "civicsNote": "الكونغرس يضع القوانين؛ ومبدأ 'سيادة القانون' (rule of law) يعني أن على الجميع، بمن فيهم القادة، الالتزام بالقانون، وهو من المبادئ الأساسية للديمقراطية الأمريكية."
+  },
+  "leader": {
+    "translation": "زعيم / قائد"
+  },
+  "lead": {
+    "translation": "يقود (صيغة الماضي 'led')"
+  },
+  "leftover": {
+    "translation": "متبقٍّ / باقٍ"
+  },
+  "legislative": {
+    "translation": "تشريعي",
+    "civicsNote": "السلطة التشريعية (legislative) هي فرع الحكومة الذي يتألف من الكونغرس ويضع القوانين."
+  },
+  "legislature": {
+    "translation": "هيئة تشريعية",
+    "civicsNote": "في الولايات المتحدة، الهيئة التشريعية الوطنية هي الكونغرس (مجلس الشيوخ ومجلس النواب)."
+  },
+  "let": {
+    "translation": "يسمح / يدع"
+  },
+  "liberty": {
+    "translation": "حرية",
+    "civicsNote": "من القيم الأساسية الواردة في عبارة 'الحياة والحرية والسعي وراء السعادة' في وثيقة الاستقلال؛ ويرمز تمثال الحرية إلى هذا المفهوم أيضاً."
+  },
+  "library": {
+    "translation": "مكتبة"
+  },
+  "license": {
+    "translation": "رخصة / ترخيص",
+    "civicsNote": "منح رخصة القيادة (driver's license) هو صلاحية تخص حكومات الولايات فقط."
+  },
+  "life": {
+    "translation": "حياة",
+    "civicsNote": "تظهر في عبارة 'الحياة والحرية والسعي وراء السعادة' الواردة في وثيقة الاستقلال."
+  },
+  "lifetime": {
+    "translation": "مدى الحياة / العمر كله",
+    "civicsNote": "يستمر القضاة الفدراليون وأعضاء المحكمة العليا في مناصبهم مدى الحياة (life terms)."
+  },
+  "light": {
+    "translation": "ضوء"
+  },
+  "like": {
+    "translation": "مثل / كما"
+  },
+  "limit": {
+    "translation": "يحدّ؛ حدّ",
+    "civicsNote": "بحسب الدستور، لا يجوز للرئيس أن يشغل المنصب لأكثر من دورتين (term limit)."
+  },
+  "lincoln": {
+    "translation": "لينكولن",
+    "civicsNote": "أبراهام لينكولن حرّر العبيد وقاد البلاد خلال الحرب الأهلية؛ ويُخلَّد اسمه في نُصُب لينكولن التذكاري وعلى عملة السنت الواحد."
+  },
+  "line": {
+    "translation": "خط / تسلسل / ترتيب",
+    "civicsNote": "'خط التوارث' (line of succession) هو الترتيب الرسمي لمن يخلف الرئيس إذا لم يستطع مواصلة مهامه."
+  },
+  "list": {
+    "translation": "قائمة"
+  },
+  "listen": {
+    "translation": "يستمع"
+  },
+  "live": {
+    "translation": "يعيش / يقطن"
+  },
+  "local": {
+    "translation": "محلي",
+    "civicsNote": "يوجد في الولايات المتحدة ثلاثة مستويات حكومية: الفدرالية، وحكومة الولاية، والمحلية (local)."
+  },
+  "long": {
+    "translation": "طويل"
+  },
+  "look": {
+    "translation": "ينظر"
+  },
+  "lot": {
+    "translation": "الكثير / قدر كبير"
+  },
+  "louisiana": {
+    "translation": "لويزيانا",
+    "civicsNote": "'صفقة لويزيانا' (Louisiana Purchase) عام 1803 هي مساحة أرض شاسعة اشترتها الولايات المتحدة من فرنسا وضاعفت مساحة البلاد تقريباً."
+  },
+  "love": {
+    "translation": "حب"
+  },
+  "loyal": {
+    "translation": "مخلص / موالٍ",
+    "civicsNote": "'قسم الولاء' (Pledge of Allegiance) هو نص يُقسَم فيه على الولاء للولايات المتحدة."
+  },
+  "loyalty": {
+    "translation": "ولاء",
+    "civicsNote": "يقسم المواطنون الجدد على الولاء للولايات المتحدة في 'قسم الولاء' (Oath of Allegiance)."
+  },
+  "lucretia": {
+    "translation": "لوكريشا",
+    "civicsNote": "لوكريشا موت (Lucretia Mott) إجابة في الامتحان تُعتبر من قادة حركة حق المرأة في التصويت (women's suffrage)."
+  },
+  "lucy": {
+    "translation": "لوسي",
+    "civicsNote": "لوسي ستون (Lucy Stone) إجابة في الامتحان تُعتبر من قادة حركة حق المرأة في التصويت."
+  },
+  "luther": {
+    "translation": "لوثر",
+    "civicsNote": "جزء من اسم مارتن لوثر كينغ الابن، زعيم الحقوق المدنية الأمريكي."
+  },
+  "made": {
+    "translation": "صيغة الماضي من 'make'؛ تعني أن شيئاً صُنع أو أُنتج"
+  },
+  "madison": {
+    "translation": "ماديسون",
+    "civicsNote": "جيمس ماديسون ساعد في كتابة الدستور، وهو أحد كتّاب المقالات الفدرالية، وكان الرئيس الرابع للولايات المتحدة."
+  },
+  "main": {
+    "translation": "رئيسي / أساسي"
+  },
+  "major": {
+    "translation": "كبير / مهم جداً"
+  },
+  "make": {
+    "translation": "يصنع / يجعل",
+    "civicsNote": "الكونغرس يضع (يصنع) قوانين الولايات المتحدة."
+  },
+  "male": {
+    "translation": "ذكر"
+  },
+  "manage": {
+    "translation": "يدير"
+  },
+  "management": {
+    "translation": "إدارة"
+  },
+  "many": {
+    "translation": "كثير (عدد كبير)"
+  },
+  "march": {
+    "translation": "مسيرة",
+    "civicsNote": "نظّم قادة الحقوق المدنية، مثل مارتن لوثر كينغ الابن، مسيرات كبرى مثل مسيرة واشنطن."
+  },
+  "market": {
+    "translation": "سوق",
+    "civicsNote": "يوصف النظام الاقتصادي الأمريكي بأنه 'اقتصاد السوق' (market economy)."
+  },
+  "martin": {
+    "translation": "مارتن",
+    "civicsNote": "جزء من اسم مارتن لوثر كينغ الابن، زعيم الحقوق المدنية الأمريكي."
+  },
+  "maryland": {
+    "translation": "ماريلاند",
+    "civicsNote": "إحدى المستعمرات الثلاث عشرة الأصلية؛ حصن ماكهنري في ماريلاند ألهم النشيد الوطني الأمريكي."
+  },
+  "massachusetts": {
+    "translation": "ماساتشوستس",
+    "civicsNote": "إحدى المستعمرات الثلاث عشرة الأصلية؛ وقعت فيها حفلة شاي بوسطن ومذبحة بوسطن."
+  },
+  "massacre": {
+    "translation": "مذبحة",
+    "civicsNote": "مذبحة بوسطن (1770) حادثة قتل فيها جنود بريطانيون مستعمرين قبل الثورة الأمريكية."
+  },
+  "match": {
+    "translation": "يطابق / يتوافق مع"
+  },
+  "matter": {
+    "translation": "يهم / له أهمية"
+  },
+  "may": {
+    "translation": "قد / يجوز (تُستخدم للتعبير عن الإمكانية أو السماح)"
+  },
+  "mayflower": {
+    "translation": "ماي فلاور",
+    "civicsNote": "السفينة 'Mayflower' حملت الحجّاج (Pilgrims) عام 1620، الذين وقّعوا 'عهد ماي فلاور' (Mayflower Compact) وشكّلوا نموذجاً مبكراً للحكم الذاتي."
+  },
+  "mean": {
+    "translation": "يعني"
+  },
+  "meet": {
+    "translation": "يجتمع / يلتقي"
+  },
+  "member": {
+    "translation": "عضو",
+    "civicsNote": "أعضاء الكونغرس (members of Congress) هم السناتورات والنواب المنتخبون."
+  },
+  "memorial": {
+    "translation": "نُصُب تذكاري",
+    "civicsNote": "نُصُب لينكولن التذكاري (Lincoln Memorial) في واشنطن العاصمة يخلّد ذكرى الرئيس أبراهام لينكولن."
+  },
+  "man": {
+    "translation": "رجل"
+  },
+  "mexican-american": {
+    "translation": "مكسيكي أمريكي",
+    "civicsNote": "الحرب المكسيكية الأمريكية (1846-1848) حرب دارت بين الولايات المتحدة والمكسيك."
+  },
+  "middle": {
+    "translation": "وسط / أوسط",
+    "civicsNote": "'المستعمرات الوسطى' (Middle Colonies) هي واحدة من مناطق المستعمرات الثلاث عشرة الأصلية الثلاث."
+  },
+  "military": {
+    "translation": "عسكري؛ الجيش",
+    "civicsNote": "رئيس الولايات المتحدة هو القائد العام للقوات المسلحة (Commander in Chief)."
+  },
+  "mint": {
+    "translation": "دار سك العملة",
+    "civicsNote": "دار سك العملة الأمريكية (U.S. Mint) هي المؤسسة الحكومية التي تصنع العملات المعدنية."
+  },
+  "mlk": {
+    "translation": "إم إل كي",
+    "civicsNote": "اختصار للأحرف الأولى من اسم مارتن لوثر كينغ الابن، الذي ناضل من أجل الحقوق المدنية."
+  },
+  "modern": {
+    "translation": "حديث"
+  },
+  "mohawk": {
+    "translation": "موهوك",
+    "civicsNote": "موهوك إجابة مقبولة في الامتحان كأحد قبائل الأمريكيين الأصليين في الولايات المتحدة."
+  },
+  "mohegan": {
+    "translation": "موهيغان",
+    "civicsNote": "موهيغان إجابة مقبولة في الامتحان كأحد قبائل الأمريكيين الأصليين في الولايات المتحدة."
+  },
+  "moment": {
+    "translation": "لحظة"
+  },
+  "money": {
+    "translation": "مال / نقود",
+    "civicsNote": "من صلاحيات الكونغرس طبع النقود (print money)."
+  },
+  "moon": {
+    "translation": "القمر",
+    "civicsNote": "يتعلق بسؤال تسمية أمريكي ذهب إلى القمر (مثل نيل أرمسترونغ)."
+  },
+  "more": {
+    "translation": "أكثر"
+  },
+  "most": {
+    "translation": "الأكثر / معظم"
+  },
+  "mott": {
+    "translation": "موت",
+    "civicsNote": "لوكريشا موت (Lucretia Mott) إجابة تُعتبر من قادة حركة حق المرأة في التصويت."
+  },
+  "motto": {
+    "translation": "شعار",
+    "civicsNote": "'In God We Trust' (نحن نثق بالله) هو الشعار الرسمي للولايات المتحدة."
+  },
+  "movement": {
+    "translation": "حركة",
+    "civicsNote": "حركة الحقوق المدنية وحركة حق المرأة في التصويت من الأجزاء المهمة في التاريخ الأمريكي."
+  },
+  "much": {
+    "translation": "كثير (كمية كبيرة)"
+  },
+  "must": {
+    "translation": "يجب / لازم",
+    "civicsNote": "تُستخدم عند وصف شروط السن والإقامة اللازمة للتصويت أو للترشح لمنصب."
+  },
+  "name": {
+    "translation": "اسم",
+    "civicsNote": "كثير من أسئلة امتحان الجنسية تطلب منك 'تسمية' (name) شخص أو مكان أو وثيقة."
+  },
+  "nasa": {
+    "translation": "ناسا",
+    "civicsNote": "ناسا هي وكالة الفضاء الأمريكية التي أرسلت الأمريكيين إلى القمر."
+  },
+  "nation": {
+    "translation": "أمة / دولة"
+  },
+  "national": {
+    "translation": "وطني / قومي"
+  },
+  "native": {
+    "translation": "أصلي؛ من السكان الأصليين",
+    "civicsNote": "'الأمريكيون الأصليون' (Native Americans) هم الشعوب التي عاشت في أمريكا قبل الأوروبيين."
+  },
+  "natural": {
+    "translation": "طبيعي",
+    "civicsNote": "'المواطن بالمولد' (natural-born citizen) يعني الشخص المولود في الولايات المتحدة أو لأبوين أمريكيين، وهو شرط لتولي منصب الرئاسة."
+  },
+  "naturalize": {
+    "translation": "يتجنّس / يحصل على الجنسية",
+    "civicsNote": "التجنيس (naturalization) هو العملية القانونية التي يصبح بها المهاجر مواطناً أمريكياً، وهو موضوع هذا التطبيق."
+  },
+  "navajo": {
+    "translation": "نافاهو",
+    "civicsNote": "نافاهو إجابة مقبولة في الامتحان كأحد قبائل الأمريكيين الأصليين في الولايات المتحدة."
+  },
+  "near": {
+    "translation": "قريب"
+  },
+  "need": {
+    "translation": "يحتاج"
+  },
+  "never": {
+    "translation": "أبداً / لا... مطلقاً"
+  },
+  "new": {
+    "translation": "جديد",
+    "civicsNote": "يتكرر في أسماء ولايات مثل نيويورك ونيوجيرزي، وعند الحديث عن المواطنين الجدد."
+  },
+  "newspaper": {
+    "translation": "صحيفة",
+    "civicsNote": "حرية الصحافة (بما فيها الصحف) محمية بموجب التعديل الأول للدستور."
+  },
+  "next": {
+    "translation": "التالي"
+  },
+  "nine": {
+    "translation": "تسعة",
+    "civicsNote": "تضم المحكمة العليا الأمريكية تسعة (9) قضاة."
+  },
+  "no": {
+    "translation": "لا / كلا"
+  },
+  "nonvoting": {
+    "translation": "بلا حق تصويت",
+    "civicsNote": "تُستخدم لممثلي مناطق مثل واشنطن العاصمة أو بورتوريكو في الكونغرس الأمريكي، الذين لا يملكون حق التصويت (nonvoting)."
+  },
+  "north": {
+    "translation": "الشمال",
+    "civicsNote": "في سياق الحرب الأهلية الأمريكية، تشير 'the North' إلى ولايات الاتحاد المعارضة للعبودية."
+  },
+  "northern": {
+    "translation": "شمالي"
+  },
+  "not": {
+    "translation": "لا (تُستخدم لجعل الجملة منفية)"
+  },
+  "now": {
+    "translation": "الآن",
+    "civicsNote": "تظهر في أسئلة تطلب معلومات حالية مثل 'من هو الرئيس الآن؟'"
+  },
+  "nuclear": {
+    "translation": "نووي"
+  },
+  "number": {
+    "translation": "عدد / رقم",
+    "civicsNote": "يتكرر في أسئلة مثل عدد السناتورات (100) أو عدد النواب (435) في الكونغرس الأمريكي."
+  },
+  "oath": {
+    "translation": "قسم / يمين",
+    "civicsNote": "'قسم الولاء' (Oath of Allegiance) هو اليمين الذي يقسمه المواطنون الجدد بالولاء للولايات المتحدة."
+  },
+  "obey": {
+    "translation": "يطيع / يمتثل لـ"
+  },
+  "of": {
+    "translation": "حرف يدل على الملكية أو الصلة بين شيئين"
+  },
+  "office": {
+    "translation": "منصب / وظيفة رسمية",
+    "civicsNote": "'Run for office' تعني الترشح لمنصب منتخب."
+  },
+  "official": {
+    "translation": "مسؤول / موظف رسمي",
+    "civicsNote": "'Give an elected official your opinion' - إبلاغ مسؤول منتخب برأيك هو جزء من واجبات المواطنة."
+  },
+  "officially": {
+    "translation": "رسمياً"
+  },
+  "often": {
+    "translation": "غالباً / كثيراً"
+  },
+  "oh": {
+    "translation": "آه",
+    "civicsNote": "تظهر في أول سطر من النشيد الوطني الأمريكي: 'Oh, say can you see...'"
+  },
+  "old": {
+    "translation": "قديم؛ من العمر",
+    "civicsNote": "'18 years old' يتكرر في الأسئلة المتعلقة بسن التصويت."
+  },
+  "on": {
+    "translation": "على (حرف جر يدل على الوضع فوق شيء أو ملامسته، أو يوماً محدداً)"
+  },
+  "one": {
+    "translation": "واحد"
+  },
+  "oneida": {
+    "translation": "أونيدا",
+    "civicsNote": "قد تظهر في امتحان الجنسية كأحد قبائل الأمريكيين الأصليين في الولايات المتحدة."
+  },
+  "only": {
+    "translation": "فقط / لا غير"
+  },
+  "onondaga": {
+    "translation": "أونونداغا",
+    "civicsNote": "قد تظهر في امتحان الجنسية كأحد قبائل الأمريكيين الأصليين في الولايات المتحدة."
+  },
+  "open": {
+    "translation": "مفتوح"
+  },
+  "opinion": {
+    "translation": "رأي"
+  },
+  "opportunity": {
+    "translation": "فرصة",
+    "civicsNote": "'الفرصة الاقتصادية' (economic opportunity) هي أحد أسباب قدوم المستوطنين إلى أمريكا."
+  },
+  "oppose": {
+    "translation": "يعارض / يقاوم"
+  },
+  "or": {
+    "translation": "أو"
+  },
+  "order": {
+    "translation": "أمر",
+    "civicsNote": "تُستخدم غالباً في سياق 'executive orders' (الأوامر التنفيذية) التي يصدرها الرئيس."
+  },
+  "original": {
+    "translation": "أصلي / الأول",
+    "civicsNote": "'The original 13 states' تشير إلى الولايات الثلاث عشرة الأولى التي أسست الولايات المتحدة."
+  },
+  "originally": {
+    "translation": "في الأصل / أصلاً"
+  },
+  "other": {
+    "translation": "آخر"
+  },
+  "ottoman": {
+    "translation": "عثماني",
+    "civicsNote": "كانت الدولة العثمانية إحدى دول المحور المركزي التي حاربت الولايات المتحدة في الحرب العالمية الأولى."
+  },
+  "our": {
+    "translation": "ملكنا (ضمير الملكية للجمع المتكلم)"
+  },
+  "out": {
+    "translation": "خارج"
+  },
+  "outside": {
+    "translation": "في الخارج / خارج المبنى"
+  },
+  "over": {
+    "translation": "فوق؛ أكثر من"
+  },
+  "overnight": {
+    "translation": "خلال ليلة واحدة"
+  },
+  "overrule": {
+    "translation": "ينقض / يُبطل (قرارًا) بسلطة أعلى"
+  },
+  "own": {
+    "translation": "خاص (بالمرء)"
+  },
+  "paper": {
+    "translation": "ورقة / مقالة",
+    "civicsNote": "'الأوراق الفدرالية' (The Federalist Papers) هي مقالات كُتبت لدعم التصديق على دستور الولايات المتحدة."
+  },
+  "parent": {
+    "translation": "والد أو والدة"
+  },
+  "part": {
+    "translation": "جزء"
+  },
+  "participation": {
+    "translation": "مشاركة",
+    "civicsNote": "'المشاركة المدنية' (Civic participation) تشير إلى القيام بواجبات المواطنة، مثل التصويت أو الانضمام إلى جماعات المجتمع."
+  },
+  "party": {
+    "translation": "حزب (سياسي)",
+    "civicsNote": "'الحزب السياسي' (Political party) - أكبر حزبين في الولايات المتحدة هما الحزب الديمقراطي والحزب الجمهوري."
+  },
+  "passage": {
+    "translation": "تمرير / إجازة (قانون)",
+    "civicsNote": "'تمرير الدستور' (The passage of the Constitution) يشير إلى العملية الرسمية للتصديق على قانون أو على الدستور."
+  },
+  "pass": {
+    "translation": "يُمرِّر / يصادق على (قانون)",
+    "civicsNote": "يقوم الكونغرس بـ 'تمرير' (passes/passed) مشروع قانون لتحويله إلى قانون نافذ."
+  },
+  "pay": {
+    "translation": "يدفع (مالاً)",
+    "civicsNote": "'دفع الضرائب' (Pay taxes) هو أحد مسؤوليات مواطني الولايات المتحدة."
+  },
+  "peace": {
+    "translation": "سلام"
+  },
+  "pearl harbor": {
+    "translation": "بيرل هاربر",
+    "civicsNote": "هجوم اليابان على بيرل هاربر عام 1941 هو ما أدخل الولايات المتحدة إلى الحرب العالمية الثانية."
+  },
+  "pennsylvania": {
+    "translation": "بنسلفانيا",
+    "civicsNote": "إحدى الطائرات المخطوفة في هجمات 11 سبتمبر سقطت في حقل بولاية بنسلفانيا."
+  },
+  "pentagon": {
+    "translation": "البنتاغون",
+    "civicsNote": "تعرّض البنتاغون لهجوم في 11 سبتمبر 2001."
+  },
+  "people": {
+    "translation": "الشعب / الناس",
+    "civicsNote": "يبدأ دستور الولايات المتحدة بعبارة 'نحن الشعب' (We the People)، وهي تعبّر عن أن السلطة تنبع من الشعب."
+  },
+  "period": {
+    "translation": "فترة"
+  },
+  "persecution": {
+    "translation": "اضطهاد",
+    "civicsNote": "من أسباب هجرة المستعمرين إلى أمريكا كان الهروب من الاضطهاد الديني."
+  },
+  "persian": {
+    "translation": "فارسي",
+    "civicsNote": "'حرب الخليج' (Persian Gulf War، عام 1991) هي من الحروب التي شاركت فيها الولايات المتحدة في القرن العشرين."
+  },
+  "person": {
+    "translation": "شخص"
+  },
+  "petition": {
+    "translation": "عريضة / التماس",
+    "civicsNote": "التعديل الأول للدستور يحمي حق تقديم الالتماسات (petition) إلى الحكومة."
+  },
+  "phrase": {
+    "translation": "عبارة"
+  },
+  "pick": {
+    "translation": "يختار"
+  },
+  "piece": {
+    "translation": "قطعة"
+  },
+  "place": {
+    "translation": "مكان"
+  },
+  "plane": {
+    "translation": "طائرة",
+    "civicsNote": "الطائرات المخطوفة في 11 سبتمبر 2001 اصطدمت بالبرجين التوأمين والبنتاغون، وسقطت واحدة منها في بنسلفانيا."
+  },
+  "player": {
+    "translation": "لاعب"
+  },
+  "pledge": {
+    "translation": "تعهد / عهد",
+    "civicsNote": "'يمين الولاء' (The Pledge of Allegiance) هو تعهد بالولاء للعلم الأمريكي."
+  },
+  "pluribus": {
+    "translation": "الكثرة / كثيرون (كلمة لاتينية)",
+    "civicsNote": "'إي بلوريبوس أونوم' (E Pluribus Unum، بمعنى 'من الكثرة، واحد') هو الشعار الوطني للولايات المتحدة."
+  },
+  "plus": {
+    "translation": "زائد / بالإضافة إلى"
+  },
+  "police": {
+    "translation": "الشرطة"
+  },
+  "policy": {
+    "translation": "سياسة (خطة عمل)",
+    "civicsNote": "التعبير علنًا عن دعم أو معارضة سياسة حكومية هو جزء من ممارسة المواطنة."
+  },
+  "political": {
+    "translation": "سياسي",
+    "civicsNote": "'الحرية السياسية' (political liberty) كانت من أسباب هجرة المستعمرين إلى أمريكا؛ و'الحزب السياسي' (political party) يعني الحزب السياسي."
+  },
+  "politics": {
+    "translation": "السياسة"
+  },
+  "poll": {
+    "translation": "استطلاع رأي / مركز انتخابي",
+    "civicsNote": "'ضريبة الاقتراع' (Poll tax) كانت ضريبة تُفرض للتمكن من التصويت، وقد حظرها التعديل الرابع والعشرون."
+  },
+  "popular": {
+    "translation": "شعبي / محبوب",
+    "civicsNote": "'السيادة الشعبية' (Popular sovereignty) تشير إلى المبدأ القائل بأن سلطة الحكم تنبع من الشعب."
+  },
+  "population": {
+    "translation": "عدد السكان",
+    "civicsNote": "عدد سكان الولاية يحدد عدد ممثليها في الكونغرس."
+  },
+  "position": {
+    "translation": "منصب / وظيفة",
+    "civicsNote": "يمكن أن تشير إلى سلطة الرئيس في تعيين شخصيات في مناصب حكومية مهمة، كأعضاء مجلس الوزراء."
+  },
+  "postmaster": {
+    "translation": "مدير مكتب البريد",
+    "civicsNote": "كان بنجامين فرانكلين أول مدير عام للبريد (Postmaster General) في الولايات المتحدة."
+  },
+  "power": {
+    "translation": "سلطة / قوة",
+    "civicsNote": "يقسّم الدستور السلطات (powers) بين الحكومة الفدرالية والولايات."
+  },
+  "powerful": {
+    "translation": "قوي"
+  },
+  "practice": {
+    "translation": "يمارس",
+    "civicsNote": "'حرية ممارسة أي دين' (Freedom to practice any religion) تشير إلى حرية ممارسة أو اتباع أي دين."
+  },
+  "preserve": {
+    "translation": "يحافظ على / يصون",
+    "civicsNote": "ترد في يمين الرئاسة: 'preserve, protect, and defend the Constitution' (الحفاظ على الدستور وحمايته والدفاع عنه)."
+  },
+  "president": {
+    "translation": "رئيس"
+  },
+  "process": {
+    "translation": "عملية / إجراء",
+    "civicsNote": "'الإجراءات القانونية الواجبة' (Due process of law) حق يضمنه الدستور."
+  },
+  "proclamation": {
+    "translation": "إعلان (رسمي)",
+    "civicsNote": "'إعلان تحرير العبيد' (Emancipation Proclamation) هو الإعلان الذي أصدره لينكولن لتحرير العبيد في ولايات الكونفدرالية."
+  },
+  "promise": {
+    "translation": "يعد / يتعهد",
+    "civicsNote": "ترد في يمين الولاء (Oath of Allegiance) بعبارة 'أعِد...' (I promise)."
+  },
+  "property": {
+    "translation": "ملكية / عقار"
+  },
+  "protect": {
+    "translation": "يحمي",
+    "civicsNote": "ترد في يمين الرئاسة بعبارة 'protect and defend the Constitution' (حماية الدستور والدفاع عنه)."
+  },
+  "protection": {
+    "translation": "حماية",
+    "civicsNote": "'الحماية المتساوية بموجب القانون' (Equal protection of the law) مكفولة بالتعديل الرابع عشر."
+  },
+  "provide": {
+    "translation": "يوفر / يزوّد"
+  },
+  "public": {
+    "translation": "عام"
+  },
+  "publius": {
+    "translation": "بوبليوس",
+    "civicsNote": "استخدم كتّاب 'الأوراق الفدرالية' (هاملتون وماديسون وجاي) الاسم المستعار 'بوبليوس' (Publius)."
+  },
+  "pueblo": {
+    "translation": "بويبلو",
+    "civicsNote": "هي إحدى الإجابات المقبولة لسؤال 'اذكر اسم قبيلة من قبائل الهنود الحمر'."
+  },
+  "purchase": {
+    "translation": "شراء",
+    "civicsNote": "'صفقة لويزيانا' (Louisiana Purchase) تشير إلى شراء الولايات المتحدة مساحة كبيرة من الأرض من فرنسا عام 1803."
+  },
+  "purpose": {
+    "translation": "غرض / هدف"
+  },
+  "pursuit": {
+    "translation": "سعي / طلب",
+    "civicsNote": "'السعي وراء السعادة' (Pursuit of Happiness) هي جزء من العبارة المشهورة في إعلان الاستقلال."
+  },
+  "push": {
+    "translation": "يدفع / يزحزح (شيئًا)"
+  },
+  "quartering": {
+    "translation": "إسكان (الجنود)",
+    "civicsNote": "التعديل الثالث للدستور يمنع الحكومة من إسكان الجنود في المنازل دون إذن أصحابها."
+  },
+  "race": {
+    "translation": "عرق",
+    "civicsNote": "بحسب التعديل الخامس عشر، لا يمكن رفض حق التصويت بسبب العرق."
+  },
+  "reason": {
+    "translation": "سبب"
+  },
+  "recession": {
+    "translation": "ركود اقتصادي"
+  },
+  "reconstruction": {
+    "translation": "إعادة البناء / الإعمار",
+    "civicsNote": "تشير إلى الفترة التي أعقبت الحرب الأهلية (1865-1877) حين أعادت الولايات الجنوبية الانضمام إلى الاتحاد."
+  },
+  "register": {
+    "translation": "يسجّل",
+    "civicsNote": "تُستخدم بمعنى التسجيل في قوائم الناخبين (register to vote) أو تسجيل الشباب الذكور في سن 18 عامًا في نظام الخدمة الانتقائية العسكرية (Selective Service)."
+  },
+  "religion": {
+    "translation": "دين",
+    "civicsNote": "يمنح التعديل الأول لكل شخص حرية اختيار الدين الذي يريد أو عدم اعتناق أي دين."
+  },
+  "remember": {
+    "translation": "يتذكّر"
+  },
+  "represent": {
+    "translation": "يمثّل"
+  },
+  "representation": {
+    "translation": "تمثيل",
+    "civicsNote": "'لا ضرائب بلا تمثيل' (No taxation without representation) كانت من أهم شكاوى الثورة الأمريكية."
+  },
+  "representative": {
+    "translation": "نائب / ممثل (في الكونغرس)",
+    "civicsNote": "يشير إلى عضو مجلس النواب (House of Representatives) في الكونغرس الأمريكي؛ يختلف عددهم بحسب عدد سكان كل ولاية، ومدة عضويتهم سنتان."
+  },
+  "republic": {
+    "translation": "جمهورية"
+  },
+  "required": {
+    "translation": "مطلوب / لازم"
+  },
+  "resident": {
+    "translation": "مقيم"
+  },
+  "resolves": {
+    "translation": "يقرر (رسميًا) / يبتّ"
+  },
+  "retirement": {
+    "translation": "التقاعد"
+  },
+  "reviews": {
+    "translation": "يراجع / يعيد النظر في",
+    "civicsNote": "يمكن استخدامها في سياق مراجعة المحكمة العليا لدستورية القوانين (judicial review)."
+  },
+  "revolution": {
+    "translation": "ثورة",
+    "civicsNote": "'الثورة الأمريكية' (American Revolution) تشير إلى الحرب التي نالت فيها الولايات المتحدة استقلالها عن بريطانيا."
+  },
+  "rhode": {
+    "translation": "رود آيلاند"
+  },
+  "right": {
+    "translation": "حق",
+    "civicsNote": "'وثيقة الحقوق' (Bill of Rights) هي أول عشرة تعديلات على الدستور، وتضمن الحقوق الأساسية."
+  },
+  "rival": {
+    "translation": "خصم / منافس",
+    "civicsNote": "يمكن استخدامها للإشارة إلى الدول المنافسة للولايات المتحدة خلال الحرب الباردة، مثل روسيا."
+  },
+  "river": {
+    "translation": "نهر"
+  },
+  "roaring": {
+    "translation": "صاخب / هادر",
+    "civicsNote": "'العشرينيات الصاخبة' (Roaring Twenties) تشير إلى فترة النمو الاقتصادي والترفيه في عشرينيات القرن العشرين."
+  },
+  "roosevelt": {
+    "translation": "روزفلت"
+  },
+  "rule": {
+    "translation": "قاعدة",
+    "civicsNote": "'حكم القانون' (Rule of law) هو المبدأ القائل بأن على الجميع، حتى القادة، الالتزام بالقانون."
+  },
+  "run": {
+    "translation": "يترشح (لمنصب)",
+    "civicsNote": "في عبارة 'الترشح لمنصب' (Run for office)، لا يعني الفعل 'الجري' بل الترشح في انتخابات."
+  },
+  "russia": {
+    "translation": "روسيا"
+  },
+  "safety": {
+    "translation": "الأمان / السلامة"
+  },
+  "said": {
+    "translation": "قال"
+  },
+  "same": {
+    "translation": "نفسه / ذاته"
+  },
+  "saratoga": {
+    "translation": "ساراتوغا",
+    "civicsNote": "تُعرف معركة ساراتوغا بأنها نقطة تحول في الثورة الأمريكية."
+  },
+  "saved": {
+    "translation": "أنقذ / حفظ"
+  },
+  "say": {
+    "translation": "يقول"
+  },
+  "school": {
+    "translation": "مدرسة"
+  },
+  "seats": {
+    "translation": "مقاعد"
+  },
+  "secret": {
+    "translation": "سرّي",
+    "civicsNote": "'التصويت السري' (Secret ballot) مبدأ يضمن عدم معرفة الآخرين لمن صوّت الناخب."
+  },
+  "secretary": {
+    "translation": "وزير",
+    "civicsNote": "في الولايات المتحدة تعني كلمة 'Secretary' رئيس وزارة (مثل وزير الخارجية - Secretary of State)، وتختلف عن معنى السكرتير."
+  },
+  "security": {
+    "translation": "أمن / ضمان",
+    "civicsNote": "'الضمان الاجتماعي' (Social Security) هو برنامج مساعدة حكومي للمتقاعدين والمعاقين والعاطلين عن العمل."
+  },
+  "see": {
+    "translation": "يرى"
+  },
+  "seek": {
+    "translation": "يسعى / يطلب"
+  },
+  "select": {
+    "translation": "يختار",
+    "civicsNote": "'نظام الخدمة الانتقائية' (Selective Service System) هو النظام الفدرالي الذي يجب على الذكور في سن 18 عامًا التسجيل فيه للخدمة العسكرية."
+  },
+  "self-government": {
+    "translation": "الحكم الذاتي"
+  },
+  "seminole": {
+    "translation": "سيمينول",
+    "civicsNote": "هي إحدى الإجابات المقبولة لسؤال 'اذكر اسم قبيلة من قبائل الهنود الحمر'."
+  },
+  "senate": {
+    "translation": "مجلس الشيوخ",
+    "civicsNote": "أحد فرعي الكونغرس الأمريكي؛ يتكون من 100 عضو، بمعدل عضوين عن كل ولاية."
+  },
+  "senator": {
+    "translation": "عضو مجلس الشيوخ",
+    "civicsNote": "يُنتخب عضوان عن كل ولاية، ومدة عضويتهما 6 سنوات."
+  },
+  "send": {
+    "translation": "يرسل"
+  },
+  "seneca": {
+    "translation": "سينيكا",
+    "civicsNote": "هي إحدى الإجابات المقبولة لسؤال 'اذكر اسم قبيلة من قبائل الهنود الحمر'."
+  },
+  "separate": {
+    "translation": "يفصل / منفصل",
+    "civicsNote": "'فصل السلطات' (Separation of powers) هو المبدأ القائل بتقسيم الحكومة إلى ثلاث سلطات منفصلة: تشريعية وتنفيذية وقضائية."
+  },
+  "september": {
+    "translation": "سبتمبر"
+  },
+  "serve": {
+    "translation": "يخدم"
+  },
+  "service": {
+    "translation": "خدمة"
+  },
+  "set": {
+    "translation": "يضع / يحدد"
+  },
+  "several": {
+    "translation": "عدة / عدد من"
+  },
+  "share": {
+    "translation": "يتشارك / يقتسم",
+    "civicsNote": "'تقاسم السلطة' (Share power) يشير إلى تقاسم الحكومة الفدرالية وحكومات الولايات للسلطة في النظام الفدرالي."
+  },
+  "sharpsburg": {
+    "translation": "شاربسبيرغ"
+  },
+  "shawnee": {
+    "translation": "شاوني",
+    "civicsNote": "هي إحدى الإجابات المقبولة لسؤال 'اذكر اسم قبيلة من قبائل الهنود الحمر'."
+  },
+  "sherman's": {
+    "translation": "شيرمان",
+    "civicsNote": "'مسيرة شيرمان' (Sherman's March) هي العملية العسكرية التي قادها الجنرال شيرمان عبر الجنوب خلال الحرب الأهلية."
+  },
+  "ship": {
+    "translation": "سفينة"
+  },
+  "short": {
+    "translation": "قصير"
+  },
+  "should": {
+    "translation": "ينبغي / يجب"
+  },
+  "show": {
+    "translation": "يُظهر / يُري"
+  },
+  "sign": {
+    "translation": "يوقّع",
+    "civicsNote": "يشير إلى توقيع الرئيس على مشروع قانون ليصبح نافذًا."
+  },
+  "simple": {
+    "translation": "بسيط"
+  },
+  "sing": {
+    "translation": "يغنّي"
+  },
+  "sioux": {
+    "translation": "سيوكس",
+    "civicsNote": "هي إحدى الإجابات المقبولة لسؤال 'اذكر اسم قبيلة من قبائل الهنود الحمر'."
+  },
+  "sit": {
+    "translation": "يجلس",
+    "civicsNote": "'الجلوس في المحكمة العليا' (Sit on the Supreme Court) يعني أن يكون القاضي عضوًا فيها."
+  },
+  "six": {
+    "translation": "ستة"
+  },
+  "size": {
+    "translation": "حجم"
+  },
+  "skin": {
+    "translation": "بشرة / جلد",
+    "civicsNote": "'لون البشرة' (Skin color) يرد في سياق أنه لا يمكن حرمان أي شخص من حق التصويت بسبب عرقه أو لون بشرته (التعديل الخامس عشر)."
+  },
+  "skyscraper": {
+    "translation": "ناطحة سحاب"
+  },
+  "slavery": {
+    "translation": "العبودية"
+  },
+  "slave": {
+    "translation": "عبد"
+  },
+  "small": {
+    "translation": "صغير"
+  },
+  "so": {
+    "translation": "لذا / إذن"
+  },
+  "social": {
+    "translation": "اجتماعي",
+    "civicsNote": "تُستخدم غالبًا في سياق برنامج 'الضمان الاجتماعي' (Social Security)."
+  },
+  "sojourner": {
+    "translation": "سوجورنر"
+  },
+  "sold": {
+    "translation": "باعَ"
+  },
+  "soldier": {
+    "translation": "جندي"
+  },
+  "some": {
+    "translation": "بعض"
+  },
+  "someone": {
+    "translation": "شخص ما"
+  },
+  "something": {
+    "translation": "شيء ما"
+  },
+  "song": {
+    "translation": "أغنية",
+    "civicsNote": "النشيد الوطني الأمريكي 'The Star-Spangled Banner' هو أغنية."
+  },
+  "south": {
+    "translation": "الجنوب",
+    "civicsNote": "في التاريخ الأمريكي، تشير كلمة 'الجنوب' (the South) إلى الولايات الجنوبية التي شكّلت الكونفدرالية قبل الحرب الأهلية."
+  },
+  "southern": {
+    "translation": "جنوبي",
+    "civicsNote": "تشير إلى الولايات الجنوبية (الكونفدرالية) في فترة الحرب الأهلية."
+  },
+  "sovereignty": {
+    "translation": "السيادة",
+    "civicsNote": "مفهوم يتعلق بحق الولايات في حكم نفسها والنظام الفدرالي."
+  },
+  "soviet": {
+    "translation": "سوفياتي",
+    "civicsNote": "كان الاتحاد السوفياتي الخصم الرئيسي للولايات المتحدة خلال الحرب الباردة."
+  },
+  "spanish-american": {
+    "translation": "إسباني-أمريكي",
+    "civicsNote": "تشير إلى 'الحرب الإسبانية الأمريكية' التي وقعت بين الولايات المتحدة وإسبانيا عام 1898."
+  },
+  "speak": {
+    "translation": "يتحدث / يتكلم"
+  },
+  "speaker": {
+    "translation": "متحدث / رئيس (المجلس)",
+    "civicsNote": "'رئيس مجلس النواب' (Speaker of the House) يرأس المجلس ويأتي في ترتيب متقدم لخلافة الرئاسة."
+  },
+  "special": {
+    "translation": "خاص",
+    "civicsNote": "تُستخدم أيضًا في سياق 'الانتخابات الخاصة' (special election) التي تُجرى لملء مقعد شاغر في الكونغرس."
+  },
+  "speech": {
+    "translation": "خطاب / كلام",
+    "civicsNote": "'حرية التعبير' (Freedom of speech) حق يحميه التعديل الأول للدستور."
+  },
+  "spend": {
+    "translation": "يُنفق"
+  },
+  "sport": {
+    "translation": "رياضة"
+  },
+  "spread": {
+    "translation": "ينتشر / ينشر",
+    "civicsNote": "تُستخدم للإشارة إلى انتشار الشيوعية (the spread of communism) خلال الحرب الباردة."
+  },
+  "stamp": {
+    "translation": "طابع (بريدي)",
+    "civicsNote": "تشير إلى 'قانون الطابع' (Stamp Act) البريطاني، وهو قانون ضريبي احتج عليه المستعمرون."
+  },
+  "stand": {
+    "translation": "يمثّل / يرمز إلى",
+    "civicsNote": "تُستخدم في أسئلة مثل 'ماذا ترمز النجوم/الخطوط إليه؟' بمعنى 'ماذا تمثل'."
+  },
+  "stanton": {
+    "translation": "ستانتون",
+    "civicsNote": "تشير إلى إليزابيث كايدي ستانتون، إحدى رائدات حركة حقوق المرأة."
+  },
+  "star": {
+    "translation": "نجمة",
+    "civicsNote": "الخمسون نجمة على العلم الأمريكي ترمز إلى الولايات الخمسين."
+  },
+  "star-spangled": {
+    "translation": "المرصّع بالنجوم",
+    "civicsNote": "'The Star-Spangled Banner' هو اسم النشيد الوطني الأمريكي؛ يُستخدم كاسم علم لا بمعناه الحرفي."
+  },
+  "start": {
+    "translation": "يبدأ"
+  },
+  "state": {
+    "translation": "ولاية",
+    "civicsNote": "في اختبار المعرفة المدنية، تشير كلمة 'state' غالبًا إلى إحدى الولايات الخمسين التي تشكّل الولايات المتحدة."
+  },
+  "statement": {
+    "translation": "بيان / تصريح"
+  },
+  "statue": {
+    "translation": "تمثال",
+    "civicsNote": "تشير إلى تمثال الحرية (Statue of Liberty)."
+  },
+  "statute": {
+    "translation": "قانون (تشريعي)"
+  },
+  "stay": {
+    "translation": "يبقى / يمكث"
+  },
+  "still": {
+    "translation": "لا يزال / ما زال"
+  },
+  "stock": {
+    "translation": "سهم (في شركة)",
+    "civicsNote": "تشير إلى انهيار سوق الأسهم (stock market) عام 1929، الذي أدى إلى الكساد الكبير (Great Depression)."
+  },
+  "stone": {
+    "translation": "حجر",
+    "civicsNote": "تشير أيضًا إلى لوسي ستون، إحدى رائدات حركة حقوق المرأة."
+  },
+  "stop": {
+    "translation": "يوقف / يتوقف"
+  },
+  "storm": {
+    "translation": "عاصفة"
+  },
+  "stripe": {
+    "translation": "شريط / خط (على العلم)",
+    "civicsNote": "الثلاثة عشر خطًا على العلم الأمريكي ترمز إلى المستعمرات الثلاث عشرة الأولى."
+  },
+  "strong": {
+    "translation": "قوي"
+  },
+  "subject": {
+    "translation": "رعية / تابع (لملك)",
+    "civicsNote": "قبل الاستقلال، لم يكن المستعمرون الأمريكيون مواطنين بل 'رعايا' لملك بريطانيا."
+  },
+  "sugar": {
+    "translation": "سكر",
+    "civicsNote": "تشير إلى 'قانون السكر' (Sugar Act) البريطاني الذي أغضب المستعمرين."
+  },
+  "sumter": {
+    "translation": "سمتر",
+    "civicsNote": "تشير إلى حصن سمتر، حيث وقعت أول معركة في الحرب الأهلية."
+  },
+  "support": {
+    "translation": "يدعم",
+    "civicsNote": "تُستخدم في يمين المواطنة بعبارة 'دعم الدستور والدفاع عنه' (support and defend the Constitution)."
+  },
+  "supreme": {
+    "translation": "أعلى / عليا",
+    "civicsNote": "المحكمة العليا (Supreme Court) هي أعلى محكمة في الولايات المتحدة."
+  },
+  "sure": {
+    "translation": "متأكد"
+  },
+  "surrender": {
+    "translation": "يستسلم",
+    "civicsNote": "استسلم البريطانيون في حصار يوركتاون عام 1781، الذي أنهى حرب الاستقلال."
+  },
+  "susan": {
+    "translation": "سوزان",
+    "civicsNote": "تشير إلى سوزان ب. أنتوني، إحدى رائدات حركة حق المرأة في التصويت."
+  },
+  "system": {
+    "translation": "نظام",
+    "civicsNote": "تشير إلى مفاهيم مثل 'النظام الاقتصادي' (الرأسمالية) أو 'نظام الضوابط والتوازنات' (checks and balances) في الحكومة."
+  },
+  "take": {
+    "translation": "يأخذ"
+  },
+  "tax": {
+    "translation": "ضريبة",
+    "civicsNote": "الضرائب المفروضة على المستعمرات دون تمثيل كانت من أهم أسباب الثورة الأمريكية."
+  },
+  "taxation": {
+    "translation": "فرض الضرائب",
+    "civicsNote": "'لا ضرائب بلا تمثيل' (No taxation without representation) كان شعار احتجاج مشهورًا للمستعمرين قبل الثورة."
+  },
+  "tea": {
+    "translation": "شاي",
+    "civicsNote": "تشير إلى 'حفلة شاي بوسطن' (Boston Tea Party)، الاحتجاج الاستعماري المشهور ضد ضريبة الشاي البريطانية."
+  },
+  "team": {
+    "translation": "فريق"
+  },
+  "term": {
+    "translation": "مدة (الولاية)",
+    "civicsNote": "على سبيل المثال، مدة ولاية عضو مجلس الشيوخ ست سنوات، ومدة ولاية الرئيس أربع سنوات."
+  },
+  "territory": {
+    "translation": "إقليم",
+    "civicsNote": "من أمثلة أقاليم الولايات المتحدة بورتوريكو وغوام وساموا الأمريكية."
+  },
+  "terror": {
+    "translation": "رعب"
+  },
+  "terrorist": {
+    "translation": "إرهابي",
+    "civicsNote": "يشير إلى هجمات 11 سبتمبر 2001 على الولايات المتحدة: 'Terrorists attacked the United States' (هاجم الإرهابيون الولايات المتحدة)."
+  },
+  "teton": {
+    "translation": "تيتون",
+    "civicsNote": "أحد الأجوبة المقبولة لسؤال 'اذكر اسم قبيلة من قبائل الأمريكيين الأصليين في الولايات المتحدة' (تيتون سيوكس)."
+  },
+  "than": {
+    "translation": "مِن (أداة مقارنة)"
+  },
+  "thank": {
+    "translation": "شكر / يشكر"
+  },
+  "thanksgiving": {
+    "translation": "عيد الشكر",
+    "civicsNote": "عيد الشكر (Thanksgiving) هو أحد الأعياد الرسمية الفدرالية في الولايات المتحدة."
+  },
+  "that": {
+    "translation": "ذلك / تلك"
+  },
+  "the": {
+    "translation": "ال (أداة التعريف)"
+  },
+  "their": {
+    "translation": "ـهم (ضمير ملكية: خاصتهم)"
+  },
+  "them": {
+    "translation": "هم / إيّاهم"
+  },
+  "themselves": {
+    "translation": "أنفسهم"
+  },
+  "then": {
+    "translation": "ثم / بعد ذلك"
+  },
+  "there": {
+    "translation": "هناك"
+  },
+  "thereof": {
+    "translation": "منه / من ذلك",
+    "civicsNote": "ترد في التعديل الأول للدستور: '...or prohibiting the free exercise thereof' (أي حظر ممارسة الدين بحرية)."
+  },
+  "these": {
+    "translation": "هؤلاء / هذه"
+  },
+  "they": {
+    "translation": "هم"
+  },
+  "thing": {
+    "translation": "شيء"
+  },
+  "think": {
+    "translation": "فكّر / يفكر"
+  },
+  "third": {
+    "translation": "ثالث"
+  },
+  "thirty-five": {
+    "translation": "خمسة وثلاثون",
+    "civicsNote": "يجب أن يكون عمر الشخص 35 عامًا على الأقل ليصبح رئيسًا للولايات المتحدة."
+  },
+  "this": {
+    "translation": "هذا / هذه"
+  },
+  "thomas": {
+    "translation": "توماس",
+    "civicsNote": "يشير عادةً إلى توماس جفرسون، الذي كتب وثيقة الاستقلال وأصبح الرئيس الثالث للولايات المتحدة."
+  },
+  "those": {
+    "translation": "أولئك / تلك"
+  },
+  "three": {
+    "translation": "ثلاثة",
+    "civicsNote": "للحكومة الأمريكية ثلاث سلطات: التشريعية والتنفيذية والقضائية."
+  },
+  "through": {
+    "translation": "عبر / خلال"
+  },
+  "time": {
+    "translation": "وقت / زمن"
+  },
+  "to": {
+    "translation": "إلى"
+  },
+  "together": {
+    "translation": "معًا"
+  },
+  "too": {
+    "translation": "أيضًا"
+  },
+  "top": {
+    "translation": "القمة / الأعلى"
+  },
+  "torch": {
+    "translation": "مِشعل",
+    "civicsNote": "يحمل تمثال الحرية مشعلًا يرمز إلى الحرية."
+  },
+  "total": {
+    "translation": "الإجمالي / المجموع"
+  },
+  "townshend": {
+    "translation": "تاونزند",
+    "civicsNote": "قوانين تاونزند (Townshend Acts) كانت قوانين بريطانية فرضت ضرائب على البضائع في المستعمرات الأمريكية."
+  },
+  "trade": {
+    "translation": "تجارة",
+    "civicsNote": "يملك الكونغرس سلطة تنظيم التجارة مع الدول الأجنبية وبين الولايات."
+  },
+  "transportation": {
+    "translation": "النقل",
+    "civicsNote": "وزارة النقل (Department of Transportation) هي وزارة اتحادية تقع ضمن مجلس وزراء الرئيس."
+  },
+  "treasury": {
+    "translation": "الخزانة",
+    "civicsNote": "وزارة الخزانة الأمريكية (Department of the Treasury) هي إحدى الوزارات على مستوى مجلس الوزراء."
+  },
+  "treaty": {
+    "translation": "معاهدة",
+    "civicsNote": "تُستخدم في سياق معاهدات السلام التي أنهت الحروب، أو المعاهدات المبرمة مع القبائل الأصلية."
+  },
+  "treatment": {
+    "translation": "معاملة / علاج"
+  },
+  "trenton": {
+    "translation": "ترينتون",
+    "civicsNote": "هي المكان الذي وقعت فيه معركة ترينتون الشهيرة لجورج واشنطن خلال حرب الاستقلال."
+  },
+  "tribe": {
+    "translation": "قبيلة",
+    "civicsNote": "يشير إلى قبائل الأمريكيين الأصليين (مثل الشيروكي والنافاجو والسيوكس)؛ يُطلب في الامتحان ذكر اسم قبيلة واحدة."
+  },
+  "trouble": {
+    "translation": "مشكلة / متاعب"
+  },
+  "truth": {
+    "translation": "الحقيقة"
+  },
+  "tubman": {
+    "translation": "توبمان",
+    "civicsNote": "هارييت توبمان شخصية أمريكية مشهورة ساعدت المستعبدين على نيل حريتهم عبر السكة الحديد السرية (Underground Railroad)."
+  },
+  "turn": {
+    "translation": "دار / تحوّل (تغيّر الاتجاه أو أصبح شيئًا آخر)"
+  },
+  "tuscarora": {
+    "translation": "توسكارورا",
+    "civicsNote": "أحد الأجوبة المقبولة على سؤال \"اذكر اسم قبيلة من قبائل الأمريكيين الأصليين\"."
+  },
+  "twenty-seven": {
+    "translation": "سبعة وعشرون",
+    "civicsNote": "يشير إلى التعديل السابع والعشرين للدستور (المتعلق برواتب أعضاء الكونغرس)."
+  },
+  "two": {
+    "translation": "اثنان",
+    "civicsNote": "يرد في العديد من إجابات اختبار الجنسية، مثل امتلاك كل ولاية عضوين في مجلس الشيوخ، أو انتخاب ثلث أعضاء مجلس الشيوخ (الذين تمتد ولايتهم ست سنوات) كل عامين."
+  },
+  "u.s.": {
+    "translation": "و.م.أ (اختصار الولايات المتحدة)",
+    "civicsNote": "هو الاختصار المستخدم باستمرار في الامتحان للإشارة إلى \"United States\"."
+  },
+  "under": {
+    "translation": "تحت / بموجب"
+  },
+  "understand": {
+    "translation": "فهم / يفهم",
+    "civicsNote": "أحد شروط الجنسية المتعلقة باللغة الإنجليزية: القراءة والكتابة والتحدث وفهم الإنجليزية الأساسية."
+  },
+  "unfair": {
+    "translation": "غير عادل / جائر",
+    "civicsNote": "يصف الضرائب والقوانين الجائرة التي دفعت المستعمرين إلى الثورة على بريطانيا."
+  },
+  "union": {
+    "translation": "اتحاد / الوحدة",
+    "civicsNote": "يشير إلى الولايات الشمالية (\"the Union\") خلال الحرب الأهلية، أو إلى الولايات المتحدة الأمريكية بشكل عام."
+  },
+  "united": {
+    "translation": "متحد / موحّد",
+    "civicsNote": "جزء من اسم البلد \"United States of America\" (الولايات المتحدة الأمريكية)."
+  },
+  "university": {
+    "translation": "جامعة"
+  },
+  "until": {
+    "translation": "حتى"
+  },
+  "unum": {
+    "translation": "يونوم (كلمة لاتينية تعني \"واحد\")",
+    "civicsNote": "جزء من عبارة \"E Pluribus Unum\" (من الكثرة، واحد)، وهي مكتوبة على العملة الأمريكية."
+  },
+  "up": {
+    "translation": "أعلى / إلى فوق"
+  },
+  "urban": {
+    "translation": "حضري"
+  },
+  "usa": {
+    "translation": "الولايات المتحدة الأمريكية (اختصار: USA)",
+    "civicsNote": "اختصار للاسم الكامل للبلد."
+  },
+  "use": {
+    "translation": "استخدم / يستخدم"
+  },
+  "ussr": {
+    "translation": "الاتحاد السوفيتي (اختصار: USSR)",
+    "civicsNote": "كان الخصم الرئيسي للولايات المتحدة خلال الحرب الباردة؛ يرد في أسئلة مثل \"من كان الخصم الرئيسي للولايات المتحدة خلال الحرب الباردة؟\"."
+  },
+  "usually": {
+    "translation": "عادةً"
+  },
+  "valley": {
+    "translation": "وادٍ",
+    "civicsNote": "يشير إلى فالي فورج (Valley Forge)، حيث عسكر جيش واشنطن خلال حرب الاستقلال."
+  },
+  "vary": {
+    "translation": "اختلف / يتغيّر",
+    "civicsNote": "تُستخدم عبارة \"Answers will vary\" (تتفاوت الإجابات) في الأسئلة التي تختلف إجابتها حسب ولاية أو منطقة الشخص."
+  },
+  "very": {
+    "translation": "جدًا"
+  },
+  "veteran": {
+    "translation": "قدامى المحاربين (محارب سابق)",
+    "civicsNote": "مرتبط بيوم قدامى المحاربين (Veterans Day) الذي يكرّم من خدموا في القوات المسلحة الأمريكية."
+  },
+  "veto": {
+    "translation": "حق النقض (الفيتو)",
+    "civicsNote": "هي سلطة الرئيس في رفض مشروع قانون أقرّه الكونغرس."
+  },
+  "vice": {
+    "translation": "نائب",
+    "civicsNote": "تُستخدم في لقب \"Vice President\" (نائب الرئيس)."
+  },
+  "vice-president": {
+    "translation": "نائب الرئيس",
+    "civicsNote": "هو أول شخص في ترتيب خلافة الرئاسة (line of succession)؛ يرد في قوائم مجلس الوزراء."
+  },
+  "vicksburg": {
+    "translation": "فيكسبرغ",
+    "civicsNote": "هي المكان الذي وقعت فيه معركة مهمة من الحرب الأهلية (حصار فيكسبرغ)."
+  },
+  "vietnam": {
+    "translation": "فيتنام",
+    "civicsNote": "متعلقة بحرب فيتنام، إحدى الحروب التي شاركت فيها الولايات المتحدة في القرن العشرين."
+  },
+  "virginia": {
+    "translation": "فيرجينيا",
+    "civicsNote": "إحدى المستعمرات الثلاث عشرة الأصلية؛ تقع فيها جيمستاون ويوركتاون."
+  },
+  "visit": {
+    "translation": "زار / يزور"
+  },
+  "vote": {
+    "translation": "صوّت / يصوّت (التصويت)",
+    "civicsNote": "موضوع محوري في اختبار الجنسية: حق التصويت، سن التصويت (18 عامًا)، والتعديلات الدستورية المتعلقة بحق التصويت."
+  },
+  "vs": {
+    "translation": "ضد (اختصار versus)"
+  },
+  "want": {
+    "translation": "أراد / يريد"
+  },
+  "war": {
+    "translation": "حرب",
+    "civicsNote": "يسأل اختبار الجنسية عن الحروب التي شاركت فيها الولايات المتحدة في القرن العشرين (الحرب العالمية الأولى والثانية، كوريا، فيتنام، حرب الخليج)، وعن حرب الاستقلال والحرب الأهلية."
+  },
+  "washington": {
+    "translation": "واشنطن",
+    "civicsNote": "يمكن أن تعني، حسب السياق، ثلاثة أشياء مختلفة: الرئيس الأول جورج واشنطن، أو العاصمة واشنطن العاصمة، أو ولاية واشنطن."
+  },
+  "way": {
+    "translation": "طريقة"
+  },
+  "we": {
+    "translation": "نحن",
+    "civicsNote": "مرتبطة بالعبارة الافتتاحية الشهيرة للدستور: \"We the People\" (نحن الشعب)."
+  },
+  "welcome": {
+    "translation": "رحّب بـ / يرحّب",
+    "civicsNote": "تُستخدم في سياق مبدأ ترحيب الولايات المتحدة بالمهاجرين."
+  },
+  "what": {
+    "translation": "ماذا"
+  },
+  "when": {
+    "translation": "متى"
+  },
+  "where": {
+    "translation": "أين"
+  },
+  "which": {
+    "translation": "أيّ"
+  },
+  "while": {
+    "translation": "بينما"
+  },
+  "who": {
+    "translation": "مَن"
+  },
+  "whole": {
+    "translation": "كامل / كل"
+  },
+  "why": {
+    "translation": "لماذا"
+  },
+  "will": {
+    "translation": "سوف (أداة المستقبل)"
+  },
+  "win": {
+    "translation": "فاز / ينتصر",
+    "civicsNote": "قد ترد في سياق فوز المستعمرات باستقلالها عن بريطانيا."
+  },
+  "with": {
+    "translation": "مع"
+  },
+  "without": {
+    "translation": "بدون / دون",
+    "civicsNote": "شعار \"No taxation without representation\" (لا ضرائب بلا تمثيل) كان من أهم أسباب حرب الاستقلال."
+  },
+  "woman": {
+    "translation": "امرأة (جمع: نساء)",
+    "civicsNote": "مرتبطة بمنح المرأة حق التصويت (women's suffrage) بموجب التعديل التاسع عشر للدستور."
+  },
+  "word": {
+    "translation": "كلمة (جمع: كلمات)"
+  },
+  "work": {
+    "translation": "عمل / يعمل",
+    "civicsNote": "ترد أيضًا في سياق كيفية \"عمل\" أجهزة الحكومة مع بعضها (نظام الضوابط والتوازنات - checks and balances)."
+  },
+  "world": {
+    "translation": "العالم",
+    "civicsNote": "جزء من عبارة \"World War\" (الحرب العالمية) في الحرب العالمية الأولى والثانية."
+  },
+  "worry": {
+    "translation": "قلق / يقلق"
+  },
+  "worship": {
+    "translation": "عبادة / يعبد",
+    "civicsNote": "\"حرية العبادة\" (Freedom of worship) هي أحد الحقوق الواردة في التعديل الأول للدستور."
+  },
+  "would": {
+    "translation": "كان سوف (أداة شرطية/تأدب)"
+  },
+  "wright": {
+    "translation": "رايت",
+    "civicsNote": "يشير إلى الأخوين رايت (Wright Brothers)، مخترعي الطائرة الأمريكيين؛ يرد كجواب مثالي في أسئلة عن المخترعين الأمريكيين المشهورين."
+  },
+  "write": {
+    "translation": "كتب / يكتب",
+    "civicsNote": "شرط اللغة الإنجليزية يشمل \"القراءة والكتابة والتحدث والفهم\"؛ ويرد أيضًا في سياق الآباء المؤسسين (Framers) الذين \"كتبوا\" الدستور."
+  },
+  "wwi": {
+    "translation": "الحرب العالمية الأولى (WWI)",
+    "civicsNote": "إحدى الحروب التي شاركت فيها الولايات المتحدة في القرن العشرين؛ كان رئيسها في ذلك الوقت وودرو ويلسون."
+  },
+  "wwii": {
+    "translation": "الحرب العالمية الثانية (WWII)",
+    "civicsNote": "إحدى الحروب التي شاركت فيها الولايات المتحدة في القرن العشرين؛ كان رئيسها في ذلك الوقت فرانكلين ديلانو روزفلت."
+  },
+  "year": {
+    "translation": "سنة / عام",
+    "civicsNote": "تُستخدم في أجوبة مثل مدة ولاية أعضاء مجلس الشيوخ (6 سنوات)، وأعضاء مجلس النواب (سنتان)، والرئيس (4 سنوات)."
+  },
+  "york": {
+    "translation": "يورك",
+    "civicsNote": "تشير عادةً إلى نيويورك، إحدى المستعمرات/الولايات الثلاث عشرة الأصلية."
+  },
+  "yorktown": {
+    "translation": "يوركتاون",
+    "civicsNote": "هي المكان في فيرجينيا الذي وقعت فيه المعركة الكبرى الأخيرة من حرب الاستقلال عام 1781."
+  },
+  "you": {
+    "translation": "أنتَ / أنتم"
+  },
+  "your": {
+    "translation": "ـك (ضمير ملكية)"
+  },
+  "zoning": {
+    "translation": "التنظيم العمراني (تقسيم المناطق)",
+    "civicsNote": "يرد في اختبار الجنسية كمثال على سلطات الحكومة المحلية/الولاية، لا الحكومة الاتحادية."
+  },
+  "define": {
+    "translation": "عرّف / يُعرّف",
+    "civicsNote": "الدستور \"يُعرّف\" سلطة الحكومة وأقسامها (defines powers of government)."
+  },
+  "enforce": {
+    "translation": "نفّذ / أنفذ (القانون)",
+    "civicsNote": "من سلطات الرئيس ضمان تنفيذ القوانين (enforces laws)."
+  },
+  "print": {
+    "translation": "طبع / يطبع",
+    "civicsNote": "الحكومة الاتحادية وحدها تملك سلطة طباعة العملة الورقية (print paper money)."
+  },
+  "abjure": {
+    "translation": "تبرّأ (رسميًا) من",
+    "civicsNote": "ترد في قسم الولاء (Oath of Allegiance) في نموذج N-400."
+  },
+  "advocate": {
+    "translation": "ناصر / يدعو إلى (فكرة أو قضية)"
+  },
+  "alimony": {
+    "translation": "نفقة (بعد الطلاق)"
+  },
+  "amnesty": {
+    "translation": "عفو عام"
+  },
+  "annul": {
+    "translation": "أبطل (الزواج)"
+  },
+  "assassination": {
+    "translation": "اغتيال"
+  },
+  "assault": {
+    "translation": "اعتداء / هجوم (جسدي)"
+  },
+  "biographic": {
+    "translation": "سيَري (متعلق بالبيانات الشخصية)"
+  },
+  "certify": {
+    "translation": "صدّق / شهد رسميًا بصحة"
+  },
+  "clemency": {
+    "translation": "رأفة (عفو قضائي)"
+  },
+  "communist": {
+    "translation": "شيوعي"
+  },
+  "conscript": {
+    "translation": "جنّد إلزاميًا"
+  },
+  "conspire": {
+    "translation": "تآمر / يتآمر (سرًا)"
+  },
+  "convict": {
+    "translation": "أدان / يُدين (قضائيًا)"
+  },
+  "court-martial": {
+    "translation": "محكمة عسكرية (محاكمة عسكرية)"
+  },
+  "dependent": {
+    "translation": "شخص معال (يعتمد عليك ماديًا)"
+  },
+  "deport": {
+    "translation": "أبعد / سفّر (قسريًا)"
+  },
+  "desert": {
+    "translation": "فرّ من الخدمة العسكرية (هجر عسكري)"
+  },
+  "detain": {
+    "translation": "احتجز / يحتجز"
+  },
+  "discharge": {
+    "translation": "تسريح (من الخدمة العسكرية)"
+  },
+  "dishonorable": {
+    "translation": "غير مشرّف"
+  },
+  "disposition": {
+    "translation": "نتيجة القضية (الحكم النهائي)"
+  },
+  "eligible": {
+    "translation": "مؤهَّل (مستحق)"
+  },
+  "ethnicity": {
+    "translation": "الإثنية / الانتماء العرقي"
+  },
+  "exempt": {
+    "translation": "أعفى / معفى (من واجب أو قانون)"
+  },
+  "explosive": {
+    "translation": "مادة متفجرة"
+  },
+  "facility": {
+    "translation": "منشأة / مرفق"
+  },
+  "fee": {
+    "translation": "رسم (مالي)"
+  },
+  "fluent": {
+    "translation": "متمكن (يتحدث بطلاقة)"
+  },
+  "gamble": {
+    "translation": "قامر / يقامر"
+  },
+  "genocide": {
+    "translation": "إبادة جماعية"
+  },
+  "guerrilla": {
+    "translation": "مقاتل عصابات (حرب العصابات)"
+  },
+  "hereditary": {
+    "translation": "وراثي"
+  },
+  "hijack": {
+    "translation": "خطف / قرصنة (طائرة أو مركبة)"
+  },
+  "honorable": {
+    "translation": "مشرِّف / محترَم"
+  },
+  "hostility": {
+    "translation": "أعمال عدائية"
+  },
+  "incite": {
+    "translation": "حرّض / يحرّض"
+  },
+  "interpreter": {
+    "translation": "مترجم فوري"
+  },
+  "kidnap": {
+    "translation": "اختطف / يختطف"
+  },
+  "legal": {
+    "translation": "قانوني"
+  },
+  "marital": {
+    "translation": "زوجي (متعلق بالزواج)"
+  },
+  "misrepresentation": {
+    "translation": "تحريف الحقائق / تضليل"
+  },
+  "narcotic": {
+    "translation": "مخدِّر"
+  },
+  "naturalization": {
+    "translation": "التجنّس"
+  },
+  "nickname": {
+    "translation": "لقب (اسم غير رسمي)"
+  },
+  "nobility": {
+    "translation": "طبقة النبلاء (الأرستقراطية)"
+  },
+  "noncombatant": {
+    "translation": "غير محارب / غير مقاتل"
+  },
+  "overthrow": {
+    "translation": "أسقط / يُسقط (الحكم بالقوة)"
+  },
+  "paramilitary": {
+    "translation": "شبه عسكري"
+  },
+  "pardon": {
+    "translation": "عفو (رسمي)"
+  },
+  "parole": {
+    "translation": "إفراج مشروط"
+  },
+  "perjury": {
+    "translation": "شهادة زور (الحنث بالقسم)"
+  },
+  "physical": {
+    "translation": "جسدي / بدني"
+  },
+  "probation": {
+    "translation": "فترة اختبار قضائي (مراقبة)"
+  },
+  "prostitution": {
+    "translation": "بغاء / دعارة"
+  },
+  "provision": {
+    "translation": "بند (قانوني)"
+  },
+  "recruit": {
+    "translation": "جنّد / استقطب"
+  },
+  "reduction": {
+    "translation": "تخفيض"
+  },
+  "renounce": {
+    "translation": "تنازل عن (رسميًا)",
+    "civicsNote": "ترد في قسم الولاء (Oath of Allegiance) في نموذج N-400."
+  },
+  "rescission": {
+    "translation": "إلغاء (رسمي)"
+  },
+  "residence": {
+    "translation": "محل الإقامة"
+  },
+  "sabotage": {
+    "translation": "تخريب (متعمد)"
+  },
+  "sentence": {
+    "translation": "حكم قضائي (عقوبة)"
+  },
+  "smuggle": {
+    "translation": "هرّب / يهرّب"
+  },
+  "status": {
+    "translation": "وضع / حالة قانونية"
+  },
+  "substance": {
+    "translation": "مادة (كيميائية)"
+  },
+  "suspend": {
+    "translation": "علّق / أوقف مؤقتًا"
+  },
+  "terminate": {
+    "translation": "أنهى / أوقف"
+  },
+  "title": {
+    "translation": "لقب"
+  },
+  "torture": {
+    "translation": "تعذيب"
+  },
+  "totalitarian": {
+    "translation": "شمولي (نظام حكم استبدادي)"
+  },
+  "traffic": {
+    "translation": "هرّب (تجارة غير مشروعة كالمخدرات أو البشر)"
+  },
+  "unconstitutional": {
+    "translation": "غير دستوري"
+  },
+  "vigilante": {
+    "translation": "مقتصّ ذاتي (يطبّق العدالة بنفسه)"
+  },
+  "weapon": {
+    "translation": "سلاح"
+  }
+}
