@@ -1,0 +1,3269 @@
+{
+  "a": {
+    "translation": "một (mạo từ bất định)"
+  },
+  "about": {
+    "translation": "về"
+  },
+  "above": {
+    "translation": "ở trên; phía trên"
+  },
+  "abraham": {
+    "translation": "Abraham (tên riêng)",
+    "civicsNote": "Abraham Lincoln là Tổng thống Hoa Kỳ trong thời kỳ Nội chiến, người đã xóa bỏ chế độ nô lệ."
+  },
+  "acceptable": {
+    "translation": "chấp nhận được"
+  },
+  "act": {
+    "translation": "đạo luật; hành động",
+    "civicsNote": "Trong bài thi, từ này thường được dùng với nghĩa là một 'đạo luật' do Quốc hội ban hành (ví dụ: Homestead Act)."
+  },
+  "active": {
+    "translation": "năng động; tích cực"
+  },
+  "add": {
+    "translation": "thêm vào; cộng"
+  },
+  "addition": {
+    "translation": "sự bổ sung; phần thêm vào"
+  },
+  "address": {
+    "translation": "bài phát biểu",
+    "civicsNote": "Trong ngữ cảnh này, 'address' chỉ một bài phát biểu chính trị chính thức, như bài diễn văn Gettysburg (Gettysburg Address) của Lincoln."
+  },
+  "administration": {
+    "translation": "chính quyền",
+    "civicsNote": "Thường được dùng để chỉ chính quyền/nội các của một tổng thống."
+  },
+  "administrator": {
+    "translation": "người quản lý; quản trị viên",
+    "civicsNote": "Có thể dùng để chỉ người đứng đầu điều hành một cơ quan chính phủ."
+  },
+  "adopt": {
+    "translation": "thông qua",
+    "civicsNote": "Được dùng để chỉ việc chính thức thông qua Hiến pháp hoặc một điều sửa đổi."
+  },
+  "advice": {
+    "translation": "lời khuyên",
+    "civicsNote": "Trong Hiến pháp, cụm từ 'advice and consent' (tư vấn và chuẩn thuận) chỉ sự chuẩn thuận mà Tổng thống phải nhận được từ Thượng viện."
+  },
+  "advise": {
+    "translation": "khuyên; cố vấn"
+  },
+  "affair": {
+    "translation": "vấn đề; công việc quan trọng",
+    "civicsNote": "'Foreign affairs' (đối ngoại) nghĩa là quan hệ của một quốc gia với các quốc gia khác."
+  },
+  "afghanistan": {
+    "translation": "Afghanistan"
+  },
+  "africa": {
+    "translation": "châu Phi"
+  },
+  "african": {
+    "translation": "người châu Phi; thuộc châu Phi"
+  },
+  "after": {
+    "translation": "sau"
+  },
+  "again": {
+    "translation": "lại; một lần nữa"
+  },
+  "against": {
+    "translation": "chống lại"
+  },
+  "age": {
+    "translation": "tuổi",
+    "civicsNote": "Trong bài thi, từ này thường xuất hiện trong ngữ cảnh độ tuổi cần thiết để bỏ phiếu hoặc nộp đơn xin nhập tịch."
+  },
+  "agency": {
+    "translation": "cơ quan (chính phủ)"
+  },
+  "ago": {
+    "translation": "trước đây; cách đây"
+  },
+  "agree": {
+    "translation": "đồng ý"
+  },
+  "agriculture": {
+    "translation": "nông nghiệp"
+  },
+  "aide": {
+    "translation": "trợ lý"
+  },
+  "aim": {
+    "translation": "mục tiêu; nhằm tới"
+  },
+  "airplane": {
+    "translation": "máy bay"
+  },
+  "alexander": {
+    "translation": "Alexander (tên riêng)",
+    "civicsNote": "Alexander Hamilton là người đã góp phần soạn thảo Hiến pháp và là Bộ trưởng Tài chính đầu tiên."
+  },
+  "all": {
+    "translation": "tất cả"
+  },
+  "allegiance": {
+    "translation": "sự trung thành",
+    "civicsNote": "'Pledge of Allegiance' là lời tuyên thệ trung thành với lá cờ và đất nước Hoa Kỳ."
+  },
+  "allied": {
+    "translation": "liên minh (với nhau)",
+    "civicsNote": "Trong Thế chiến II, 'Allied Powers' (Lực lượng Đồng minh) chỉ các nước như Hoa Kỳ, Anh và Liên Xô."
+  },
+  "along": {
+    "translation": "dọc theo"
+  },
+  "also": {
+    "translation": "cũng"
+  },
+  "always": {
+    "translation": "luôn luôn"
+  },
+  "amend": {
+    "translation": "sửa đổi",
+    "civicsNote": "'Amendment' (điều sửa đổi) là một thay đổi chính thức được thêm vào Hiến pháp Hoa Kỳ (ví dụ: Tu chính án thứ nhất - First Amendment)."
+  },
+  "america": {
+    "translation": "Mỹ; Hoa Kỳ"
+  },
+  "american": {
+    "translation": "người Mỹ; thuộc về Mỹ"
+  },
+  "an": {
+    "translation": "một (mạo từ bất định dùng trước nguyên âm)"
+  },
+  "and": {
+    "translation": "và"
+  },
+  "angry": {
+    "translation": "tức giận"
+  },
+  "answer": {
+    "translation": "câu trả lời"
+  },
+  "anthem": {
+    "translation": "quốc ca",
+    "civicsNote": "'The Star-Spangled Banner' là quốc ca của Hoa Kỳ (national anthem)."
+  },
+  "anthony": {
+    "translation": "Anthony (tên riêng)",
+    "civicsNote": "Susan B. Anthony là một nhân vật quan trọng đã đấu tranh cho quyền bầu cử của phụ nữ."
+  },
+  "anti-federalist": {
+    "translation": "người theo chủ nghĩa chống Liên bang",
+    "civicsNote": "Đây là một nhóm chính trị trong lịch sử phản đối việc thông qua Hiến pháp và bảo vệ quyền của các tiểu bang."
+  },
+  "antietam": {
+    "translation": "Antietam (tên riêng)",
+    "civicsNote": "Đây là một trong những trận chiến quan trọng của Nội chiến Hoa Kỳ."
+  },
+  "any": {
+    "translation": "bất kỳ"
+  },
+  "anymore": {
+    "translation": "không còn nữa"
+  },
+  "anyone": {
+    "translation": "bất kỳ ai"
+  },
+  "apache": {
+    "translation": "Apache (tên một bộ lạc người Mỹ bản địa)",
+    "civicsNote": "Đây là một trong các bộ lạc người Mỹ bản địa (Native American) sống ở Hoa Kỳ."
+  },
+  "applicant": {
+    "translation": "người nộp đơn",
+    "civicsNote": "Dùng để chỉ người tham gia kỳ thi nhập tịch hoặc người nộp đơn xin nhập tịch."
+  },
+  "appoint": {
+    "translation": "bổ nhiệm",
+    "civicsNote": "Được dùng trong ngữ cảnh quyền bổ nhiệm của Tổng thống đối với các quan chức như thẩm phán hoặc bộ trưởng."
+  },
+  "appomattox": {
+    "translation": "Appomattox (địa danh)",
+    "civicsNote": "Đây là nơi Robert E. Lee đầu hàng, đánh dấu sự kết thúc của Nội chiến."
+  },
+  "approve": {
+    "translation": "chấp thuận; thông qua"
+  },
+  "be": {
+    "translation": "là; thì/là/ở"
+  },
+  "arlington": {
+    "translation": "Arlington (địa danh)",
+    "civicsNote": "Nghĩa trang Quốc gia Arlington là nơi an nghỉ quan trọng của các quân nhân Hoa Kỳ."
+  },
+  "arm": {
+    "translation": "vũ khí",
+    "civicsNote": "'The right to bear arms' nghĩa là quyền mang vũ khí (được quy định trong Tu chính án thứ hai)."
+  },
+  "army": {
+    "translation": "quân đội (lục quân)"
+  },
+  "around": {
+    "translation": "xung quanh; khoảng"
+  },
+  "arrive": {
+    "translation": "đến (nơi)"
+  },
+  "article": {
+    "translation": "điều (khoản)",
+    "civicsNote": "Các phần chính của Hiến pháp Hoa Kỳ được gọi là 'Articles' (các Điều)."
+  },
+  "as": {
+    "translation": "như; vì"
+  },
+  "ask": {
+    "translation": "hỏi"
+  },
+  "assassinate": {
+    "translation": "ám sát",
+    "civicsNote": "Xuất hiện trong ngữ cảnh việc Tổng thống Lincoln bị ám sát."
+  },
+  "assembly": {
+    "translation": "sự tập hợp; hội họp",
+    "civicsNote": "'Freedom of assembly' (quyền tự do hội họp) là một quyền được bảo đảm bởi Tu chính án thứ nhất."
+  },
+  "associate": {
+    "translation": "cấp phó; đồng cấp",
+    "civicsNote": "'Associate Justice' chỉ tám thẩm phán còn lại của Tối cao Pháp viện, ngoài Chánh án (Chief Justice)."
+  },
+  "at": {
+    "translation": "tại; ở"
+  },
+  "attack": {
+    "translation": "tấn công",
+    "civicsNote": "Xuất hiện trong ngữ cảnh các sự kiện lịch sử như cuộc tấn công Pearl Harbor hoặc vụ 11/9."
+  },
+  "attorney": {
+    "translation": "luật sư",
+    "civicsNote": "'Attorney General' (Bộ trưởng Tư pháp/Tổng Chưởng lý) là một quan chức pháp lý và thành viên của Nội các."
+  },
+  "austria-hungary": {
+    "translation": "Áo-Hung",
+    "civicsNote": "Đây là một trong các đế quốc mà Hoa Kỳ đã chiến đấu chống lại trong Thế chiến I."
+  },
+  "automobile": {
+    "translation": "ô tô; xe hơi"
+  },
+  "axis": {
+    "translation": "phe Trục",
+    "civicsNote": "Trong Thế chiến II, đây là liên minh gồm Đức, Ý và Nhật Bản."
+  },
+  "bad": {
+    "translation": "xấu; tồi"
+  },
+  "balance": {
+    "translation": "sự cân bằng",
+    "civicsNote": "'Checks and balances' (kiểm soát và cân bằng) là hệ thống trong đó các nhánh của chính phủ giám sát và cân bằng quyền lực của nhau."
+  },
+  "bank": {
+    "translation": "ngân hàng"
+  },
+  "banner": {
+    "translation": "biểu ngữ; cờ hiệu",
+    "civicsNote": "'The Star-Spangled Banner' là tên của quốc ca Hoa Kỳ."
+  },
+  "baseball": {
+    "translation": "bóng chày"
+  },
+  "basic": {
+    "translation": "cơ bản"
+  },
+  "battle": {
+    "translation": "trận chiến",
+    "civicsNote": "Trong bài thi, từ này thường xuất hiện trong ngữ cảnh các trận chiến quan trọng của Nội chiến (như Antietam)."
+  },
+  "bear": {
+    "translation": "mang; chịu",
+    "civicsNote": "'The right to bear arms' nghĩa là quyền mang vũ khí (Tu chính án thứ hai)."
+  },
+  "beat": {
+    "translation": "đánh bại; đập"
+  },
+  "become": {
+    "translation": "trở thành",
+    "civicsNote": "Thường được dùng trong ngữ cảnh 'become a citizen' (trở thành công dân)."
+  },
+  "because": {
+    "translation": "bởi vì"
+  },
+  "before": {
+    "translation": "trước"
+  },
+  "belong": {
+    "translation": "thuộc về",
+    "civicsNote": "'Power belongs to the people' nghĩa là quyền lực thuộc về nhân dân, tức là chủ quyền nhân dân."
+  },
+  "below": {
+    "translation": "dưới; ở dưới"
+  },
+  "benjamin": {
+    "translation": "Benjamin (tên riêng)",
+    "civicsNote": "Benjamin Franklin là người đã ký Hiến pháp và là đại sứ Hoa Kỳ đầu tiên tại Pháp."
+  },
+  "better": {
+    "translation": "tốt hơn"
+  },
+  "between": {
+    "translation": "giữa"
+  },
+  "big": {
+    "translation": "to; lớn"
+  },
+  "bill": {
+    "translation": "dự luật",
+    "civicsNote": "Quốc hội bỏ phiếu về một 'bill' (dự luật); khi được thông qua và Tổng thống ký, nó trở thành luật (law)."
+  },
+  "birthday": {
+    "translation": "sinh nhật; ngày sinh",
+    "civicsNote": "Ngày sinh sẽ được hỏi trong đơn xin nhập tịch và buổi phỏng vấn."
+  },
+  "black": {
+    "translation": "màu đen"
+  },
+  "blackfeet": {
+    "translation": "Blackfeet (tên một bộ lạc người Mỹ bản địa)",
+    "civicsNote": "Đây là một trong các câu trả lời được chấp nhận cho câu hỏi 'Hãy nêu tên một bộ lạc người Mỹ bản địa sống ở Hoa Kỳ.'"
+  },
+  "board": {
+    "translation": "lên (tàu, xe, máy bay)",
+    "civicsNote": "Trong sự kiện Tiệc trà Boston (Boston Tea Party), những người thực dân đã lên (boarding) các tàu của Anh và đổ trà xuống biển."
+  },
+  "bomb": {
+    "translation": "quả bom; đánh bom",
+    "civicsNote": "Việc Nhật Bản đánh bom Pearl Harbor đã kéo Hoa Kỳ vào Thế chiến II."
+  },
+  "born": {
+    "translation": "được sinh ra",
+    "civicsNote": "Cụm từ 'natural born citizen' (công dân sinh ra tại Mỹ) chỉ điều kiện phải sinh ra tại Hoa Kỳ để có thể trở thành Tổng thống."
+  },
+  "boss": {
+    "translation": "sếp; người quản lý"
+  },
+  "boston": {
+    "translation": "Boston",
+    "civicsNote": "Đây là thành phố diễn ra sự kiện Tiệc trà Boston (Boston Tea Party)."
+  },
+  "both": {
+    "translation": "cả hai"
+  },
+  "buy": {
+    "translation": "mua"
+  },
+  "branch": {
+    "translation": "nhánh; ngành",
+    "civicsNote": "Chính phủ Hoa Kỳ có ba nhánh (branch): lập pháp (legislative), hành pháp (executive) và tư pháp (judicial)."
+  },
+  "britain": {
+    "translation": "nước Anh",
+    "civicsNote": "Hoa Kỳ tuyên bố độc lập khỏi nước Anh vào ngày 4 tháng 7 năm 1776."
+  },
+  "british": {
+    "translation": "thuộc về Anh; người Anh"
+  },
+  "brother": {
+    "translation": "anh/em trai"
+  },
+  "budget": {
+    "translation": "ngân sách",
+    "civicsNote": "Quốc hội có quyền thu thuế và quyết định ngân sách quốc gia."
+  },
+  "build": {
+    "translation": "xây dựng"
+  },
+  "bulb": {
+    "translation": "bóng đèn",
+    "civicsNote": "Bóng đèn (light bulb), một trong những phát minh của Thomas Edison, có thể được đề cập trong các nội dung lịch sử."
+  },
+  "bulgaria": {
+    "translation": "Bulgaria"
+  },
+  "bunker": {
+    "translation": "hầm trú ẩn",
+    "civicsNote": "Trận Bunker Hill là một trong những trận chiến quan trọng và diễn ra sớm trong Chiến tranh Cách mạng Hoa Kỳ."
+  },
+  "business": {
+    "translation": "kinh doanh"
+  },
+  "but": {
+    "translation": "nhưng"
+  },
+  "by": {
+    "translation": "bởi; bằng"
+  },
+  "cabinet": {
+    "translation": "nội các",
+    "civicsNote": "Nội các gồm những người đứng đầu các bộ, có nhiệm vụ tư vấn cho Tổng thống (ví dụ: Bộ trưởng Ngoại giao)."
+  },
+  "cabinet-level": {
+    "translation": "cấp nội các"
+  },
+  "cady": {
+    "translation": "Cady (tên riêng)",
+    "civicsNote": "Elizabeth Cady Stanton là một nhân vật lịch sử người Mỹ đấu tranh cho quyền của phụ nữ; tên này có thể xuất hiện trong bài thi."
+  },
+  "call": {
+    "translation": "gọi"
+  },
+  "come": {
+    "translation": "đến"
+  },
+  "campaign": {
+    "translation": "chiến dịch (vận động bầu cử)"
+  },
+  "can": {
+    "translation": "có thể"
+  },
+  "cannot": {
+    "translation": "không thể"
+  },
+  "capital": {
+    "translation": "thủ đô",
+    "civicsNote": "Washington, D.C. là thủ đô của Hoa Kỳ (national capital)."
+  },
+  "capitalism": {
+    "translation": "chủ nghĩa tư bản",
+    "civicsNote": "Một trong các câu trả lời cho câu hỏi 'Hệ thống kinh tế của Hoa Kỳ là gì?' là 'kinh tế tư bản / kinh tế thị trường'."
+  },
+  "capture": {
+    "translation": "bắt giữ; chiếm được"
+  },
+  "carolina": {
+    "translation": "Carolina",
+    "civicsNote": "Bắc Carolina và Nam Carolina là hai trong số 13 thuộc địa đầu tiên."
+  },
+  "carry": {
+    "translation": "mang; chở"
+  },
+  "car": {
+    "translation": "xe hơi; ô tô"
+  },
+  "case": {
+    "translation": "vụ án"
+  },
+  "cayuga": {
+    "translation": "Cayuga (tên một bộ lạc người Mỹ bản địa)",
+    "civicsNote": "Đây là một bộ lạc người Mỹ bản địa, thành viên của Liên minh Iroquois."
+  },
+  "celebrate": {
+    "translation": "kỷ niệm; ăn mừng"
+  },
+  "center": {
+    "translation": "trung tâm"
+  },
+  "central": {
+    "translation": "trung tâm; trung ương",
+    "civicsNote": "Ở Hoa Kỳ, quyền lực được phân chia giữa chính phủ trung ương (liên bang) và chính quyền các tiểu bang (chủ nghĩa liên bang - federalism)."
+  },
+  "change": {
+    "translation": "thay đổi",
+    "civicsNote": "Những thay đổi chính thức đối với Hiến pháp được gọi là 'amendment' (điều sửa đổi); 10 điều sửa đổi đầu tiên chính là Tuyên ngôn Nhân quyền (Bill of Rights)."
+  },
+  "character": {
+    "translation": "tính cách; nhân cách",
+    "civicsNote": "'Good moral character' (nhân cách đạo đức tốt) là một điều kiện bắt buộc đối với đơn xin nhập tịch."
+  },
+  "charge": {
+    "translation": "trách nhiệm; phụ trách",
+    "civicsNote": "Cụm từ 'in charge of' nghĩa là 'chịu trách nhiệm về/điều hành một việc gì đó'; ví dụ, Tổng thống chịu trách nhiệm về nhánh hành pháp."
+  },
+  "check": {
+    "translation": "sự kiểm soát",
+    "civicsNote": "'Checks and balances' (kiểm soát và cân bằng) là hệ thống đảm bảo mỗi nhánh của chính phủ hạn chế quyền lực của các nhánh khác."
+  },
+  "cherokee": {
+    "translation": "Cherokee (tên một bộ lạc người Mỹ bản địa lớn)"
+  },
+  "cheyenne": {
+    "translation": "Cheyenne (tên một bộ lạc người Mỹ bản địa)"
+  },
+  "chief": {
+    "translation": "trưởng; đứng đầu",
+    "civicsNote": "'Commander in Chief' (Tổng Tư lệnh) là vai trò của Tổng thống với tư cách người chỉ huy cao nhất của quân đội; còn 'Chief Justice' (Chánh án) là người đứng đầu Tối cao Pháp viện."
+  },
+  "chippewa": {
+    "translation": "Chippewa (còn gọi là Ojibwe, tên một bộ lạc người Mỹ bản địa)"
+  },
+  "choctaw": {
+    "translation": "Choctaw (tên một bộ lạc người Mỹ bản địa)"
+  },
+  "choose": {
+    "translation": "chọn",
+    "civicsNote": "Công dân chọn ra người đại diện của mình bằng cách bỏ phiếu (voting)."
+  },
+  "christmas": {
+    "translation": "Lễ Giáng sinh",
+    "civicsNote": "Đây là một ngày lễ liên bang chính thức của Hoa Kỳ (national holiday)."
+  },
+  "circuit": {
+    "translation": "khu vực xét xử (tòa phúc thẩm liên bang)",
+    "civicsNote": "'Circuit Court' là một trong các tòa phúc thẩm khu vực trong hệ thống tư pháp liên bang Hoa Kỳ."
+  },
+  "citizen": {
+    "translation": "công dân"
+  },
+  "citizenship": {
+    "translation": "quyền công dân; quốc tịch",
+    "civicsNote": "Đây là chủ đề của bài thi này, chỉ tình trạng pháp lý và quy trình trở thành công dân Hoa Kỳ."
+  },
+  "city": {
+    "translation": "thành phố"
+  },
+  "civic": {
+    "translation": "thuộc về công dân",
+    "civicsNote": "'Civic duty' (nghĩa vụ công dân) chỉ các nghĩa vụ như đi bỏ phiếu."
+  },
+  "civil": {
+    "translation": "dân sự",
+    "civicsNote": "'Civil War' (1861-1865) là cuộc nội chiến giữa các tiểu bang miền Bắc và miền Nam Hoa Kỳ. 'Civil rights' (quyền dân sự/nhân quyền) chỉ các quyền cơ bản của công dân."
+  },
+  "civilian": {
+    "translation": "dân sự (không thuộc quân đội)",
+    "civicsNote": "Tổng thống là một nhà lãnh đạo dân sự (không phải quân nhân) điều hành quân đội (sự kiểm soát dân sự đối với quân đội - civilian control of the military)."
+  },
+  "close": {
+    "translation": "gần"
+  },
+  "coast": {
+    "translation": "bờ biển"
+  },
+  "coercive": {
+    "translation": "mang tính cưỡng ép",
+    "civicsNote": "'Coercive Acts' (các Đạo luật Cưỡng ép, còn gọi là Intolerable Acts - Đạo luật Không thể Chấp nhận) là các luật trừng phạt mà Anh áp đặt lên các thuộc địa sau sự kiện Tiệc trà Boston."
+  },
+  "coin": {
+    "translation": "tiền xu",
+    "civicsNote": "Trên tiền của Hoa Kỳ có in các câu 'In God We Trust' và 'E Pluribus Unum'."
+  },
+  "cold": {
+    "translation": "lạnh",
+    "civicsNote": "'Cold War' (Chiến tranh Lạnh, 1947-1991) là căng thẳng giữa Hoa Kỳ và Liên Xô; trong bài thi, câu trả lời cho câu hỏi 'Mối lo ngại chính của Hoa Kỳ trong Chiến tranh Lạnh là gì?' là 'chủ nghĩa cộng sản'."
+  },
+  "college": {
+    "translation": "trường đại học",
+    "civicsNote": "'Electoral College' (Đại cử tri đoàn) là cơ quan chính thức bầu ra Tổng thống."
+  },
+  "colony": {
+    "translation": "thuộc địa",
+    "civicsNote": "13 thuộc địa đầu tiên (13 original colonies) là các thuộc địa của Anh đã hình thành nên Hoa Kỳ."
+  },
+  "colonist": {
+    "translation": "người thực dân; người định cư thuộc địa",
+    "civicsNote": "Những người thực dân đã chiến đấu chống lại Anh vì thuế cao và việc bị đánh thuế mà không có quyền đại diện (taxation without representation)."
+  },
+  "color": {
+    "translation": "màu sắc",
+    "civicsNote": "Các màu của lá cờ Hoa Kỳ là đỏ, trắng và xanh."
+  },
+  "columbia": {
+    "translation": "Columbia",
+    "civicsNote": "Tên chính thức của Washington, D.C. là 'District of Columbia' (Đặc khu Columbia)."
+  },
+  "columbus": {
+    "translation": "Columbus (Christopher Columbus)",
+    "civicsNote": "Ông là nhà thám hiểm đã đến châu Mỹ vào năm 1492; Ngày Columbus được tổ chức để tưởng nhớ ông."
+  },
+  "combustion": {
+    "translation": "sự đốt cháy"
+  },
+  "commander": {
+    "translation": "người chỉ huy",
+    "civicsNote": "Tổng thống là Tổng Tư lệnh (Commander in Chief) của các lực lượng vũ trang Hoa Kỳ."
+  },
+  "commerce": {
+    "translation": "thương mại",
+    "civicsNote": "Quốc hội có quyền điều chỉnh thương mại giữa các tiểu bang và thương mại quốc tế."
+  },
+  "commissioner": {
+    "translation": "ủy viên"
+  },
+  "communism": {
+    "translation": "chủ nghĩa cộng sản",
+    "civicsNote": "Trong Chiến tranh Lạnh, mối lo ngại chính của Hoa Kỳ là chủ nghĩa cộng sản."
+  },
+  "community": {
+    "translation": "cộng đồng"
+  },
+  "compact": {
+    "translation": "hiệp ước; thỏa thuận chính thức",
+    "civicsNote": "'Mayflower Compact' (Hiệp ước Mayflower) là thỏa thuận tự quản đầu tiên, được những người Pilgrim ký vào năm 1620."
+  },
+  "complete": {
+    "translation": "hoàn thành"
+  },
+  "compromise": {
+    "translation": "sự thỏa hiệp",
+    "civicsNote": "'Great Compromise' (Đại Thỏa hiệp) tại Hội nghị Lập hiến đã giải quyết vấn đề đại diện trong Quốc hội giữa các tiểu bang lớn và nhỏ."
+  },
+  "concern": {
+    "translation": "sự lo ngại",
+    "civicsNote": "Câu trả lời cho câu hỏi 'Mối lo ngại chính của Hoa Kỳ trong Chiến tranh Lạnh là gì?' là 'chủ nghĩa cộng sản'."
+  },
+  "condition": {
+    "translation": "tình trạng; điều kiện"
+  },
+  "confederacy": {
+    "translation": "Liên minh miền Nam",
+    "civicsNote": "Đây là liên minh của các tiểu bang miền Nam chiến đấu chống lại miền Bắc trong Nội chiến."
+  },
+  "confederate": {
+    "translation": "thuộc Liên minh miền Nam",
+    "civicsNote": "Chỉ những người hoặc những thứ ủng hộ các tiểu bang miền Nam trong Nội chiến."
+  },
+  "confederation": {
+    "translation": "liên minh (các bang)",
+    "civicsNote": "'Articles of Confederation' (Các Điều khoản Liên minh) là văn bản quản lý đầu tiên của Hoa Kỳ trước năm 1789."
+  },
+  "conflict": {
+    "translation": "xung đột"
+  },
+  "congress": {
+    "translation": "Quốc hội",
+    "civicsNote": "Đây là cơ quan lập pháp của Hoa Kỳ (legislative branch); gồm Thượng viện và Hạ viện."
+  },
+  "congressional": {
+    "translation": "thuộc Quốc hội",
+    "civicsNote": "Thường xuất hiện trong các cụm từ như 'congressional district' (khu vực bầu cử Quốc hội) - đây là khu vực mà một thành viên Hạ viện đại diện."
+  },
+  "connecticut": {
+    "translation": "Connecticut",
+    "civicsNote": "Connecticut là một trong 13 thuộc địa đầu tiên hình thành nên Hoa Kỳ."
+  },
+  "consent": {
+    "translation": "sự đồng ý",
+    "civicsNote": "Theo Tuyên ngôn Độc lập, các chính phủ có được quyền lực từ 'sự đồng ý của những người bị quản lý', tức là từ sự chuẩn thuận của nhân dân."
+  },
+  "constitution": {
+    "translation": "Hiến pháp",
+    "civicsNote": "Chỉ Hiến pháp Hoa Kỳ, được soạn năm 1787 và là luật tối cao của đất nước."
+  },
+  "constitution-based": {
+    "translation": "dựa trên hiến pháp",
+    "civicsNote": "Được dùng để miêu tả chính phủ Hoa Kỳ: 'một nền cộng hòa liên bang dựa trên hiến pháp'."
+  },
+  "constitutional": {
+    "translation": "thuộc về hiến pháp",
+    "civicsNote": "Có thể liên quan đến Hội nghị Lập hiến (Constitutional Convention) năm 1787, nơi Hiến pháp Hoa Kỳ được soạn ra."
+  },
+  "contact": {
+    "translation": "liên hệ"
+  },
+  "content": {
+    "translation": "nội dung"
+  },
+  "continental": {
+    "translation": "(thuộc) lục địa",
+    "civicsNote": "Liên quan đến 'Quân đội Lục địa' (Continental Army) do George Washington chỉ huy, hoặc 'Quốc hội Lục địa' (Continental Congress), nơi các lãnh đạo thuộc địa họp mặt."
+  },
+  "contract": {
+    "translation": "hợp đồng"
+  },
+  "control": {
+    "translation": "kiểm soát",
+    "civicsNote": "Liên quan đến 'hệ thống kiểm soát và cân bằng' (checks and balances), đảm bảo không cơ quan chính phủ nào có quá nhiều quyền lực để kiểm soát các cơ quan khác."
+  },
+  "convention": {
+    "translation": "hội nghị",
+    "civicsNote": "Chỉ Hội nghị Lập hiến (Constitutional Convention) năm 1787 tại Philadelphia, nơi Hiến pháp được soạn ra."
+  },
+  "convince": {
+    "translation": "thuyết phục",
+    "civicsNote": "Tập sách nhỏ 'Common Sense' (Lẽ thường) của Thomas Paine đã thuyết phục nhiều người thuộc địa ủng hộ việc giành độc lập từ Anh Quốc."
+  },
+  "could": {
+    "translation": "có thể"
+  },
+  "count": {
+    "translation": "đếm",
+    "civicsNote": "Có thể chỉ việc đếm dân số, ví dụ cuộc Điều tra Dân số Hoa Kỳ (Census) được thực hiện mỗi 10 năm."
+  },
+  "country": {
+    "translation": "đất nước"
+  },
+  "court": {
+    "translation": "tòa án",
+    "civicsNote": "Thường chỉ Tòa án Tối cao (Supreme Court), tòa án cao nhất của Hoa Kỳ."
+  },
+  "crash": {
+    "translation": "sự sụp đổ",
+    "civicsNote": "Chỉ sự sụp đổ của thị trường chứng khoán năm 1929 (stock market crash), sự kiện khởi đầu cuộc Đại Khủng hoảng (Great Depression)."
+  },
+  "create": {
+    "translation": "tạo ra"
+  },
+  "creek": {
+    "translation": "Creek",
+    "civicsNote": "Đây là một trong những câu trả lời có thể cho câu hỏi 'Hãy kể tên một bộ lạc người Mỹ bản địa (Da đỏ) ở Hoa Kỳ'."
+  },
+  "crisis": {
+    "translation": "khủng hoảng"
+  },
+  "crossing": {
+    "translation": "sự vượt qua",
+    "civicsNote": "Có thể liên quan đến việc George Washington vượt sông Delaware năm 1776 (Washington Crossing the Delaware)."
+  },
+  "crow": {
+    "translation": "Crow",
+    "civicsNote": "Đây là một trong những câu trả lời có thể cho câu hỏi 'Hãy kể tên một bộ lạc người Mỹ bản địa (Da đỏ) ở Hoa Kỳ'."
+  },
+  "d.c.": {
+    "translation": "D.C.",
+    "civicsNote": "Washington, D.C. là thủ đô của Hoa Kỳ, nhưng D.C. KHÔNG phải là một trong 50 tiểu bang."
+  },
+  "danger": {
+    "translation": "nguy hiểm"
+  },
+  "day": {
+    "translation": "ngày",
+    "civicsNote": "Xuất hiện trong tên các ngày lễ chính thức của Hoa Kỳ như Ngày Độc lập (Independence Day), Ngày Tưởng niệm (Memorial Day) và Ngày Tổng thống (Presidents Day)."
+  },
+  "deal": {
+    "translation": "thỏa thuận",
+    "civicsNote": "Chỉ 'New Deal' (Chính sách Kinh tế Mới), tên các chương trình của Tổng thống Franklin Roosevelt nhằm giúp chấm dứt cuộc Đại Khủng hoảng."
+  },
+  "decide": {
+    "translation": "quyết định"
+  },
+  "decision": {
+    "translation": "quyết định"
+  },
+  "declaration": {
+    "translation": "tuyên ngôn",
+    "civicsNote": "Chỉ Tuyên ngôn Độc lập (Declaration of Independence), được ký năm 1776, tuyên bố nước Mỹ được tự do khỏi Anh Quốc."
+  },
+  "declare": {
+    "translation": "tuyên bố",
+    "civicsNote": "Quốc hội có quyền tuyên bố chiến tranh."
+  },
+  "defend": {
+    "translation": "bảo vệ",
+    "civicsNote": "Là một phần của Lời tuyên thệ Trung thành (Oath of Allegiance): công dân mới hứa sẽ 'bảo vệ' Hiến pháp Hoa Kỳ."
+  },
+  "defense": {
+    "translation": "sự phòng thủ",
+    "civicsNote": "Bộ Quốc phòng (Department of Defense) là một trong các bộ cấp nội các của chính phủ Hoa Kỳ."
+  },
+  "delaware": {
+    "translation": "Delaware",
+    "civicsNote": "Delaware là tiểu bang đầu tiên phê chuẩn (thông qua) Hiến pháp Hoa Kỳ."
+  },
+  "delegate": {
+    "translation": "đại biểu",
+    "civicsNote": "Các đại biểu từ các tiểu bang đã tham dự Hội nghị Lập hiến năm 1787 để soạn ra Hiến pháp."
+  },
+  "deliver": {
+    "translation": "giao"
+  },
+  "democracy": {
+    "translation": "dân chủ"
+  },
+  "department": {
+    "translation": "bộ (cơ quan chính phủ)",
+    "civicsNote": "Nội các của Tổng thống bao gồm các bộ như Bộ Ngoại giao (Department of State) và Bộ Quốc phòng (Department of Defense)."
+  },
+  "depression": {
+    "translation": "khủng hoảng kinh tế",
+    "civicsNote": "Chỉ cuộc Đại Khủng hoảng (Great Depression), giai đoạn kinh tế rất khó khăn ở Hoa Kỳ trong những năm 1930."
+  },
+  "derive": {
+    "translation": "bắt nguồn từ",
+    "civicsNote": "Theo Tuyên ngôn Độc lập, các chính phủ có được quyền lực từ 'sự đồng thuận của người dân' (bắt nguồn từ đó)."
+  },
+  "describe": {
+    "translation": "miêu tả"
+  },
+  "development": {
+    "translation": "sự phát triển"
+  },
+  "do": {
+    "translation": "làm"
+  },
+  "die": {
+    "translation": "chết"
+  },
+  "different": {
+    "translation": "khác"
+  },
+  "diplomat": {
+    "translation": "nhà ngoại giao",
+    "civicsNote": "Một trong những điều Benjamin Franklin nổi tiếng là việc ông từng là một nhà ngoại giao Hoa Kỳ."
+  },
+  "directly": {
+    "translation": "trực tiếp",
+    "civicsNote": "Tu chính án thứ 17 quy định các Thượng nghị sĩ Hoa Kỳ được bầu trực tiếp bởi người dân, thay vì bởi các cơ quan lập pháp tiểu bang."
+  },
+  "director": {
+    "translation": "giám đốc"
+  },
+  "disagreement": {
+    "translation": "sự bất đồng",
+    "civicsNote": "Có thể chỉ những bất đồng giữa các tiểu bang hoặc những người lập quốc trong Hội nghị Lập hiến, chẳng hạn như đã được giải quyết bằng Thỏa hiệp Lớn (Great Compromise)."
+  },
+  "discrimination": {
+    "translation": "sự phân biệt đối xử",
+    "civicsNote": "Liên quan đến Phong trào Dân quyền (Civil Rights Movement), phong trào đấu tranh chấm dứt phân biệt chủng tộc ở Hoa Kỳ."
+  },
+  "disguise": {
+    "translation": "sự cải trang",
+    "civicsNote": "Có thể liên quan đến việc những người thuộc địa cải trang trong các sự kiện như Tiệc trà Boston (Boston Tea Party)."
+  },
+  "dispute": {
+    "translation": "tranh chấp",
+    "civicsNote": "Tòa án Tối cao và các tòa án liên bang khác giải quyết các tranh chấp pháp lý."
+  },
+  "district": {
+    "translation": "khu vực (địa hạt)",
+    "civicsNote": "Có thể chỉ Đặc khu Columbia (Washington, D.C.) hoặc khu vực bầu cử (congressional district) mà một thành viên Hạ viện đại diện."
+  },
+  "document": {
+    "translation": "văn kiện",
+    "civicsNote": "Chỉ các văn kiện lập quốc như Hiến pháp và Tuyên ngôn Độc lập."
+  },
+  "don't": {
+    "translation": "không (viết tắt của 'do not')"
+  },
+  "double": {
+    "translation": "gấp đôi",
+    "civicsNote": "Cuộc Mua bán Louisiana (Louisiana Purchase) đã làm diện tích của Hoa Kỳ tăng gấp đôi."
+  },
+  "draft": {
+    "translation": "lệnh động viên (quân dịch bắt buộc)",
+    "civicsNote": "Nam giới sống tại Hoa Kỳ phải đăng ký với Cơ quan Dịch vụ Tuyển quân (Selective Service) để phòng trường hợp có lệnh tổng động viên."
+  },
+  "drive": {
+    "translation": "lái xe"
+  },
+  "driver's": {
+    "translation": "của người lái xe",
+    "civicsNote": "Giấy phép lái xe (driver's license) là văn bản chính thức cho phép một người lái xe hợp pháp; do các tiểu bang cấp."
+  },
+  "during": {
+    "translation": "trong khi"
+  },
+  "duty": {
+    "translation": "nghĩa vụ",
+    "civicsNote": "Chỉ các nghĩa vụ công dân của người Mỹ, như đi bầu cử hoặc làm bồi thẩm đoàn."
+  },
+  "dwight": {
+    "translation": "Dwight",
+    "civicsNote": "Là tên của Tổng thống Dwight D. Eisenhower; ông từng là một vị tướng trong Thế chiến thứ hai."
+  },
+  "each": {
+    "translation": "mỗi"
+  },
+  "east": {
+    "translation": "phía đông"
+  },
+  "economic": {
+    "translation": "kinh tế",
+    "civicsNote": "Một trong những lý do người thuộc địa đến Mỹ là vì cơ hội kinh tế, chẳng hạn như có nhiều đất đai và việc làm hơn."
+  },
+  "economy": {
+    "translation": "nền kinh tế"
+  },
+  "edison": {
+    "translation": "Edison",
+    "civicsNote": "Thomas Edison đã phát minh ra bóng đèn điện; đây là một trong những câu trả lời có thể cho câu hỏi 'Hãy kể tên một nhà phát minh người Mỹ'."
+  },
+  "education": {
+    "translation": "giáo dục",
+    "civicsNote": "Bộ Giáo dục (Department of Education) là một trong các bộ cấp nội các của chính phủ Hoa Kỳ."
+  },
+  "eight": {
+    "translation": "tám (số 8)"
+  },
+  "eighteen": {
+    "translation": "mười tám",
+    "civicsNote": "18 tuổi là tuổi công dân Hoa Kỳ có thể đăng ký để đi bầu cử."
+  },
+  "eisenhower": {
+    "translation": "Eisenhower",
+    "civicsNote": "Dwight D. Eisenhower là Tổng thống thứ 34 của Hoa Kỳ và từng là một vị tướng trong Thế chiến thứ hai."
+  },
+  "elect": {
+    "translation": "bầu chọn"
+  },
+  "election": {
+    "translation": "cuộc bầu cử"
+  },
+  "electoral": {
+    "translation": "thuộc về bầu cử",
+    "civicsNote": "Chỉ Cử tri Đoàn (Electoral College), nhóm chính thức bầu ra Tổng thống Hoa Kỳ."
+  },
+  "elizabeth": {
+    "translation": "Elizabeth",
+    "civicsNote": "Có thể chỉ Elizabeth Cady Stanton, một trong những người lãnh đạo phong trào đấu tranh cho quyền bầu cử của phụ nữ."
+  },
+  "else": {
+    "translation": "khác"
+  },
+  "emancipation": {
+    "translation": "sự giải phóng",
+    "civicsNote": "Chỉ Tuyên bố Giải phóng Nô lệ (Emancipation Proclamation) do Tổng thống Lincoln ban hành năm 1863, giải phóng những người bị nô lệ ở các tiểu bang thuộc Liên minh miền Nam."
+  },
+  "empire": {
+    "translation": "đế quốc",
+    "civicsNote": "13 thuộc địa Mỹ ban đầu là một phần của Đế quốc Anh (British Empire)."
+  },
+  "encampment": {
+    "translation": "doanh trại",
+    "civicsNote": "Chỉ Valley Forge, nơi quân đội của George Washington đã trải qua mùa đông năm 1777-1778."
+  },
+  "end": {
+    "translation": "kết thúc"
+  },
+  "energy": {
+    "translation": "năng lượng",
+    "civicsNote": "Bộ Năng lượng (Department of Energy) là một trong các bộ cấp nội các của chính phủ Hoa Kỳ."
+  },
+  "engine": {
+    "translation": "động cơ"
+  },
+  "england": {
+    "translation": "nước Anh",
+    "civicsNote": "Các thuộc địa Mỹ do nước Anh (Vương quốc Anh) cai trị trước khi tuyên bố độc lập."
+  },
+  "ensure": {
+    "translation": "đảm bảo",
+    "civicsNote": "Từ Lời mở đầu (Preamble) của Hiến pháp: một trong những mục đích tồn tại của chính phủ là 'đảm bảo sự yên bình trong nước' (ensure domestic tranquility)."
+  },
+  "enter": {
+    "translation": "tham gia (vào)",
+    "civicsNote": "Thường dùng để nói về việc Hoa Kỳ tham gia vào một cuộc chiến tranh, ví dụ 'Hoa Kỳ tham gia Thế chiến thứ nhất/thứ hai'."
+  },
+  "environmental": {
+    "translation": "(thuộc) môi trường",
+    "civicsNote": "Xuất hiện trong các câu hỏi thi như 'Hãy kể tên một vấn đề môi trường ở Hoa Kỳ'; ví dụ gồm ô nhiễm không khí, ô nhiễm nước và hiện tượng nóng lên toàn cầu."
+  },
+  "equal": {
+    "translation": "bình đẳng",
+    "civicsNote": "Đề cập đến nguyên tắc mọi người đều có quyền bình đẳng trước pháp luật."
+  },
+  "equality": {
+    "translation": "sự bình đẳng"
+  },
+  "escape": {
+    "translation": "trốn thoát",
+    "civicsNote": "Xuất hiện trong bối cảnh Đường sắt Ngầm (Underground Railroad), qua đó những người bị nô lệ trốn thoát để tìm tự do."
+  },
+  "essay": {
+    "translation": "bài luận",
+    "civicsNote": "The Federalist Papers là một tập hợp các bài luận được viết để ủng hộ việc phê chuẩn Hiến pháp."
+  },
+  "establish": {
+    "translation": "thiết lập",
+    "civicsNote": "Là từ xuất hiện trong cụm 'establish Justice' (thiết lập công lý) ở Lời mở đầu (Preamble) của Hiến pháp."
+  },
+  "european": {
+    "translation": "người châu Âu"
+  },
+  "even": {
+    "translation": "thậm chí"
+  },
+  "event": {
+    "translation": "sự kiện"
+  },
+  "every": {
+    "translation": "mọi"
+  },
+  "everyday": {
+    "translation": "hàng ngày"
+  },
+  "everyone": {
+    "translation": "mọi người"
+  },
+  "exactly": {
+    "translation": "chính xác"
+  },
+  "example": {
+    "translation": "ví dụ"
+  },
+  "executive": {
+    "translation": "hành pháp",
+    "civicsNote": "Là một trong ba nhánh của chính phủ Hoa Kỳ (Tổng thống và nhánh hành pháp)."
+  },
+  "explain": {
+    "translation": "giải thích"
+  },
+  "expression": {
+    "translation": "sự biểu đạt",
+    "civicsNote": "'Freedom of expression' (tự do biểu đạt/ngôn luận) là một quyền được bảo vệ trong Tu chính án thứ nhất của Hiến pháp."
+  },
+  "fair": {
+    "translation": "công bằng"
+  },
+  "fake": {
+    "translation": "giả"
+  },
+  "fallen": {
+    "translation": "đã hy sinh",
+    "civicsNote": "Thường dùng khi nói về những người lính đã hy sinh trong chiến tranh ('fallen soldiers'), ví dụ trong bối cảnh Ngày Tưởng niệm (Memorial Day)."
+  },
+  "famous": {
+    "translation": "nổi tiếng"
+  },
+  "father": {
+    "translation": "người cha",
+    "civicsNote": "'Founding Father' (Cha lập quốc) nghĩa là một trong những nhà lãnh đạo đã góp phần thành lập Hoa Kỳ."
+  },
+  "fdr": {
+    "translation": "FDR",
+    "civicsNote": "Franklin D. Roosevelt là Tổng thống Hoa Kỳ trong thời gian Thế chiến thứ hai."
+  },
+  "federal": {
+    "translation": "liên bang",
+    "civicsNote": "Chỉ chính phủ quốc gia/trung ương của Hoa Kỳ, khác với các chính phủ tiểu bang."
+  },
+  "federal-aid": {
+    "translation": "viện trợ liên bang",
+    "civicsNote": "'Federal-Aid Highway Act' là luật năm 1956 tài trợ cho hệ thống xa lộ liên tiểu bang ở Hoa Kỳ (gắn liền với Eisenhower)."
+  },
+  "federalist": {
+    "translation": "người theo chủ nghĩa liên bang",
+    "civicsNote": "'The Federalist Papers' là các bài luận do Hamilton, Madison và Jay viết để bảo vệ việc phê chuẩn Hiến pháp."
+  },
+  "field": {
+    "translation": "cánh đồng"
+  },
+  "fight": {
+    "translation": "chiến đấu"
+  },
+  "fire": {
+    "translation": "lửa"
+  },
+  "first": {
+    "translation": "thứ nhất"
+  },
+  "five": {
+    "translation": "năm (số 5)"
+  },
+  "fix": {
+    "translation": "sửa chữa"
+  },
+  "flag": {
+    "translation": "lá cờ",
+    "civicsNote": "50 ngôi sao trên lá cờ Hoa Kỳ đại diện cho 50 tiểu bang, còn 13 sọc đại diện cho 13 thuộc địa đầu tiên."
+  },
+  "fly": {
+    "translation": "bay"
+  },
+  "follow": {
+    "translation": "tuân theo"
+  },
+  "for": {
+    "translation": "cho; vì"
+  },
+  "force": {
+    "translation": "lực lượng",
+    "civicsNote": "'Armed forces' (các lực lượng vũ trang) là quân đội Hoa Kỳ mà công dân có thể tham gia."
+  },
+  "foreign": {
+    "translation": "nước ngoài",
+    "civicsNote": "'Foreign policy' (chính sách đối ngoại) là cách một quốc gia quản lý quan hệ với các quốc gia khác."
+  },
+  "forge": {
+    "translation": "lò rèn",
+    "civicsNote": "'Valley Forge' là doanh trại mà quân đội của Tướng Washington đã trải qua mùa đông năm 1777-1778."
+  },
+  "form": {
+    "translation": "hình thức"
+  },
+  "fort": {
+    "translation": "pháo đài",
+    "civicsNote": "'Fort McHenry' là pháo đài đã truyền cảm hứng cho Francis Scott Key viết quốc ca 'The Star-Spangled Banner'."
+  },
+  "fought": {
+    "translation": "đã chiến đấu",
+    "civicsNote": "Dùng khi kể về các cuộc chiến tranh mà Hoa Kỳ đã tham gia (ví dụ: Thế chiến thứ nhất và thứ hai)."
+  },
+  "found": {
+    "translation": "thành lập",
+    "civicsNote": "'Founding Fathers' (Các Cha lập quốc) chỉ những nhà lãnh đạo đã thành lập nên Hoa Kỳ."
+  },
+  "four": {
+    "translation": "bốn (số 4)"
+  },
+  "fourth": {
+    "translation": "thứ tư",
+    "civicsNote": "'The Fourth of July' là Ngày Độc lập của Hoa Kỳ (4 tháng 7)."
+  },
+  "france": {
+    "translation": "nước Pháp",
+    "civicsNote": "Pháp đã trở thành đồng minh của Hoa Kỳ trong và sau Chiến tranh Cách mạng Mỹ (giành độc lập)."
+  },
+  "franklin": {
+    "translation": "Franklin",
+    "civicsNote": "Benjamin Franklin là nhà ngoại giao, nhà phát minh và một trong các Cha lập quốc."
+  },
+  "free": {
+    "translation": "tự do",
+    "civicsNote": "'Freed' thường xuất hiện trong bối cảnh Abraham Lincoln giải phóng những người bị nô lệ."
+  },
+  "freedom": {
+    "translation": "tự do",
+    "civicsNote": "Tu chính án thứ nhất của Hiến pháp bảo vệ các quyền tự do ngôn luận, tự do tôn giáo, tự do báo chí, tự do hội họp và tự do kiến nghị."
+  },
+  "freely": {
+    "translation": "một cách tự do"
+  },
+  "from": {
+    "translation": "từ"
+  },
+  "fund": {
+    "translation": "quỹ"
+  },
+  "fundamental": {
+    "translation": "cơ bản",
+    "civicsNote": "Đề cập đến các quyền cơ bản (fundamental rights) được Hiến pháp bảo vệ."
+  },
+  "game": {
+    "translation": "trò chơi"
+  },
+  "give": {
+    "translation": "cho; trao"
+  },
+  "gender": {
+    "translation": "giới tính",
+    "civicsNote": "Xuất hiện trong bối cảnh quyền bầu cử được trao cho mọi công dân bất kể giới tính (Tu chính án thứ 19)."
+  },
+  "general": {
+    "translation": "chung; tướng (quân sự)",
+    "civicsNote": "Có thể xuất hiện trong các bối cảnh như 'General Washington' (Tướng Washington) hoặc 'Attorney General' (Bộ trưởng Tư pháp)."
+  },
+  "george": {
+    "translation": "George",
+    "civicsNote": "George Washington là Tổng thống đầu tiên của Hoa Kỳ."
+  },
+  "georgia": {
+    "translation": "Georgia"
+  },
+  "germany": {
+    "translation": "nước Đức",
+    "civicsNote": "Là một trong những quốc gia mà Hoa Kỳ đã giao tranh trong Thế chiến thứ hai."
+  },
+  "get": {
+    "translation": "nhận được"
+  },
+  "gettysburg": {
+    "translation": "Gettysburg",
+    "civicsNote": "'Gettysburg Address' là bài phát biểu nổi tiếng của Abraham Lincoln, trong đó ông định nghĩa chính phủ là 'của dân, do dân, và vì dân'."
+  },
+  "global": {
+    "translation": "toàn cầu",
+    "civicsNote": "'Global warming' (hiện tượng nóng lên toàn cầu) được đưa ra như một ví dụ về vấn đề môi trường trong bài thi."
+  },
+  "go": {
+    "translation": "đi"
+  },
+  "govern": {
+    "translation": "cai trị"
+  },
+  "government": {
+    "translation": "chính phủ"
+  },
+  "governor": {
+    "translation": "thống đốc"
+  },
+  "great": {
+    "translation": "vĩ đại",
+    "civicsNote": "Xuất hiện trong các thuật ngữ lịch sử/địa lý như 'Great Depression' (Đại Khủng hoảng) và 'Great Lakes' (Ngũ Đại Hồ)."
+  },
+  "group": {
+    "translation": "nhóm",
+    "civicsNote": "'Interest group' (nhóm lợi ích/nhóm vận động) là nhóm những người có cùng quan điểm tập hợp lại để tác động đến chính phủ."
+  },
+  "gulf": {
+    "translation": "vịnh",
+    "civicsNote": "'Gulf of Mexico' (Vịnh Mexico) là một trong những vùng nước lớn nằm ở biên giới Hoa Kỳ."
+  },
+  "have": {
+    "translation": "có"
+  },
+  "half": {
+    "translation": "một nửa"
+  },
+  "hamilton": {
+    "translation": "Hamilton",
+    "civicsNote": "Alexander Hamilton là một trong những tác giả của The Federalist Papers và là Bộ trưởng Tài chính đầu tiên của Hoa Kỳ."
+  },
+  "hampshire": {
+    "translation": "Hampshire"
+  },
+  "happen": {
+    "translation": "xảy ra"
+  },
+  "happiness": {
+    "translation": "hạnh phúc",
+    "civicsNote": "Là từ xuất hiện trong cụm 'life, liberty, and the pursuit of happiness' (quyền sống, quyền tự do, và quyền theo đuổi hạnh phúc) trong Tuyên ngôn Độc lập."
+  },
+  "harbor": {
+    "translation": "cảng",
+    "civicsNote": "'Pearl Harbor' là cảng mà Nhật Bản tấn công năm 1941, khiến Hoa Kỳ tham gia Thế chiến thứ hai."
+  },
+  "hard": {
+    "translation": "khó"
+  },
+  "harriet": {
+    "translation": "Harriet",
+    "civicsNote": "Harriet Tubman đã giúp những người bị nô lệ trốn thoát thông qua Đường sắt Ngầm (Underground Railroad)."
+  },
+  "he": {
+    "translation": "anh ấy"
+  },
+  "health": {
+    "translation": "sức khỏe"
+  },
+  "help": {
+    "translation": "giúp đỡ"
+  },
+  "her": {
+    "translation": "của cô ấy"
+  },
+  "here": {
+    "translation": "ở đây"
+  },
+  "high": {
+    "translation": "cao"
+  },
+  "highway": {
+    "translation": "xa lộ",
+    "civicsNote": "Liên quan đến 'Interstate Highway System' (hệ thống xa lộ liên tiểu bang) được thành lập dưới thời Tổng thống Eisenhower."
+  },
+  "hill": {
+    "translation": "đồi"
+  },
+  "him": {
+    "translation": "anh ấy (tân ngữ)"
+  },
+  "his": {
+    "translation": "của anh ấy"
+  },
+  "history": {
+    "translation": "lịch sử"
+  },
+  "hold": {
+    "translation": "giữ",
+    "civicsNote": "Có thể được dùng để nói một người 'nắm giữ' (holds office) một chức vụ trong chính phủ."
+  },
+  "holiday": {
+    "translation": "ngày lễ",
+    "civicsNote": "Bài thi yêu cầu bạn có thể kể tên các ngày lễ quốc gia của Hoa Kỳ như Ngày Độc lập, Lễ Tạ ơn, Ngày Quốc tế Lao động."
+  },
+  "homeland": {
+    "translation": "quê hương",
+    "civicsNote": "Là một phần trong tên của cơ quan chính phủ Hoa Kỳ 'Department of Homeland Security' (Bộ An ninh Nội địa)."
+  },
+  "honor": {
+    "translation": "vinh danh",
+    "civicsNote": "Nhiều ngày lễ ở Hoa Kỳ 'vinh danh' những người hoặc sự kiện cụ thể (ví dụ: Ngày Tưởng niệm vinh danh binh sĩ đã hy sinh, Ngày Cựu chiến binh vinh danh các cựu binh)."
+  },
+  "hopi": {
+    "translation": "Hopi",
+    "civicsNote": "Là một trong những câu trả lời được chấp nhận cho câu hỏi 'Hãy kể tên một bộ lạc người Mỹ bản địa (Da đỏ) ở Hoa Kỳ'."
+  },
+  "house": {
+    "translation": "nhà; viện (Quốc hội)",
+    "civicsNote": "'The House' chỉ Hạ viện (House of Representatives), một trong hai viện của Quốc hội; 'the White House' chỉ Nhà Trắng, nơi Tổng thống sống và làm việc."
+  },
+  "housing": {
+    "translation": "nhà ở",
+    "civicsNote": "'Department of Housing and Urban Development' (Bộ Nhà ở và Phát triển Đô thị) là một bộ cấp nội các của Hoa Kỳ."
+  },
+  "how": {
+    "translation": "làm thế nào"
+  },
+  "hudson": {
+    "translation": "Hudson",
+    "civicsNote": "Bắt nguồn từ tên nhà thám hiểm Henry Hudson; là một con sông quan trọng ở tiểu bang New York."
+  },
+  "human": {
+    "translation": "con người"
+  },
+  "hundred": {
+    "translation": "trăm (số 100)"
+  },
+  "huron": {
+    "translation": "Huron",
+    "civicsNote": "Là một trong năm Đại Hồ (Great Lakes) ở khu vực Ngũ Đại Hồ của Bắc Mỹ; đồng thời cũng là tên của một bộ lạc người bản địa."
+  },
+  "i": {
+    "translation": "I (số La Mã)",
+    "civicsNote": "Trong ứng dụng này xuất hiện như một phần của cụm 'World War I' (Thế chiến thứ nhất)."
+  },
+  "ic": {
+    "translation": "IC (Vi mạch tích hợp)",
+    "civicsNote": "Là viết tắt của 'Integrated Circuit (IC)' (Vi mạch tích hợp), xuất hiện trong danh sách các phát minh của Mỹ trong ứng dụng."
+  },
+  "idea": {
+    "translation": "ý tưởng"
+  },
+  "identify": {
+    "translation": "xác định"
+  },
+  "if": {
+    "translation": "nếu"
+  },
+  "ii": {
+    "translation": "II (số La Mã)",
+    "civicsNote": "Trong ứng dụng này xuất hiện như một phần của cụm 'World War II' (Thế chiến thứ hai)."
+  },
+  "ike": {
+    "translation": "Ike",
+    "civicsNote": "Eisenhower ('Ike') đã chỉ huy các lực lượng Mỹ trong Thế chiến thứ hai, sau đó trở thành Tổng thống thứ 34 và khởi xướng hệ thống xa lộ liên tiểu bang."
+  },
+  "important": {
+    "translation": "quan trọng"
+  },
+  "in": {
+    "translation": "trong"
+  },
+  "include": {
+    "translation": "bao gồm"
+  },
+  "independence": {
+    "translation": "độc lập",
+    "civicsNote": "Liên quan đến Tuyên ngôn Độc lập (Declaration of Independence), văn bản tuyên bố độc lập khỏi nước Anh, và Ngày Độc lập 4 tháng 7 (Independence Day)."
+  },
+  "independent": {
+    "translation": "độc lập"
+  },
+  "indian": {
+    "translation": "người da đỏ (thổ dân Mỹ)",
+    "civicsNote": "Trong bài thi, 'American Indian' chỉ những người bản địa của châu Mỹ; đề thi có câu hỏi yêu cầu nêu tên một bộ lạc người da đỏ (Native American)."
+  },
+  "individual": {
+    "translation": "cá nhân"
+  },
+  "influence": {
+    "translation": "ảnh hưởng"
+  },
+  "inherent": {
+    "translation": "vốn có, bẩm sinh",
+    "civicsNote": "Theo Tuyên ngôn Độc lập, con người có những quyền 'vốn có' (inherent) mà không ai trao cho và không ai có thể lấy đi."
+  },
+  "innovation": {
+    "translation": "sự đổi mới, cải tiến",
+    "civicsNote": "Đề cập đến những phát minh/đổi mới nổi tiếng của Mỹ được nêu trong bài thi, ví dụ như mạch tích hợp (integrated circuit)."
+  },
+  "integrated": {
+    "translation": "được tích hợp",
+    "civicsNote": "Là một phần của cụm từ 'Integrated Circuit (IC)' (Mạch tích hợp), một phát minh của Mỹ được nêu trong bài thi."
+  },
+  "intelligence": {
+    "translation": "trí tuệ, trí thông minh",
+    "civicsNote": "Có thể liên quan đến cụm từ 'Artificial Intelligence' (Trí tuệ nhân tạo), một trong những phát minh hiện đại của Mỹ được nêu trong bài thi."
+  },
+  "interior": {
+    "translation": "phần bên trong, nội địa",
+    "civicsNote": "'Secretary of the Interior' (Bộ trưởng Nội vụ) là một chức vụ trong nội các Hoa Kỳ, chịu trách nhiệm về đất công và tài nguyên thiên nhiên."
+  },
+  "internal": {
+    "translation": "nội bộ, bên trong"
+  },
+  "interstate": {
+    "translation": "liên tiểu bang, giữa các bang",
+    "civicsNote": "Liên quan đến 'Interstate Highway System' (Hệ thống Xa lộ Liên tiểu bang) được khởi động dưới thời Tổng thống Eisenhower."
+  },
+  "into": {
+    "translation": "vào (bên trong)"
+  },
+  "intolerable": {
+    "translation": "không thể chấp nhận được",
+    "civicsNote": "'Intolerable Acts' (Các Đạo luật Không thể Chấp nhận) là những đạo luật hà khắc của Anh dẫn đến Cách mạng Mỹ."
+  },
+  "inupiat": {
+    "translation": "người Inupiat",
+    "civicsNote": "Là một trong những câu trả lời được chấp nhận cho câu hỏi 'Hãy nêu tên một bộ lạc người da đỏ Mỹ' (bao gồm cả người bản địa Alaska)."
+  },
+  "invent": {
+    "translation": "phát minh"
+  },
+  "inventor": {
+    "translation": "nhà phát minh",
+    "civicsNote": "Xuất hiện trong các phần của bài thi nói về những nhà phát minh Mỹ nổi tiếng (ví dụ: Thomas Edison hoặc anh em nhà Wright)."
+  },
+  "involve": {
+    "translation": "liên quan đến, bao gồm"
+  },
+  "iraq": {
+    "translation": "Iraq",
+    "civicsNote": "Năm 1990, Iraq xâm lược Kuwait, dẫn đến Chiến tranh Vùng Vịnh mà Hoa Kỳ đã tham gia."
+  },
+  "iraqi": {
+    "translation": "người/thuộc Iraq"
+  },
+  "iroquois": {
+    "translation": "người Iroquois",
+    "civicsNote": "Là một trong những câu trả lời được chấp nhận cho câu hỏi 'Hãy nêu tên một bộ lạc người da đỏ Mỹ'."
+  },
+  "is": {
+    "translation": "là"
+  },
+  "island": {
+    "translation": "đảo",
+    "civicsNote": "Có thể liên quan đến Đảo Ellis (Ellis Island), nơi người nhập cư vào Mỹ, hoặc Rhode Island, một trong 13 thuộc địa đầu tiên."
+  },
+  "issue": {
+    "translation": "vấn đề"
+  },
+  "it": {
+    "translation": "nó"
+  },
+  "it's": {
+    "translation": "nó là (viết tắt của 'it is')"
+  },
+  "italy": {
+    "translation": "Ý",
+    "civicsNote": "Trong Thế chiến II, Ý là một trong các nước phe Trục cùng với Đức và Nhật Bản chống lại Hoa Kỳ."
+  },
+  "its": {
+    "translation": "của nó"
+  },
+  "james": {
+    "translation": "James",
+    "civicsNote": "Nhiều nhân vật quan trọng trong lịch sử Hoa Kỳ mang tên James, ví dụ các Tổng thống James Madison và James Monroe."
+  },
+  "japan": {
+    "translation": "Nhật Bản",
+    "civicsNote": "Trong Thế chiến II, là một nước đã chống lại Hoa Kỳ, bao gồm cuộc tấn công Pearl Harbor."
+  },
+  "japanese": {
+    "translation": "người/tiếng Nhật"
+  },
+  "jay": {
+    "translation": "Jay",
+    "civicsNote": "John Jay là một trong các Quốc phụ (Founding Fathers) đã viết Các bài luận Federalist (Federalist Papers) và trở thành Chánh án đầu tiên của Tòa án Tối cao Hoa Kỳ."
+  },
+  "jefferson": {
+    "translation": "Jefferson",
+    "civicsNote": "Thomas Jefferson đã viết Tuyên ngôn Độc lập và trở thành Tổng thống thứ ba của Hoa Kỳ."
+  },
+  "jersey": {
+    "translation": "Jersey",
+    "civicsNote": "New Jersey là một trong 13 thuộc địa/tiểu bang đầu tiên."
+  },
+  "job": {
+    "translation": "công việc",
+    "civicsNote": "Tìm việc làm là một trong những câu trả lời phổ biến cho câu hỏi 'Vì sao mọi người đến Mỹ?'."
+  },
+  "john": {
+    "translation": "John",
+    "civicsNote": "John Adams là một Quốc phụ (Founding Father) và là Tổng thống thứ hai của Hoa Kỳ."
+  },
+  "join": {
+    "translation": "gia nhập, tham gia"
+  },
+  "jr": {
+    "translation": "Jr. (viết tắt của \"Junior\")",
+    "civicsNote": "Được dùng trong tên 'Martin Luther King, Jr.', một nhà lãnh đạo dân quyền nổi tiếng."
+  },
+  "judge": {
+    "translation": "thẩm phán",
+    "civicsNote": "Các thẩm phán liên bang, bao gồm các thành viên Tòa án Tối cao (Justices), được bổ nhiệm suốt đời và là một phần của nhánh tư pháp."
+  },
+  "judicial": {
+    "translation": "thuộc tư pháp",
+    "civicsNote": "'Judicial branch' (nhánh tư pháp) là một trong ba nhánh của chính phủ Hoa Kỳ; bao gồm Tòa án Tối cao và có nhiệm vụ giải thích luật pháp."
+  },
+  "july": {
+    "translation": "tháng Bảy",
+    "civicsNote": "Ngày 4 tháng 7 là Ngày Độc lập (Independence Day), ngày Hoa Kỳ tuyên bố độc lập khỏi nước Anh."
+  },
+  "juneteenth": {
+    "translation": "Juneteenth",
+    "civicsNote": "Là một ngày lễ chính thức kỷ niệm ngày những người bị nô lệ ở Texas biết tin mình đã được tự do vào năm 1865."
+  },
+  "jurisdiction": {
+    "translation": "quyền tài phán",
+    "civicsNote": "Chỉ quyền hạn pháp lý của Tòa án Tối cao đối với một số loại vụ án nhất định."
+  },
+  "jury": {
+    "translation": "bồi thẩm đoàn",
+    "civicsNote": "Nghĩa vụ bồi thẩm đoàn (jury duty) chỉ dành cho công dân Hoa Kỳ, và quyền được xét xử bởi bồi thẩm đoàn được Hiến pháp bảo vệ."
+  },
+  "just": {
+    "translation": "công bằng; chỉ"
+  },
+  "justice": {
+    "translation": "công lý; thẩm phán Tòa án Tối cao",
+    "civicsNote": "'Justices' chỉ chín thành viên của Tòa án Tối cao Hoa Kỳ."
+  },
+  "keep": {
+    "translation": "giữ",
+    "civicsNote": "Xuất hiện trong cụm từ 'keep and bear arms' (giữ và mang vũ khí) của Tu chính án thứ Hai."
+  },
+  "key": {
+    "translation": "chìa khóa",
+    "civicsNote": "Francis Scott Key đã viết lời quốc ca Hoa Kỳ 'The Star-Spangled Banner'."
+  },
+  "king": {
+    "translation": "vua",
+    "civicsNote": "Có thể chỉ Vua George III của Anh trong thời kỳ Cách mạng Mỹ, hoặc nhà lãnh đạo dân quyền Martin Luther King, Jr."
+  },
+  "kite": {
+    "translation": "con diều",
+    "civicsNote": "Benjamin Franklin nổi tiếng với việc thả diều trong một trận bão để nghiên cứu về điện."
+  },
+  "known": {
+    "translation": "được biết đến"
+  },
+  "korea": {
+    "translation": "Triều Tiên"
+  },
+  "korean": {
+    "translation": "thuộc Triều Tiên",
+    "civicsNote": "'Korean War' (Chiến tranh Triều Tiên) là một cuộc xung đột quân sự mà Hoa Kỳ đã tham chiến vào những năm 1900."
+  },
+  "kuwait": {
+    "translation": "Kuwait",
+    "civicsNote": "Năm 1990, Iraq xâm lược Kuwait, khiến Hoa Kỳ tham gia Chiến tranh Vùng Vịnh."
+  },
+  "labor": {
+    "translation": "lao động",
+    "civicsNote": "Liên quan đến 'Department of Labor' (Bộ Lao động) và 'Labor Day' (Ngày Lao động, một ngày lễ chính thức tôn vinh người lao động)."
+  },
+  "lady": {
+    "translation": "quý bà, phụ nữ",
+    "civicsNote": "Tượng Nữ thần Tự do thường được gọi là 'Lady Liberty'."
+  },
+  "lakota": {
+    "translation": "người Lakota",
+    "civicsNote": "Là một trong những câu trả lời được chấp nhận cho câu hỏi 'Hãy nêu tên một bộ lạc người da đỏ Mỹ'."
+  },
+  "land": {
+    "translation": "đất, vùng đất"
+  },
+  "landing": {
+    "translation": "sự đổ bộ, sự hạ cánh",
+    "civicsNote": "Có thể liên quan đến các sự kiện lịch sử như việc những người Pilgrim đổ bộ lên Plymouth hoặc cuộc đổ bộ lên Mặt Trăng năm 1969."
+  },
+  "later": {
+    "translation": "sau đó"
+  },
+  "latin": {
+    "translation": "tiếng Latin",
+    "civicsNote": "Phương châm quốc gia của Hoa Kỳ 'E Pluribus Unum' là một cụm từ tiếng Latin, có nghĩa là 'Từ nhiều thành một'."
+  },
+  "law": {
+    "translation": "luật, pháp luật",
+    "civicsNote": "Quốc hội làm ra luật; nguyên tắc 'rule of law' (pháp quyền) có nghĩa là mọi người, kể cả các nhà lãnh đạo, đều phải tuân theo luật pháp — đây là một trong những nguyên tắc cơ bản của nền dân chủ Mỹ."
+  },
+  "leader": {
+    "translation": "người lãnh đạo"
+  },
+  "lead": {
+    "translation": "dẫn dắt, lãnh đạo"
+  },
+  "leftover": {
+    "translation": "còn lại, dư ra"
+  },
+  "legislative": {
+    "translation": "thuộc lập pháp",
+    "civicsNote": "Nhánh lập pháp (legislative) là nhánh chính phủ tạo nên Quốc hội và làm ra luật."
+  },
+  "legislature": {
+    "translation": "cơ quan lập pháp",
+    "civicsNote": "Ở Hoa Kỳ, cơ quan lập pháp quốc gia là Quốc hội (gồm Thượng viện và Hạ viện)."
+  },
+  "let": {
+    "translation": "cho phép"
+  },
+  "liberty": {
+    "translation": "tự do",
+    "civicsNote": "Là một trong những giá trị cốt lõi trong cụm từ 'quyền sống, tự do và mưu cầu hạnh phúc' của Tuyên ngôn Độc lập; Tượng Nữ thần Tự do cũng tượng trưng cho khái niệm này."
+  },
+  "library": {
+    "translation": "thư viện"
+  },
+  "license": {
+    "translation": "giấy phép",
+    "civicsNote": "Việc cấp giấy phép lái xe (driver's license) là một quyền chỉ thuộc về chính quyền tiểu bang."
+  },
+  "life": {
+    "translation": "sự sống, cuộc sống",
+    "civicsNote": "Xuất hiện trong cụm từ 'quyền sống, tự do và mưu cầu hạnh phúc' của Tuyên ngôn Độc lập."
+  },
+  "lifetime": {
+    "translation": "suốt đời, cả đời",
+    "civicsNote": "Các thẩm phán liên bang và thành viên Tòa án Tối cao giữ chức vụ suốt đời (life terms)."
+  },
+  "light": {
+    "translation": "ánh sáng"
+  },
+  "like": {
+    "translation": "như, giống như"
+  },
+  "limit": {
+    "translation": "hạn chế, giới hạn",
+    "civicsNote": "Theo Hiến pháp, một Tổng thống chỉ có thể phục vụ tối đa hai nhiệm kỳ (term limit)."
+  },
+  "lincoln": {
+    "translation": "Lincoln",
+    "civicsNote": "Abraham Lincoln đã giải phóng nô lệ, lãnh đạo đất nước trong Nội chiến; tên ông được lưu giữ ở Đài tưởng niệm Lincoln (Lincoln Memorial) và trên tờ tiền 1 xu."
+  },
+  "line": {
+    "translation": "hàng, thứ tự",
+    "civicsNote": "'Line of succession' (thứ tự kế vị) là trình tự chính thức xác định ai sẽ thay thế nếu Tổng thống không thể tiếp tục nhiệm vụ."
+  },
+  "list": {
+    "translation": "danh sách"
+  },
+  "listen": {
+    "translation": "lắng nghe"
+  },
+  "live": {
+    "translation": "sống"
+  },
+  "local": {
+    "translation": "địa phương",
+    "civicsNote": "Hoa Kỳ có ba cấp chính quyền: liên bang, tiểu bang, và địa phương (local)."
+  },
+  "long": {
+    "translation": "dài"
+  },
+  "look": {
+    "translation": "nhìn"
+  },
+  "lot": {
+    "translation": "nhiều"
+  },
+  "louisiana": {
+    "translation": "Louisiana",
+    "civicsNote": "Louisiana Purchase (Vụ mua Louisiana, 1803) là một vùng đất rộng lớn mà Hoa Kỳ mua từ Pháp, gần như nhân đôi diện tích lãnh thổ đất nước."
+  },
+  "love": {
+    "translation": "yêu, tình yêu"
+  },
+  "loyal": {
+    "translation": "trung thành",
+    "civicsNote": "Pledge of Allegiance (Lời tuyên thệ trung thành) là một văn bản thể hiện sự trung thành với Hoa Kỳ."
+  },
+  "loyalty": {
+    "translation": "sự trung thành",
+    "civicsNote": "Công dân mới tuyên thệ trung thành với Hoa Kỳ trong Lời tuyên thệ nhập tịch (Oath of Allegiance)."
+  },
+  "lucretia": {
+    "translation": "Lucretia",
+    "civicsNote": "Lucretia Mott là một câu trả lời được chấp nhận trong bài thi, được coi là một trong những nhà lãnh đạo của phong trào đấu tranh cho quyền bầu cử của phụ nữ (women's suffrage)."
+  },
+  "lucy": {
+    "translation": "Lucy",
+    "civicsNote": "Lucy Stone là một câu trả lời được chấp nhận trong bài thi, được coi là một trong những nhà lãnh đạo của phong trào đấu tranh cho quyền bầu cử của phụ nữ."
+  },
+  "luther": {
+    "translation": "Luther",
+    "civicsNote": "Là một phần trong tên của nhà lãnh đạo phong trào dân quyền Martin Luther King, Jr."
+  },
+  "made": {
+    "translation": "đã làm, đã tạo ra"
+  },
+  "madison": {
+    "translation": "Madison",
+    "civicsNote": "James Madison đã giúp soạn Hiến pháp, là một trong những tác giả của Các bài luận Federalist, và là Tổng thống thứ 4 của Hoa Kỳ."
+  },
+  "main": {
+    "translation": "chính, chủ yếu"
+  },
+  "major": {
+    "translation": "quan trọng, lớn"
+  },
+  "make": {
+    "translation": "làm, tạo ra",
+    "civicsNote": "Quốc hội làm ra luật pháp của Hoa Kỳ (makes laws)."
+  },
+  "male": {
+    "translation": "nam giới, giống đực"
+  },
+  "manage": {
+    "translation": "quản lý"
+  },
+  "management": {
+    "translation": "sự quản lý"
+  },
+  "many": {
+    "translation": "nhiều"
+  },
+  "march": {
+    "translation": "cuộc tuần hành, diễu hành",
+    "civicsNote": "Các nhà lãnh đạo dân quyền như Martin Luther King, Jr. đã tổ chức những cuộc tuần hành lớn như Cuộc tuần hành tại Washington (March on Washington)."
+  },
+  "market": {
+    "translation": "thị trường",
+    "civicsNote": "Hệ thống kinh tế của Hoa Kỳ được gọi là 'nền kinh tế thị trường' (market economy)."
+  },
+  "martin": {
+    "translation": "Martin",
+    "civicsNote": "Là tên riêng của nhà lãnh đạo phong trào dân quyền Martin Luther King, Jr."
+  },
+  "maryland": {
+    "translation": "Maryland",
+    "civicsNote": "Là một trong 13 thuộc địa đầu tiên; Pháo đài McHenry (Fort McHenry) ở Maryland đã truyền cảm hứng cho quốc ca Hoa Kỳ."
+  },
+  "massachusetts": {
+    "translation": "Massachusetts",
+    "civicsNote": "Là một trong 13 thuộc địa đầu tiên; Tiệc trà Boston (Boston Tea Party) và Vụ thảm sát Boston (Boston Massacre) đã xảy ra ở đây."
+  },
+  "massacre": {
+    "translation": "cuộc thảm sát",
+    "civicsNote": "Vụ thảm sát Boston (1770) là sự kiện binh sĩ Anh giết chết những người thực dân trước Cách mạng Mỹ."
+  },
+  "match": {
+    "translation": "khớp với, tương xứng"
+  },
+  "matter": {
+    "translation": "quan trọng, có ý nghĩa"
+  },
+  "may": {
+    "translation": "có thể"
+  },
+  "mayflower": {
+    "translation": "Mayflower",
+    "civicsNote": "Những người Pilgrim đến trên tàu Mayflower đã ký Hiệp ước Mayflower (Mayflower Compact) năm 1620, một ví dụ sớm về việc tự quản."
+  },
+  "mean": {
+    "translation": "có nghĩa là"
+  },
+  "meet": {
+    "translation": "gặp gỡ, họp mặt"
+  },
+  "member": {
+    "translation": "thành viên",
+    "civicsNote": "Các thành viên Quốc hội (members of Congress) là các Thượng nghị sĩ và Hạ nghị sĩ được bầu."
+  },
+  "memorial": {
+    "translation": "đài tưởng niệm",
+    "civicsNote": "Đài tưởng niệm Lincoln (Lincoln Memorial) ở Washington, D.C. tôn vinh Tổng thống Abraham Lincoln."
+  },
+  "man": {
+    "translation": "người đàn ông"
+  },
+  "mexican-american": {
+    "translation": "Mexico-Mỹ",
+    "civicsNote": "Chiến tranh Mexico-Mỹ (1846-1848) là cuộc chiến giữa Hoa Kỳ và Mexico."
+  },
+  "middle": {
+    "translation": "giữa, trung tâm",
+    "civicsNote": "'Middle Colonies' (Các thuộc địa Trung tâm) là một trong ba khu vực của 13 thuộc địa đầu tiên."
+  },
+  "military": {
+    "translation": "quân đội",
+    "civicsNote": "Tổng thống Hoa Kỳ là Tổng Tư lệnh (Commander in Chief) của quân đội."
+  },
+  "mint": {
+    "translation": "sở đúc tiền",
+    "civicsNote": "Sở đúc tiền Hoa Kỳ (U.S. Mint) là cơ quan chính phủ sản xuất tiền xu."
+  },
+  "mlk": {
+    "translation": "MLK",
+    "civicsNote": "MLK là chữ viết tắt của Martin Luther King, Jr., người đã đấu tranh cho quyền dân sự."
+  },
+  "modern": {
+    "translation": "hiện đại"
+  },
+  "mohawk": {
+    "translation": "người Mohawk",
+    "civicsNote": "Mohawk là một trong những câu trả lời được chấp nhận trong bài thi về các bộ lạc người da đỏ bản địa ở Hoa Kỳ."
+  },
+  "mohegan": {
+    "translation": "người Mohegan",
+    "civicsNote": "Mohegan là một trong những câu trả lời được chấp nhận trong bài thi về các bộ lạc người da đỏ bản địa ở Hoa Kỳ."
+  },
+  "moment": {
+    "translation": "khoảnh khắc"
+  },
+  "money": {
+    "translation": "tiền",
+    "civicsNote": "Một trong những quyền hạn của Quốc hội là in tiền (print money)."
+  },
+  "moon": {
+    "translation": "Mặt Trăng",
+    "civicsNote": "Liên quan đến câu hỏi nêu tên một người Mỹ đã lên Mặt Trăng (ví dụ: Neil Armstrong)."
+  },
+  "more": {
+    "translation": "nhiều hơn"
+  },
+  "most": {
+    "translation": "nhiều nhất"
+  },
+  "mott": {
+    "translation": "Mott",
+    "civicsNote": "Lucretia Mott là một câu trả lời được chấp nhận trong bài thi, được coi là một trong những nhà lãnh đạo của phong trào đấu tranh cho quyền bầu cử của phụ nữ."
+  },
+  "motto": {
+    "translation": "phương châm, khẩu hiệu",
+    "civicsNote": "'In God We Trust' (Chúng ta tin vào Chúa) là phương châm chính thức của Hoa Kỳ."
+  },
+  "movement": {
+    "translation": "phong trào",
+    "civicsNote": "Phong trào dân quyền và phong trào đấu tranh cho quyền bầu cử của phụ nữ là những phần quan trọng của lịch sử Hoa Kỳ."
+  },
+  "much": {
+    "translation": "nhiều"
+  },
+  "must": {
+    "translation": "phải",
+    "civicsNote": "Được dùng khi nói về các yêu cầu về tuổi và thời gian cư trú cần thiết để bỏ phiếu hoặc được bầu vào một chức vụ."
+  },
+  "name": {
+    "translation": "tên",
+    "civicsNote": "Nhiều câu hỏi trong bài thi quốc tịch yêu cầu bạn 'nêu tên' (name) một người, một địa danh, hoặc một văn bản."
+  },
+  "nasa": {
+    "translation": "NASA",
+    "civicsNote": "NASA là cơ quan vũ trụ của Hoa Kỳ đã đưa người Mỹ lên Mặt Trăng."
+  },
+  "nation": {
+    "translation": "quốc gia"
+  },
+  "national": {
+    "translation": "quốc gia, thuộc quốc gia"
+  },
+  "native": {
+    "translation": "bản địa, thổ dân",
+    "civicsNote": "'Native Americans' (Người Mỹ bản địa) chỉ những dân tộc đã sống ở châu Mỹ trước khi người châu Âu đến."
+  },
+  "natural": {
+    "translation": "tự nhiên",
+    "civicsNote": "'Natural-born citizen' (công dân bẩm sinh) nghĩa là người sinh ra ở Hoa Kỳ hoặc là con của công dân Hoa Kỳ, và đây là một điều kiện để trở thành Tổng thống."
+  },
+  "naturalize": {
+    "translation": "nhập quốc tịch",
+    "civicsNote": "Naturalization (nhập tịch) là quy trình pháp lý mà một người nhập cư trở thành công dân Hoa Kỳ — đây chính là chủ đề của ứng dụng này."
+  },
+  "navajo": {
+    "translation": "người Navajo",
+    "civicsNote": "Navajo là một trong những câu trả lời được chấp nhận trong bài thi về các bộ lạc người da đỏ bản địa ở Hoa Kỳ."
+  },
+  "near": {
+    "translation": "gần"
+  },
+  "need": {
+    "translation": "cần"
+  },
+  "never": {
+    "translation": "không bao giờ"
+  },
+  "new": {
+    "translation": "mới",
+    "civicsNote": "Thường xuất hiện trong tên các tiểu bang như New York và New Jersey, và khi nói về những công dân mới."
+  },
+  "newspaper": {
+    "translation": "tờ báo",
+    "civicsNote": "Tự do báo chí (bao gồm cả báo in) được Tu chính án thứ Nhất của Hiến pháp bảo vệ."
+  },
+  "next": {
+    "translation": "tiếp theo"
+  },
+  "nine": {
+    "translation": "chín (9)",
+    "civicsNote": "Tòa án Tối cao Hoa Kỳ có chín (9) thẩm phán."
+  },
+  "no": {
+    "translation": "không"
+  },
+  "nonvoting": {
+    "translation": "không có quyền biểu quyết",
+    "civicsNote": "Được dùng để chỉ các đại biểu không có quyền biểu quyết (nonvoting) của những khu vực như Washington, D.C. hoặc Puerto Rico trong Quốc hội Hoa Kỳ."
+  },
+  "north": {
+    "translation": "phía bắc, miền Bắc",
+    "civicsNote": "Trong bối cảnh Nội chiến Hoa Kỳ, 'the North' (miền Bắc) chỉ các tiểu bang thuộc Liên bang (Union), phản đối chế độ nô lệ."
+  },
+  "northern": {
+    "translation": "thuộc phía bắc"
+  },
+  "not": {
+    "translation": "không"
+  },
+  "now": {
+    "translation": "bây giờ",
+    "civicsNote": "Xuất hiện trong các câu hỏi yêu cầu thông tin hiện tại, ví dụ 'Ai là Tổng thống hiện nay?'."
+  },
+  "nuclear": {
+    "translation": "hạt nhân"
+  },
+  "number": {
+    "translation": "số, con số",
+    "civicsNote": "Thường xuất hiện trong các câu hỏi về số lượng Thượng nghị sĩ (100) hoặc Hạ nghị sĩ (435) trong Quốc hội Hoa Kỳ."
+  },
+  "oath": {
+    "translation": "lời tuyên thệ",
+    "civicsNote": "'Oath of Allegiance' (Lời tuyên thệ trung thành) là lời tuyên thệ trung thành với Hoa Kỳ mà các công dân mới thực hiện."
+  },
+  "obey": {
+    "translation": "tuân theo, tuân thủ"
+  },
+  "of": {
+    "translation": "của"
+  },
+  "office": {
+    "translation": "chức vụ",
+    "civicsNote": "'Run for office' nghĩa là ra ứng cử cho một chức vụ được bầu."
+  },
+  "official": {
+    "translation": "quan chức, viên chức",
+    "civicsNote": "'Give an elected official your opinion' (Nêu ý kiến với một viên chức được bầu) - đây là một phần trách nhiệm của công dân."
+  },
+  "officially": {
+    "translation": "một cách chính thức"
+  },
+  "often": {
+    "translation": "thường xuyên"
+  },
+  "oh": {
+    "translation": "ôi, ồ",
+    "civicsNote": "Xuất hiện trong câu đầu tiên của quốc ca Hoa Kỳ: 'Oh, say can you see...'."
+  },
+  "old": {
+    "translation": "già, cũ",
+    "civicsNote": "'18 years old' (18 tuổi) thường xuất hiện trong các câu hỏi liên quan đến tuổi được bỏ phiếu."
+  },
+  "on": {
+    "translation": "trên, vào"
+  },
+  "one": {
+    "translation": "một"
+  },
+  "oneida": {
+    "translation": "người Oneida",
+    "civicsNote": "Là một bộ lạc người da đỏ bản địa, thuộc Liên minh Iroquois; có thể xuất hiện trong bài thi quốc tịch."
+  },
+  "only": {
+    "translation": "chỉ"
+  },
+  "onondaga": {
+    "translation": "người Onondaga",
+    "civicsNote": "Là một bộ lạc người da đỏ bản địa, thuộc Liên minh Iroquois; có thể xuất hiện trong bài thi quốc tịch."
+  },
+  "open": {
+    "translation": "mở"
+  },
+  "opinion": {
+    "translation": "ý kiến, quan điểm"
+  },
+  "opportunity": {
+    "translation": "cơ hội",
+    "civicsNote": "'Economic opportunity' (cơ hội kinh tế) là một trong những lý do các thực dân đến Mỹ."
+  },
+  "oppose": {
+    "translation": "phản đối"
+  },
+  "or": {
+    "translation": "hoặc"
+  },
+  "order": {
+    "translation": "lệnh, sắc lệnh",
+    "civicsNote": "Thường được dùng trong bối cảnh 'executive orders' (sắc lệnh hành pháp) do Tổng thống ban hành."
+  },
+  "original": {
+    "translation": "ban đầu, nguyên bản",
+    "civicsNote": "'The original 13 states' (13 tiểu bang đầu tiên) chỉ 13 tiểu bang đầu tiên đã thành lập Hoa Kỳ."
+  },
+  "originally": {
+    "translation": "ban đầu, lúc đầu"
+  },
+  "other": {
+    "translation": "khác"
+  },
+  "ottoman": {
+    "translation": "thuộc Ottoman",
+    "civicsNote": "Đế quốc Ottoman là một trong các nước Phe Trung tâm (Central Powers) chống lại Hoa Kỳ trong Thế chiến I."
+  },
+  "our": {
+    "translation": "của chúng ta"
+  },
+  "out": {
+    "translation": "ra ngoài"
+  },
+  "outside": {
+    "translation": "bên ngoài"
+  },
+  "over": {
+    "translation": "trên, hơn"
+  },
+  "overnight": {
+    "translation": "qua đêm"
+  },
+  "overrule": {
+    "translation": "bác bỏ, lật ngược (quyết định)"
+  },
+  "own": {
+    "translation": "của riêng"
+  },
+  "paper": {
+    "translation": "giấy; bài báo",
+    "civicsNote": "'The Federalist Papers' là những bài luận được viết để ủng hộ việc thông qua Hiến pháp Hoa Kỳ."
+  },
+  "parent": {
+    "translation": "cha mẹ"
+  },
+  "part": {
+    "translation": "phần"
+  },
+  "participation": {
+    "translation": "sự tham gia",
+    "civicsNote": "'Civic participation' (sự tham gia của công dân) chỉ các nghĩa vụ công dân như đi bầu cử hoặc tham gia vào các nhóm cộng đồng."
+  },
+  "party": {
+    "translation": "đảng",
+    "civicsNote": "'Political party' (đảng chính trị) - hai đảng chính ở Hoa Kỳ là Đảng Dân chủ và Đảng Cộng hòa."
+  },
+  "passage": {
+    "translation": "sự thông qua",
+    "civicsNote": "'The passage of the Constitution' (việc thông qua Hiến pháp) chỉ quá trình một luật hoặc Hiến pháp được chính thức phê chuẩn."
+  },
+  "pass": {
+    "translation": "thông qua (luật)",
+    "civicsNote": "Quốc hội 'passes/passed' (thông qua) một dự luật để biến nó thành luật."
+  },
+  "pay": {
+    "translation": "trả tiền",
+    "civicsNote": "'Pay taxes' (nộp thuế) là một trách nhiệm của công dân Hoa Kỳ."
+  },
+  "peace": {
+    "translation": "hòa bình"
+  },
+  "pearl harbor": {
+    "translation": "Trân Châu Cảng",
+    "civicsNote": "Việc Nhật Bản tấn công Trân Châu Cảng năm 1941 đã đưa Hoa Kỳ vào Thế chiến II."
+  },
+  "pennsylvania": {
+    "translation": "Pennsylvania",
+    "civicsNote": "Một trong những chiếc máy bay bị không tặc trong vụ khủng bố 11/9 đã rơi xuống một cánh đồng ở Pennsylvania."
+  },
+  "pentagon": {
+    "translation": "Lầu Năm Góc",
+    "civicsNote": "Lầu Năm Góc đã bị tấn công vào ngày 11 tháng 9 năm 2001."
+  },
+  "people": {
+    "translation": "nhân dân, người dân",
+    "civicsNote": "Hiến pháp Hoa Kỳ bắt đầu bằng câu 'We the People' (Chúng ta, Nhân dân), thể hiện rằng quyền lực của chính phủ xuất phát từ nhân dân."
+  },
+  "period": {
+    "translation": "thời kỳ"
+  },
+  "persecution": {
+    "translation": "sự ngược đãi, bức hại",
+    "civicsNote": "Một trong những lý do người thuộc địa đến Mỹ là để trốn tránh sự ngược đãi (persecution) vì tôn giáo."
+  },
+  "persian": {
+    "translation": "Ba Tư",
+    "civicsNote": "'Persian Gulf War' (Chiến tranh Vùng Vịnh, 1991) là một trong những cuộc chiến Hoa Kỳ tham gia trong thế kỷ 20."
+  },
+  "person": {
+    "translation": "người"
+  },
+  "petition": {
+    "translation": "đơn thỉnh nguyện, kiến nghị",
+    "civicsNote": "Tu chính án thứ Nhất của Hiến pháp bảo vệ quyền đệ đơn thỉnh nguyện (petition) lên chính phủ."
+  },
+  "phrase": {
+    "translation": "cụm từ"
+  },
+  "pick": {
+    "translation": "chọn"
+  },
+  "piece": {
+    "translation": "miếng, phần"
+  },
+  "place": {
+    "translation": "nơi, địa điểm"
+  },
+  "plane": {
+    "translation": "máy bay",
+    "civicsNote": "Vào ngày 11 tháng 9 năm 2001, các máy bay bị không tặc đã đâm vào Tòa tháp Đôi và Lầu Năm Góc, và một chiếc đã rơi xuống Pennsylvania."
+  },
+  "player": {
+    "translation": "người chơi"
+  },
+  "pledge": {
+    "translation": "lời tuyên thệ, lời cam kết",
+    "civicsNote": "'The Pledge of Allegiance' (Lời tuyên thệ trung thành) là lời tuyên thệ trung thành với lá cờ Mỹ."
+  },
+  "pluribus": {
+    "translation": "nhiều",
+    "civicsNote": "'E Pluribus Unum' ('Hợp nhiều thành một') là phương châm quốc gia của Hoa Kỳ."
+  },
+  "plus": {
+    "translation": "cộng thêm, và"
+  },
+  "police": {
+    "translation": "cảnh sát"
+  },
+  "policy": {
+    "translation": "chính sách",
+    "civicsNote": "'Support or oppose a policy' (ủng hộ hay phản đối một chính sách) - việc công khai ủng hộ hoặc phản đối một chính sách của chính phủ là một phần của quyền công dân."
+  },
+  "political": {
+    "translation": "chính trị",
+    "civicsNote": "'Political liberty' (tự do chính trị) là một trong những lý do người thuộc địa đến Mỹ; 'political party' có nghĩa là đảng chính trị."
+  },
+  "politics": {
+    "translation": "chính trị"
+  },
+  "poll": {
+    "translation": "điểm bỏ phiếu; thăm dò ý kiến",
+    "civicsNote": "'Poll tax' (thuế bầu cử) là một loại thuế từng được yêu cầu để đi bầu, và đã bị cấm bởi Tu chính án thứ 24."
+  },
+  "popular": {
+    "translation": "được ưa chuộng, phổ biến",
+    "civicsNote": "'Popular sovereignty' (chủ quyền nhân dân) chỉ nguyên tắc rằng quyền lực cai trị xuất phát từ nhân dân."
+  },
+  "population": {
+    "translation": "dân số",
+    "civicsNote": "Dân số của một tiểu bang quyết định số lượng đại diện của tiểu bang đó trong Quốc hội."
+  },
+  "position": {
+    "translation": "vị trí, chức vụ",
+    "civicsNote": "Có thể chỉ quyền của Tổng thống trong việc bổ nhiệm người vào các vị trí (positions) quan trọng của chính phủ, như các thành viên nội các."
+  },
+  "postmaster": {
+    "translation": "trưởng bưu điện",
+    "civicsNote": "Benjamin Franklin là Tổng giám đốc Bưu điện (Postmaster General) đầu tiên của Hợp chúng quốc Hoa Kỳ."
+  },
+  "power": {
+    "translation": "quyền lực",
+    "civicsNote": "Hiến pháp phân chia một số quyền lực (powers) cho chính phủ liên bang và một số khác cho các tiểu bang."
+  },
+  "powerful": {
+    "translation": "quyền lực, mạnh mẽ"
+  },
+  "practice": {
+    "translation": "thực hành",
+    "civicsNote": "'Freedom to practice any religion' (tự do thực hành bất kỳ tôn giáo nào) chỉ quyền tự do theo và thực hành tôn giáo mà mình chọn."
+  },
+  "preserve": {
+    "translation": "bảo tồn, giữ gìn",
+    "civicsNote": "Xuất hiện trong lời tuyên thệ nhậm chức của Tổng thống: 'preserve, protect, and defend the Constitution' (bảo tồn, bảo vệ và gìn giữ Hiến pháp)."
+  },
+  "president": {
+    "translation": "tổng thống"
+  },
+  "process": {
+    "translation": "quy trình, thủ tục",
+    "civicsNote": "'Due process of law' (thủ tục tố tụng hợp pháp/quyền được xét xử công bằng) là một quyền được Hiến pháp bảo đảm."
+  },
+  "proclamation": {
+    "translation": "tuyên cáo, bản tuyên bố",
+    "civicsNote": "'Emancipation Proclamation' (Tuyên bố Giải phóng Nô lệ) là bản tuyên bố của Lincoln tuyên bố trả tự do cho những người nô lệ ở các bang Liên minh miền Nam."
+  },
+  "promise": {
+    "translation": "lời hứa, hứa",
+    "civicsNote": "Xuất hiện trong Lời tuyên thệ trung thành (Oath of Allegiance) với cụm từ 'I promise...' (Tôi xin hứa...)."
+  },
+  "property": {
+    "translation": "tài sản"
+  },
+  "protect": {
+    "translation": "bảo vệ",
+    "civicsNote": "Xuất hiện trong lời tuyên thệ nhậm chức của Tổng thống với cụm từ 'protect and defend the Constitution' (bảo vệ và gìn giữ Hiến pháp)."
+  },
+  "protection": {
+    "translation": "sự bảo vệ",
+    "civicsNote": "'Equal protection of the law' (sự bảo vệ bình đẳng theo pháp luật) được bảo đảm bởi Tu chính án thứ 14."
+  },
+  "provide": {
+    "translation": "cung cấp"
+  },
+  "public": {
+    "translation": "công cộng, công chúng"
+  },
+  "publius": {
+    "translation": "Publius",
+    "civicsNote": "Các tác giả của Federalist Papers (Hamilton, Madison, Jay) đã sử dụng bút danh chung 'Publius'."
+  },
+  "pueblo": {
+    "translation": "người Pueblo",
+    "civicsNote": "Đây là một trong những câu trả lời được chấp nhận cho câu hỏi 'Hãy nêu tên một bộ lạc người Mỹ bản địa'."
+  },
+  "purchase": {
+    "translation": "sự mua, cuộc mua bán",
+    "civicsNote": "\"Louisiana Purchase\" (Cuộc mua Louisiana) chỉ việc Hoa Kỳ mua một vùng đất rộng lớn từ Pháp vào năm 1803."
+  },
+  "purpose": {
+    "translation": "mục đích"
+  },
+  "pursuit": {
+    "translation": "sự theo đuổi",
+    "civicsNote": "\"Pursuit of Happiness\" (Quyền theo đuổi Hạnh phúc) là một phần của cụm từ nổi tiếng trong Tuyên ngôn Độc lập."
+  },
+  "push": {
+    "translation": "đẩy"
+  },
+  "quartering": {
+    "translation": "việc đóng quân (trong nhà dân)",
+    "civicsNote": "Tu chính án thứ 3 của Hiến pháp cấm chính phủ đóng quân trong nhà dân mà không có sự cho phép của chủ nhà."
+  },
+  "race": {
+    "translation": "chủng tộc",
+    "civicsNote": "Theo Tu chính án thứ 15, quyền bầu cử không thể bị từ chối vì lý do chủng tộc."
+  },
+  "reason": {
+    "translation": "lý do"
+  },
+  "recession": {
+    "translation": "suy thoái kinh tế"
+  },
+  "reconstruction": {
+    "translation": "thời kỳ tái thiết",
+    "civicsNote": "Chỉ thời kỳ sau Nội chiến (1865-1877) khi các tiểu bang miền Nam gia nhập lại Liên bang."
+  },
+  "register": {
+    "translation": "đăng ký",
+    "civicsNote": "Được dùng với nghĩa đăng ký vào danh sách cử tri để đi bầu (register to vote), hoặc việc nam giới 18 tuổi đăng ký nghĩa vụ quân sự (Selective Service)."
+  },
+  "religion": {
+    "translation": "tôn giáo",
+    "civicsNote": "Tu chính án thứ Nhất trao cho mọi người quyền tự do lựa chọn tôn giáo mình muốn hoặc không theo tôn giáo nào."
+  },
+  "remember": {
+    "translation": "nhớ"
+  },
+  "represent": {
+    "translation": "đại diện"
+  },
+  "representation": {
+    "translation": "sự đại diện",
+    "civicsNote": "\"No taxation without representation\" (không đại diện thì không đóng thuế) là một trong những lời phàn nàn quan trọng dẫn đến Cách mạng Mỹ."
+  },
+  "representative": {
+    "translation": "đại diện, hạ nghị sĩ",
+    "civicsNote": "Chỉ một thành viên của Hạ viện (House of Representatives) trong Quốc hội Hoa Kỳ; số lượng đại biểu của mỗi tiểu bang phụ thuộc vào dân số, và nhiệm kỳ là 2 năm."
+  },
+  "republic": {
+    "translation": "nước cộng hòa"
+  },
+  "required": {
+    "translation": "được yêu cầu, bắt buộc"
+  },
+  "resident": {
+    "translation": "người cư trú, thường trú nhân"
+  },
+  "resolves": {
+    "translation": "quyết định, giải quyết"
+  },
+  "retirement": {
+    "translation": "sự nghỉ hưu"
+  },
+  "reviews": {
+    "translation": "xem xét lại, rà soát",
+    "civicsNote": "Có thể được dùng trong bối cảnh Tòa án Tối cao xem xét (judicial review) tính hợp hiến của các luật."
+  },
+  "revolution": {
+    "translation": "cuộc cách mạng",
+    "civicsNote": "\"American Revolution\" (Cách mạng Mỹ/Chiến tranh Giành Độc lập) chỉ cuộc chiến mà Hoa Kỳ giành được độc lập từ nước Anh."
+  },
+  "rhode": {
+    "translation": "Rhode"
+  },
+  "right": {
+    "translation": "quyền",
+    "civicsNote": "\"Bill of Rights\" (Tuyên ngôn Nhân quyền) là 10 tu chính án đầu tiên của Hiến pháp, bảo đảm các quyền cơ bản."
+  },
+  "rival": {
+    "translation": "đối thủ",
+    "civicsNote": "Có thể dùng để chỉ các quốc gia là đối thủ của Hoa Kỳ trong thời kỳ Chiến tranh Lạnh (ví dụ như Nga)."
+  },
+  "river": {
+    "translation": "sông"
+  },
+  "roaring": {
+    "translation": "náo nhiệt, gầm vang",
+    "civicsNote": "\"Roaring Twenties\" (Những năm Hai mươi Náo nhiệt) chỉ thời kỳ tăng trưởng kinh tế và giải trí sôi động vào những năm 1920."
+  },
+  "roosevelt": {
+    "translation": "Roosevelt"
+  },
+  "rule": {
+    "translation": "quy tắc, luật lệ",
+    "civicsNote": "\"Rule of law\" (pháp quyền/sự thượng tôn pháp luật) là nguyên tắc rằng mọi người, kể cả các nhà lãnh đạo, đều phải tuân theo pháp luật."
+  },
+  "run": {
+    "translation": "ứng cử",
+    "civicsNote": "Trong cụm từ \"run for office\", từ này không có nghĩa là 'chạy' mà có nghĩa là ra ứng cử trong một cuộc bầu cử."
+  },
+  "russia": {
+    "translation": "Nga"
+  },
+  "safety": {
+    "translation": "sự an toàn"
+  },
+  "said": {
+    "translation": "đã nói"
+  },
+  "same": {
+    "translation": "giống nhau"
+  },
+  "saratoga": {
+    "translation": "Saratoga",
+    "civicsNote": "Trận Saratoga được biết đến là một trong những bước ngoặt của Cách mạng Mỹ."
+  },
+  "saved": {
+    "translation": "đã cứu"
+  },
+  "say": {
+    "translation": "nói"
+  },
+  "school": {
+    "translation": "trường học"
+  },
+  "seats": {
+    "translation": "ghế (trong Quốc hội)"
+  },
+  "secret": {
+    "translation": "bí mật",
+    "civicsNote": "\"Secret ballot\" (bỏ phiếu kín) là nguyên tắc rằng không ai khác biết được cử tri đã bầu cho ai."
+  },
+  "secretary": {
+    "translation": "bộ trưởng",
+    "civicsNote": "Ở Hoa Kỳ, \"Secretary\" có nghĩa là người đứng đầu một bộ (ví dụ: Secretary of State = Bộ trưởng Ngoại giao), khác với nghĩa 'thư ký' thông thường."
+  },
+  "security": {
+    "translation": "an ninh, bảo đảm",
+    "civicsNote": "\"Social Security\" (An sinh Xã hội) là chương trình trợ cấp của chính phủ dành cho người nghỉ hưu, người khuyết tật hoặc người thất nghiệp."
+  },
+  "see": {
+    "translation": "nhìn thấy"
+  },
+  "seek": {
+    "translation": "tìm kiếm"
+  },
+  "select": {
+    "translation": "chọn, lựa chọn",
+    "civicsNote": "\"Selective Service System\" (Hệ thống Nghĩa vụ Tuyển chọn) là hệ thống liên bang yêu cầu nam giới 18 tuổi đăng ký nghĩa vụ quân sự."
+  },
+  "self-government": {
+    "translation": "tự quản, chính quyền tự trị"
+  },
+  "seminole": {
+    "translation": "người Seminole",
+    "civicsNote": "Đây là một trong những câu trả lời được chấp nhận cho câu hỏi 'Hãy nêu tên một bộ lạc người Mỹ bản địa'."
+  },
+  "senate": {
+    "translation": "Thượng viện",
+    "civicsNote": "Là một trong hai viện của Quốc hội Hoa Kỳ; gồm 100 thành viên, mỗi tiểu bang có 2 thượng nghị sĩ."
+  },
+  "senator": {
+    "translation": "thượng nghị sĩ",
+    "civicsNote": "Mỗi tiểu bang bầu ra 2 thượng nghị sĩ, với nhiệm kỳ 6 năm."
+  },
+  "send": {
+    "translation": "gửi"
+  },
+  "seneca": {
+    "translation": "người Seneca",
+    "civicsNote": "Đây là một trong những câu trả lời được chấp nhận cho câu hỏi 'Hãy nêu tên một bộ lạc người Mỹ bản địa'."
+  },
+  "separate": {
+    "translation": "tách biệt, phân chia",
+    "civicsNote": "\"Separation of powers\" (sự phân chia quyền lực) là nguyên tắc chính phủ được chia thành ba nhánh riêng biệt: lập pháp, hành pháp và tư pháp."
+  },
+  "september": {
+    "translation": "tháng Chín"
+  },
+  "serve": {
+    "translation": "phục vụ"
+  },
+  "service": {
+    "translation": "sự phục vụ, dịch vụ"
+  },
+  "set": {
+    "translation": "đặt, thiết lập"
+  },
+  "several": {
+    "translation": "vài, một số"
+  },
+  "share": {
+    "translation": "chia sẻ",
+    "civicsNote": "\"Share power\" (chia sẻ quyền lực) chỉ việc chính phủ liên bang và chính quyền tiểu bang cùng chia sẻ quyền lực trong hệ thống liên bang."
+  },
+  "sharpsburg": {
+    "translation": "Sharpsburg"
+  },
+  "shawnee": {
+    "translation": "người Shawnee",
+    "civicsNote": "Đây là một trong những câu trả lời được chấp nhận cho câu hỏi 'Hãy nêu tên một bộ lạc người Mỹ bản địa'."
+  },
+  "sherman's": {
+    "translation": "của Sherman",
+    "civicsNote": "\"Sherman's March\" (Cuộc Hành quân của Sherman) là chiến dịch quân sự của Tướng Sherman xuyên qua miền Nam trong thời kỳ Nội chiến."
+  },
+  "ship": {
+    "translation": "tàu"
+  },
+  "short": {
+    "translation": "ngắn"
+  },
+  "should": {
+    "translation": "nên"
+  },
+  "show": {
+    "translation": "cho xem, thể hiện"
+  },
+  "sign": {
+    "translation": "ký",
+    "civicsNote": "Chỉ việc Tổng thống ký (sign) một dự luật để biến nó thành luật."
+  },
+  "simple": {
+    "translation": "đơn giản"
+  },
+  "sing": {
+    "translation": "hát"
+  },
+  "sioux": {
+    "translation": "người Sioux",
+    "civicsNote": "Đây là một trong những câu trả lời được chấp nhận cho câu hỏi 'Hãy nêu tên một bộ lạc người Mỹ bản địa'."
+  },
+  "sit": {
+    "translation": "ngồi",
+    "civicsNote": "\"Sit on the Supreme Court\" nghĩa là một thẩm phán làm việc với vai trò thành viên của Tòa án Tối cao."
+  },
+  "six": {
+    "translation": "sáu"
+  },
+  "size": {
+    "translation": "kích thước"
+  },
+  "skin": {
+    "translation": "da",
+    "civicsNote": "\"Skin color\" (màu da) xuất hiện trong bối cảnh quyền bầu cử không thể bị ngăn cản vì chủng tộc hay màu da (Tu chính án thứ 15)."
+  },
+  "skyscraper": {
+    "translation": "nhà chọc trời"
+  },
+  "slavery": {
+    "translation": "chế độ nô lệ"
+  },
+  "slave": {
+    "translation": "nô lệ"
+  },
+  "small": {
+    "translation": "nhỏ"
+  },
+  "so": {
+    "translation": "vì vậy, nên"
+  },
+  "social": {
+    "translation": "xã hội",
+    "civicsNote": "Thường được dùng trong bối cảnh chương trình \"Social Security\" (An sinh Xã hội)."
+  },
+  "sojourner": {
+    "translation": "Sojourner"
+  },
+  "sold": {
+    "translation": "đã bán"
+  },
+  "soldier": {
+    "translation": "người lính, binh sĩ"
+  },
+  "some": {
+    "translation": "một số"
+  },
+  "someone": {
+    "translation": "ai đó"
+  },
+  "something": {
+    "translation": "điều gì đó"
+  },
+  "song": {
+    "translation": "bài hát",
+    "civicsNote": "Quốc ca của Hoa Kỳ, 'The Star-Spangled Banner', là một bài hát."
+  },
+  "south": {
+    "translation": "miền Nam, phía Nam",
+    "civicsNote": "Trong lịch sử Hoa Kỳ, 'the South' (miền Nam) chỉ các tiểu bang miền Nam hợp thành Liên minh miền Nam trước Nội chiến."
+  },
+  "southern": {
+    "translation": "thuộc miền Nam",
+    "civicsNote": "Trong thời kỳ Nội chiến, chỉ các tiểu bang miền Nam (Liên minh miền Nam)."
+  },
+  "sovereignty": {
+    "translation": "chủ quyền",
+    "civicsNote": "Là một khái niệm liên quan đến quyền tự quản của các tiểu bang và chủ nghĩa liên bang (federalism)."
+  },
+  "soviet": {
+    "translation": "Xô Viết",
+    "civicsNote": "Liên Xô là đối thủ chính của Hoa Kỳ trong thời kỳ Chiến tranh Lạnh."
+  },
+  "spanish-american": {
+    "translation": "Tây Ban Nha-Mỹ",
+    "civicsNote": "Chỉ 'Chiến tranh Mỹ-Tây Ban Nha' diễn ra giữa Hoa Kỳ và Tây Ban Nha năm 1898."
+  },
+  "speak": {
+    "translation": "nói"
+  },
+  "speaker": {
+    "translation": "người phát biểu, chủ tọa",
+    "civicsNote": "Chủ tịch Hạ viện (Speaker of the House) điều hành Hạ viện và nằm trong thứ tự kế vị Tổng thống."
+  },
+  "special": {
+    "translation": "đặc biệt",
+    "civicsNote": "Cũng được dùng trong bối cảnh 'cuộc bầu cử đặc biệt' (special election) để lấp một ghế trống trong Quốc hội."
+  },
+  "speech": {
+    "translation": "bài phát biểu, lời nói",
+    "civicsNote": "'Freedom of speech' (tự do ngôn luận) là một quyền được bảo vệ bởi Tu chính án thứ Nhất của Hiến pháp."
+  },
+  "spend": {
+    "translation": "chi tiêu"
+  },
+  "sport": {
+    "translation": "thể thao"
+  },
+  "spread": {
+    "translation": "lan rộng",
+    "civicsNote": "Được dùng để nói về sự lan rộng của chủ nghĩa cộng sản (the spread of communism) trong thời kỳ Chiến tranh Lạnh."
+  },
+  "stamp": {
+    "translation": "tem, con dấu",
+    "civicsNote": "Chỉ đạo luật thuế của Anh mà những người thuộc địa đã phản đối, 'Stamp Act' (Đạo luật Tem thuế)."
+  },
+  "stand": {
+    "translation": "đại diện cho, biểu trưng cho",
+    "civicsNote": "Được dùng trong các câu hỏi như 'What do the stars/stripes stand for?' (Các ngôi sao/sọc tượng trưng cho điều gì?) với nghĩa 'đại diện cho'."
+  },
+  "stanton": {
+    "translation": "Stanton",
+    "civicsNote": "Chỉ Elizabeth Cady Stanton, một trong những người đi đầu trong phong trào quyền phụ nữ."
+  },
+  "star": {
+    "translation": "ngôi sao",
+    "civicsNote": "50 ngôi sao trên lá cờ Hoa Kỳ đại diện cho 50 tiểu bang."
+  },
+  "star-spangled": {
+    "translation": "đầy sao",
+    "civicsNote": "'The Star-Spangled Banner' là tên quốc ca của Hoa Kỳ; được dùng như một danh từ riêng, không theo nghĩa đen của từ."
+  },
+  "start": {
+    "translation": "bắt đầu"
+  },
+  "state": {
+    "translation": "tiểu bang",
+    "civicsNote": "Trong bài kiểm tra kiến thức công dân, 'state' thường chỉ một trong 50 tiểu bang hợp thành nước Mỹ."
+  },
+  "statement": {
+    "translation": "tuyên bố, phát biểu"
+  },
+  "statue": {
+    "translation": "tượng",
+    "civicsNote": "Chỉ Tượng Nữ thần Tự do (Statue of Liberty)."
+  },
+  "statute": {
+    "translation": "đạo luật, điều luật"
+  },
+  "stay": {
+    "translation": "ở lại"
+  },
+  "still": {
+    "translation": "vẫn còn"
+  },
+  "stock": {
+    "translation": "cổ phiếu",
+    "civicsNote": "Chỉ sự sụp đổ của thị trường chứng khoán (stock market) năm 1929, sự kiện đã dẫn đến cuộc Đại Suy thoái (Great Depression)."
+  },
+  "stone": {
+    "translation": "đá",
+    "civicsNote": "Cũng có thể chỉ Lucy Stone, một trong những người đi đầu trong phong trào quyền phụ nữ."
+  },
+  "stop": {
+    "translation": "dừng lại"
+  },
+  "storm": {
+    "translation": "bão"
+  },
+  "stripe": {
+    "translation": "sọc",
+    "civicsNote": "13 sọc trên lá cờ Hoa Kỳ đại diện cho 13 thuộc địa đầu tiên."
+  },
+  "strong": {
+    "translation": "mạnh"
+  },
+  "subject": {
+    "translation": "thần dân",
+    "civicsNote": "Trước khi độc lập, những người thuộc địa Mỹ không phải là công dân mà là 'thần dân' (subjects) của Vua nước Anh."
+  },
+  "sugar": {
+    "translation": "đường",
+    "civicsNote": "Chỉ đạo luật thuế của Anh khiến các thuộc địa bất bình, 'Sugar Act' (Đạo luật Đường)."
+  },
+  "sumter": {
+    "translation": "Sumter",
+    "civicsNote": "Chỉ Đồn Sumter (Fort Sumter), nơi diễn ra cuộc giao tranh đầu tiên của Nội chiến."
+  },
+  "support": {
+    "translation": "hỗ trợ, ủng hộ",
+    "civicsNote": "Được dùng trong Lời tuyên thệ nhập tịch với cụm từ 'support and defend the Constitution' (ủng hộ và bảo vệ Hiến pháp)."
+  },
+  "supreme": {
+    "translation": "tối cao",
+    "civicsNote": "Supreme Court (Tòa án Tối cao) là tòa án cao nhất của Hoa Kỳ."
+  },
+  "sure": {
+    "translation": "chắc chắn"
+  },
+  "surrender": {
+    "translation": "đầu hàng",
+    "civicsNote": "Quân Anh đã đầu hàng tại Cuộc phong tỏa Yorktown năm 1781, sự kiện kết thúc Chiến tranh Giành Độc lập."
+  },
+  "susan": {
+    "translation": "Susan",
+    "civicsNote": "Chỉ Susan B. Anthony, một trong những người đi đầu trong cuộc đấu tranh giành quyền bầu cử cho phụ nữ."
+  },
+  "system": {
+    "translation": "hệ thống",
+    "civicsNote": "Chỉ các khái niệm như 'hệ thống kinh tế' (chủ nghĩa tư bản) hoặc 'hệ thống kiểm soát và cân bằng' (checks and balances) của chính phủ."
+  },
+  "take": {
+    "translation": "lấy, mang theo"
+  },
+  "tax": {
+    "translation": "thuế",
+    "civicsNote": "Việc thu thuế từ các thuộc địa mà không có đại diện là một trong những nguyên nhân quan trọng dẫn đến Cách mạng Mỹ."
+  },
+  "taxation": {
+    "translation": "việc thu thuế",
+    "civicsNote": "'No taxation without representation' (không đại diện thì không đóng thuế) là một khẩu hiệu phản đối nổi tiếng của các thuộc địa trước Cách mạng."
+  },
+  "tea": {
+    "translation": "trà",
+    "civicsNote": "Chỉ Tiệc trà Boston (Boston Tea Party), cuộc phản đối nổi tiếng của các thuộc địa chống lại thuế trà của Anh."
+  },
+  "team": {
+    "translation": "nhóm, đội"
+  },
+  "term": {
+    "translation": "nhiệm kỳ",
+    "civicsNote": "Ví dụ, nhiệm kỳ của một Thượng nghị sĩ là sáu năm, còn nhiệm kỳ của Tổng thống là bốn năm."
+  },
+  "territory": {
+    "translation": "lãnh thổ",
+    "civicsNote": "Ví dụ về các lãnh thổ (territories) của Hoa Kỳ là Puerto Rico, Guam và Samoa thuộc Mỹ."
+  },
+  "terror": {
+    "translation": "sự khủng bố, kinh hoàng"
+  },
+  "terrorist": {
+    "translation": "kẻ khủng bố",
+    "civicsNote": "Đề cập đến vụ tấn công nước Mỹ ngày 11 tháng 9 năm 2001: 'Terrorists attacked the United States' (Những kẻ khủng bố đã tấn công nước Mỹ)."
+  },
+  "teton": {
+    "translation": "Teton",
+    "civicsNote": "Đây là một trong những câu trả lời được chấp nhận cho câu hỏi 'Hãy kể tên một bộ lạc người Mỹ bản địa ở Hoa Kỳ' (Teton Sioux)."
+  },
+  "than": {
+    "translation": "hơn"
+  },
+  "thank": {
+    "translation": "cảm ơn"
+  },
+  "thanksgiving": {
+    "translation": "Lễ Tạ ơn",
+    "civicsNote": "Lễ Tạ ơn (Thanksgiving) là một trong những ngày lễ liên bang chính thức của Hoa Kỳ."
+  },
+  "that": {
+    "translation": "đó, cái đó"
+  },
+  "the": {
+    "translation": "mạo từ xác định"
+  },
+  "their": {
+    "translation": "của họ"
+  },
+  "them": {
+    "translation": "họ, chúng nó"
+  },
+  "themselves": {
+    "translation": "chính họ, tự họ"
+  },
+  "then": {
+    "translation": "rồi, sau đó"
+  },
+  "there": {
+    "translation": "ở đó, tại đó"
+  },
+  "thereof": {
+    "translation": "của điều đó",
+    "civicsNote": "Xuất hiện trong Tu chính án thứ Nhất: '...or prohibiting the free exercise thereof' (...hoặc ngăn cấm việc thực hành tự do tôn giáo đó)."
+  },
+  "these": {
+    "translation": "những cái này"
+  },
+  "they": {
+    "translation": "họ"
+  },
+  "thing": {
+    "translation": "vật, thứ"
+  },
+  "think": {
+    "translation": "nghĩ, suy nghĩ"
+  },
+  "third": {
+    "translation": "thứ ba"
+  },
+  "thirty-five": {
+    "translation": "ba mươi lăm (35)",
+    "civicsNote": "Để trở thành Tổng thống Hoa Kỳ, một người phải ít nhất 35 tuổi."
+  },
+  "this": {
+    "translation": "cái này, này"
+  },
+  "thomas": {
+    "translation": "Thomas",
+    "civicsNote": "Thường dùng để chỉ Thomas Jefferson, người viết Tuyên ngôn Độc lập và là Tổng thống thứ 3 của Hoa Kỳ."
+  },
+  "those": {
+    "translation": "những cái đó"
+  },
+  "three": {
+    "translation": "ba (3)",
+    "civicsNote": "Chính phủ Hoa Kỳ có ba nhánh: lập pháp, hành pháp và tư pháp."
+  },
+  "through": {
+    "translation": "qua, xuyên qua"
+  },
+  "time": {
+    "translation": "thời gian"
+  },
+  "to": {
+    "translation": "đến, tới"
+  },
+  "together": {
+    "translation": "cùng nhau"
+  },
+  "too": {
+    "translation": "cũng, quá"
+  },
+  "top": {
+    "translation": "đỉnh, phần trên cùng"
+  },
+  "torch": {
+    "translation": "ngọn đuốc",
+    "civicsNote": "Tượng Nữ thần Tự do cầm một ngọn đuốc biểu trưng cho tự do."
+  },
+  "total": {
+    "translation": "tổng, tổng số"
+  },
+  "townshend": {
+    "translation": "Townshend",
+    "civicsNote": "Luật Townshend (Townshend Acts) là các luật của Anh áp thuế hàng hóa lên các thuộc địa Mỹ."
+  },
+  "trade": {
+    "translation": "thương mại, mậu dịch",
+    "civicsNote": "Quốc hội có quyền điều chỉnh hoạt động thương mại với nước ngoài và giữa các tiểu bang."
+  },
+  "transportation": {
+    "translation": "giao thông vận tải",
+    "civicsNote": "Bộ Giao thông Vận tải (Department of Transportation) là một bộ trong Nội các của Tổng thống."
+  },
+  "treasury": {
+    "translation": "ngân khố, Bộ Ngân khố",
+    "civicsNote": "Bộ Ngân khố Hoa Kỳ (Department of the Treasury) là một trong các bộ cấp nội các."
+  },
+  "treaty": {
+    "translation": "hiệp ước",
+    "civicsNote": "Thường được dùng trong ngữ cảnh các hiệp ước hòa bình chấm dứt chiến tranh hoặc các hiệp ước với các bộ lạc người bản địa."
+  },
+  "treatment": {
+    "translation": "sự đối xử, sự điều trị"
+  },
+  "trenton": {
+    "translation": "Trenton",
+    "civicsNote": "Đây là nơi diễn ra Trận Trenton nổi tiếng của Washington trong Chiến tranh Cách mạng."
+  },
+  "tribe": {
+    "translation": "bộ lạc",
+    "civicsNote": "Đề cập đến các bộ lạc người Mỹ bản địa (như Cherokee, Navajo, Sioux, v.v.); trong bài thi có câu hỏi yêu cầu kể tên một bộ lạc."
+  },
+  "trouble": {
+    "translation": "rắc rối, phiền phức"
+  },
+  "truth": {
+    "translation": "sự thật"
+  },
+  "tubman": {
+    "translation": "Tubman",
+    "civicsNote": "Là một người Mỹ nổi tiếng đã giúp những người bị nô lệ hóa giành được tự do thông qua Đường sắt Ngầm (Underground Railroad)."
+  },
+  "turn": {
+    "translation": "quay, xoay, chuyển hướng"
+  },
+  "tuscarora": {
+    "translation": "Tuscarora",
+    "civicsNote": "Là một trong những câu trả lời được chấp nhận cho câu hỏi 'Hãy kể tên một bộ lạc người Mỹ bản địa'."
+  },
+  "twenty-seven": {
+    "translation": "hai mươi bảy (27)",
+    "civicsNote": "Đề cập đến Tu chính án thứ 27 của Hiến pháp (liên quan đến lương của các thành viên Quốc hội)."
+  },
+  "two": {
+    "translation": "hai (2)",
+    "civicsNote": "Xuất hiện trong nhiều câu trả lời của bài thi quốc tịch, chẳng hạn như mỗi tiểu bang có hai Thượng nghị sĩ, hoặc một phần ba nhiệm kỳ sáu năm của các Thượng nghị sĩ được bầu lại theo từng kỳ."
+  },
+  "u.s.": {
+    "translation": "Hoa Kỳ, Mỹ (viết tắt của \"United States\")",
+    "civicsNote": "Là chữ viết tắt của 'United States' được sử dụng liên tục trong bài thi."
+  },
+  "under": {
+    "translation": "dưới; theo (luật, quy định)"
+  },
+  "understand": {
+    "translation": "hiểu",
+    "civicsNote": "Là một phần của yêu cầu tiếng Anh để nhập tịch: đọc, viết, nói và hiểu tiếng Anh cơ bản."
+  },
+  "unfair": {
+    "translation": "không công bằng, bất công",
+    "civicsNote": "Miêu tả các loại thuế và luật bất công đã khiến những người thuộc địa nổi dậy chống lại nước Anh."
+  },
+  "union": {
+    "translation": "liên minh, sự hợp nhất; Liên bang (the Union)",
+    "civicsNote": "Đề cập đến các tiểu bang miền Bắc ('the Union') trong Nội chiến, hoặc nói chung là Hợp chúng quốc Hoa Kỳ."
+  },
+  "united": {
+    "translation": "hợp nhất, thống nhất",
+    "civicsNote": "Là một phần trong tên quốc gia 'United States of America' (Hợp chúng quốc Hoa Kỳ)."
+  },
+  "university": {
+    "translation": "trường đại học"
+  },
+  "until": {
+    "translation": "cho đến khi"
+  },
+  "unum": {
+    "translation": "một (từ Latin)",
+    "civicsNote": "Là một phần của cụm từ 'E Pluribus Unum' ('Từ nhiều thành một'), được in trên tiền của Hoa Kỳ."
+  },
+  "up": {
+    "translation": "lên, lên trên"
+  },
+  "urban": {
+    "translation": "thành thị, đô thị"
+  },
+  "usa": {
+    "translation": "Hoa Kỳ, Mỹ (viết tắt của \"United States of America\")",
+    "civicsNote": "Là chữ viết tắt của tên đầy đủ của quốc gia này."
+  },
+  "use": {
+    "translation": "sử dụng, dùng"
+  },
+  "ussr": {
+    "translation": "Liên Xô",
+    "civicsNote": "Là đối thủ của Hoa Kỳ trong thời kỳ Chiến tranh Lạnh; xuất hiện trong các câu hỏi như 'Đối thủ chính của Hoa Kỳ trong Chiến tranh Lạnh là ai?'"
+  },
+  "usually": {
+    "translation": "thường, thường thường"
+  },
+  "valley": {
+    "translation": "thung lũng",
+    "civicsNote": "Đề cập đến Valley Forge, nơi quân đội của Washington đóng quân qua mùa đông trong Chiến tranh Cách mạng."
+  },
+  "vary": {
+    "translation": "khác nhau, thay đổi",
+    "civicsNote": "Cụm từ 'Answers will vary' (câu trả lời sẽ khác nhau) được dùng cho những câu hỏi mà đáp án thay đổi theo tiểu bang/khu vực của mỗi người."
+  },
+  "very": {
+    "translation": "rất"
+  },
+  "veteran": {
+    "translation": "cựu chiến binh",
+    "civicsNote": "Liên quan đến Ngày Cựu chiến binh (Veterans Day), ngày tôn vinh những người đã phục vụ trong quân đội Hoa Kỳ."
+  },
+  "veto": {
+    "translation": "quyền phủ quyết, phủ quyết",
+    "civicsNote": "Là quyền của Tổng thống bác bỏ một dự luật đã được Quốc hội thông qua."
+  },
+  "vice": {
+    "translation": "phó (chức danh)",
+    "civicsNote": "Được dùng trong danh xưng 'Vice President' (Phó Tổng thống)."
+  },
+  "vice-president": {
+    "translation": "Phó Tổng thống",
+    "civicsNote": "Là người đứng đầu tiên trong thứ tự kế vị Tổng thống (line of succession); được nhắc đến trong danh sách Nội các."
+  },
+  "vicksburg": {
+    "translation": "Vicksburg",
+    "civicsNote": "Là nơi diễn ra một trận chiến quan trọng trong Nội chiến (Cuộc vây hãm Vicksburg)."
+  },
+  "vietnam": {
+    "translation": "Việt Nam",
+    "civicsNote": "Liên quan đến Chiến tranh Việt Nam, một trong những cuộc chiến Hoa Kỳ tham gia trong thế kỷ 20."
+  },
+  "virginia": {
+    "translation": "Virginia",
+    "civicsNote": "Là một trong 13 thuộc địa ban đầu; Jamestown và Yorktown đều thuộc tiểu bang này."
+  },
+  "visit": {
+    "translation": "thăm, ghé thăm"
+  },
+  "vote": {
+    "translation": "bầu cử, bỏ phiếu",
+    "civicsNote": "Là một chủ đề trọng tâm của bài thi quốc tịch: quyền bầu cử, tuổi được bầu cử (18) và các tu chính án hiến pháp liên quan đến quyền bầu cử."
+  },
+  "vs": {
+    "translation": "đối, so với"
+  },
+  "want": {
+    "translation": "muốn"
+  },
+  "war": {
+    "translation": "chiến tranh",
+    "civicsNote": "Trong bài thi quốc tịch, các câu hỏi đề cập đến những cuộc chiến Hoa Kỳ tham gia trong thế kỷ 20 (Thế chiến I và II, Chiến tranh Triều Tiên, Chiến tranh Việt Nam, Chiến tranh Vùng Vịnh), cũng như Chiến tranh Cách mạng và Nội chiến."
+  },
+  "washington": {
+    "translation": "Washington",
+    "civicsNote": "Tùy theo ngữ cảnh, có thể mang ba nghĩa khác nhau: vị Tổng thống đầu tiên, thủ đô của đất nước, hoặc một tiểu bang."
+  },
+  "way": {
+    "translation": "cách, phương thức"
+  },
+  "we": {
+    "translation": "chúng tôi, chúng ta",
+    "civicsNote": "Liên quan đến câu mở đầu nổi tiếng của Hiến pháp 'We the People' (Chúng ta, Nhân dân)."
+  },
+  "welcome": {
+    "translation": "chào đón, hoan nghênh",
+    "civicsNote": "Xuất hiện trong ngữ cảnh lý tưởng của Hoa Kỳ về việc 'chào đón' người nhập cư."
+  },
+  "what": {
+    "translation": "cái gì, gì"
+  },
+  "when": {
+    "translation": "khi nào, khi"
+  },
+  "where": {
+    "translation": "ở đâu, nơi đâu"
+  },
+  "which": {
+    "translation": "cái nào, mà"
+  },
+  "while": {
+    "translation": "trong khi"
+  },
+  "who": {
+    "translation": "ai"
+  },
+  "whole": {
+    "translation": "toàn bộ, cả"
+  },
+  "why": {
+    "translation": "tại sao, vì sao"
+  },
+  "will": {
+    "translation": "sẽ"
+  },
+  "win": {
+    "translation": "thắng, giành thắng lợi",
+    "civicsNote": "Có thể xuất hiện trong ngữ cảnh các thuộc địa giành được độc lập từ nước Anh."
+  },
+  "with": {
+    "translation": "với, cùng với"
+  },
+  "without": {
+    "translation": "không có",
+    "civicsNote": "Khẩu hiệu 'No taxation without representation' (Không đại diện thì không đóng thuế) là một trong những nguyên nhân quan trọng của Chiến tranh Cách mạng."
+  },
+  "woman": {
+    "translation": "phụ nữ",
+    "civicsNote": "Liên quan đến việc Tu chính án thứ 19 trao quyền bầu cử cho phụ nữ (women's suffrage)."
+  },
+  "word": {
+    "translation": "từ, từ ngữ"
+  },
+  "work": {
+    "translation": "làm việc, công việc",
+    "civicsNote": "Cũng xuất hiện trong ngữ cảnh cách các cơ quan chính phủ 'hoạt động' cùng nhau (hệ thống kiểm soát và cân bằng - checks and balances)."
+  },
+  "world": {
+    "translation": "thế giới",
+    "civicsNote": "Là một phần của cụm từ 'World War' (Thế chiến/Chiến tranh Thế giới) (WWI, WWII)."
+  },
+  "worry": {
+    "translation": "lo lắng"
+  },
+  "worship": {
+    "translation": "thờ phượng, thờ cúng",
+    "civicsNote": "'Freedom of worship' (tự do thờ phượng/tự do tôn giáo) là một trong những quyền được ghi trong Tu chính án thứ Nhất của Hiến pháp."
+  },
+  "would": {
+    "translation": "sẽ (dùng để nói về điều có thể xảy ra hoặc lịch sự)"
+  },
+  "wright": {
+    "translation": "Wright",
+    "civicsNote": "Là một câu trả lời ví dụ trong các câu hỏi về những nhà phát minh Mỹ nổi tiếng."
+  },
+  "write": {
+    "translation": "viết",
+    "civicsNote": "Là một phần của yêu cầu tiếng Anh 'đọc, viết, nói và hiểu'; cũng xuất hiện trong ngữ cảnh các Nhà Lập quốc (Framers) là những người 'viết' ra Hiến pháp."
+  },
+  "wwi": {
+    "translation": "Chiến tranh Thế giới thứ nhất (Thế chiến I)",
+    "civicsNote": "Là một trong những cuộc chiến Hoa Kỳ tham gia trong thế kỷ 20; Tổng thống thời đó là Woodrow Wilson."
+  },
+  "wwii": {
+    "translation": "Chiến tranh Thế giới thứ hai (Thế chiến II)",
+    "civicsNote": "Là một trong những cuộc chiến Hoa Kỳ tham gia trong thế kỷ 20; Tổng thống thời đó là Franklin D. Roosevelt."
+  },
+  "year": {
+    "translation": "năm",
+    "civicsNote": "Được dùng trong các câu trả lời như nhiệm kỳ 6 năm của Thượng nghị sĩ, 2 năm của Hạ nghị sĩ, và 4 năm của Tổng thống."
+  },
+  "york": {
+    "translation": "New York",
+    "civicsNote": "Đề cập đến New York, một trong 13 thuộc địa/tiểu bang ban đầu."
+  },
+  "yorktown": {
+    "translation": "Yorktown",
+    "civicsNote": "Là nơi diễn ra trận chiến lớn cuối cùng của Chiến tranh Cách mạng vào năm 1781."
+  },
+  "you": {
+    "translation": "bạn, anh/chị"
+  },
+  "your": {
+    "translation": "của bạn"
+  },
+  "zoning": {
+    "translation": "quy hoạch, phân vùng (sử dụng đất)",
+    "civicsNote": "Xuất hiện trong bài thi quốc tịch như một ví dụ về quyền hạn của chính quyền tiểu bang/địa phương (không phải chính quyền liên bang)."
+  },
+  "define": {
+    "translation": "định nghĩa, xác định",
+    "civicsNote": "Hiến pháp 'định nghĩa' quyền lực và các nhánh của chính phủ (defines powers of government)."
+  },
+  "enforce": {
+    "translation": "thi hành, thực thi",
+    "civicsNote": "Là một quyền hạn của Tổng thống: bảo đảm việc thi hành pháp luật (enforces laws)."
+  },
+  "print": {
+    "translation": "in, in ấn",
+    "civicsNote": "Chỉ chính phủ liên bang mới có quyền in tiền giấy (print paper money)."
+  },
+  "abjure": {
+    "translation": "từ bỏ (trang trọng), thoái bỏ",
+    "civicsNote": "Xuất hiện trong Lời tuyên thệ trung thành (Oath of Allegiance) trên mẫu đơn N-400."
+  },
+  "advocate": {
+    "translation": "ủng hộ, vận động, biện hộ"
+  },
+  "alimony": {
+    "translation": "tiền cấp dưỡng (sau ly hôn)"
+  },
+  "amnesty": {
+    "translation": "lệnh ân xá, đại xá"
+  },
+  "annul": {
+    "translation": "hủy bỏ (hôn nhân), tuyên hủy"
+  },
+  "assassination": {
+    "translation": "vụ ám sát"
+  },
+  "assault": {
+    "translation": "hành hung, tấn công"
+  },
+  "biographic": {
+    "translation": "thuộc về tiểu sử, lý lịch cá nhân"
+  },
+  "certify": {
+    "translation": "chứng nhận, xác nhận"
+  },
+  "clemency": {
+    "translation": "sự khoan hồng, sự giảm án"
+  },
+  "communist": {
+    "translation": "cộng sản, thuộc chủ nghĩa cộng sản"
+  },
+  "conscript": {
+    "translation": "bắt đi lính, cưỡng bức nhập ngũ"
+  },
+  "conspire": {
+    "translation": "âm mưu, thông đồng"
+  },
+  "convict": {
+    "translation": "kết án, tuyên có tội"
+  },
+  "court-martial": {
+    "translation": "tòa án quân sự"
+  },
+  "dependent": {
+    "translation": "người phụ thuộc"
+  },
+  "deport": {
+    "translation": "trục xuất"
+  },
+  "desert": {
+    "translation": "đào ngũ"
+  },
+  "detain": {
+    "translation": "giam giữ, tạm giữ"
+  },
+  "discharge": {
+    "translation": "xuất ngũ, giải ngũ"
+  },
+  "dishonorable": {
+    "translation": "không danh dự, đáng hổ thẹn"
+  },
+  "disposition": {
+    "translation": "kết quả xử lý, phán quyết (vụ án)"
+  },
+  "eligible": {
+    "translation": "đủ điều kiện, đủ tư cách"
+  },
+  "ethnicity": {
+    "translation": "dân tộc, sắc tộc"
+  },
+  "exempt": {
+    "translation": "miễn, được miễn"
+  },
+  "explosive": {
+    "translation": "chất nổ, thuốc nổ"
+  },
+  "facility": {
+    "translation": "cơ sở (vật chất)"
+  },
+  "fee": {
+    "translation": "lệ phí, phí"
+  },
+  "fluent": {
+    "translation": "thông thạo, lưu loát"
+  },
+  "gamble": {
+    "translation": "đánh bạc, cờ bạc"
+  },
+  "genocide": {
+    "translation": "diệt chủng, tội ác diệt chủng"
+  },
+  "guerrilla": {
+    "translation": "du kích, quân du kích"
+  },
+  "hereditary": {
+    "translation": "di truyền, theo huyết thống"
+  },
+  "hijack": {
+    "translation": "cướp (máy bay, phương tiện)"
+  },
+  "honorable": {
+    "translation": "danh dự, đáng kính trọng"
+  },
+  "hostility": {
+    "translation": "hành động thù địch, chiến sự"
+  },
+  "incite": {
+    "translation": "kích động, xúi giục"
+  },
+  "interpreter": {
+    "translation": "người phiên dịch, thông dịch viên"
+  },
+  "kidnap": {
+    "translation": "bắt cóc"
+  },
+  "legal": {
+    "translation": "hợp pháp"
+  },
+  "marital": {
+    "translation": "thuộc về hôn nhân"
+  },
+  "misrepresentation": {
+    "translation": "sự khai man, trình bày sai sự thật"
+  },
+  "narcotic": {
+    "translation": "chất gây nghiện, ma túy"
+  },
+  "naturalization": {
+    "translation": "sự nhập tịch, nhập quốc tịch"
+  },
+  "nickname": {
+    "translation": "biệt danh, tên gọi khác"
+  },
+  "nobility": {
+    "translation": "tầng lớp quý tộc"
+  },
+  "noncombatant": {
+    "translation": "người không tham chiến"
+  },
+  "overthrow": {
+    "translation": "lật đổ"
+  },
+  "paramilitary": {
+    "translation": "bán quân sự"
+  },
+  "pardon": {
+    "translation": "sự ân xá, khoan hồng"
+  },
+  "parole": {
+    "translation": "tạm tha, phóng thích có điều kiện"
+  },
+  "perjury": {
+    "translation": "tội khai man (dưới lời thề)"
+  },
+  "physical": {
+    "translation": "thuộc về thể chất, vật lý"
+  },
+  "probation": {
+    "translation": "quản chế, thời gian thử thách"
+  },
+  "prostitution": {
+    "translation": "mại dâm"
+  },
+  "provision": {
+    "translation": "điều khoản, quy định"
+  },
+  "recruit": {
+    "translation": "tuyển mộ, chiêu mộ"
+  },
+  "reduction": {
+    "translation": "sự giảm, mức giảm"
+  },
+  "renounce": {
+    "translation": "từ bỏ (quyền, quốc tịch, lòng trung thành)",
+    "civicsNote": "Xuất hiện trong Lời tuyên thệ trung thành (Oath of Allegiance) trên mẫu đơn N-400."
+  },
+  "rescission": {
+    "translation": "sự hủy bỏ, bãi bỏ"
+  },
+  "residence": {
+    "translation": "nơi cư trú, chỗ ở"
+  },
+  "sabotage": {
+    "translation": "hành vi phá hoại"
+  },
+  "sentence": {
+    "translation": "bản án, hình phạt"
+  },
+  "smuggle": {
+    "translation": "buôn lậu, vận chuyển lậu"
+  },
+  "status": {
+    "translation": "tình trạng, tư cách (pháp lý)"
+  },
+  "substance": {
+    "translation": "chất, hóa chất"
+  },
+  "suspend": {
+    "translation": "hoãn lại, đình chỉ tạm thời"
+  },
+  "terminate": {
+    "translation": "chấm dứt, kết thúc"
+  },
+  "title": {
+    "translation": "danh hiệu, tước hiệu"
+  },
+  "torture": {
+    "translation": "tra tấn"
+  },
+  "totalitarian": {
+    "translation": "toàn trị"
+  },
+  "traffic": {
+    "translation": "buôn lậu, buôn bán (bất hợp pháp)"
+  },
+  "unconstitutional": {
+    "translation": "vi hiến, trái hiến pháp"
+  },
+  "vigilante": {
+    "translation": "kẻ tự xử, người tự ý thi hành công lý"
+  },
+  "weapon": {
+    "translation": "vũ khí"
+  }
+}
